@@ -1,6 +1,5 @@
 import React from "react";
 import { TextInput } from "flowbite-react";
-import { GiDropEarrings } from "react-icons/gi";
 import { useNavigate } from "react-router-dom";
 import { LiaStoreAltSolid } from "react-icons/lia";
 import { CiUser,CiHeart,CiLogin   } from "react-icons/ci";

@@ -6,7 +6,6 @@ import Gold from '../UI/Page/User/Gold/Gold'
 import Diamond from '../UI/Page/User/Diamond/Diamond'
 import Errings from '../UI/Page/User/Errings/Errings'
 import Rings from '../UI/Page/User/Rings/Rings'
-import Mia from '../UI/Page/User/Mia/Mia'
 import Collection from '../UI/Page/User/Collections/Collection'
 import Wedding from '../UI/Page/User/Wedding/Wedding'
 import Gifting from '../UI/Page/User/Gifting/Gifting'
@@ -19,7 +18,7 @@ import ProfilePage from '../UI/Page/User/ProfilePage/ProfilePage'
 import WishList from '../UI/Page/User/WishList/WishList'
 import Login from '../UI/Page/User/Login/Login'
 import Register from '../UI/Page/User/Register/Register'
-import CartPage from '../UI/Page/User/CartPage'
+import CartPage from '../UI/Page/User/Cart/CartPage'
 
 
 export default function Router() {
@@ -34,7 +33,6 @@ export default function Router() {
                 <Route path="/diamond" element={<Diamond/>}/>
                 <Route path="/errings" element={<Errings/>}/>
                 <Route path="/rings" element={<Rings/>}/>
-                <Route path="/mia" element={<Mia/>}/>
                 <Route path="/collection" element={<Collection/>}/>
                 <Route path="/wedding" element={<Wedding/>}/>
                 <Route path="/gifting" element={<Gifting/>}/>

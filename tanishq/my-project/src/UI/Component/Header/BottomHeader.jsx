@@ -24,9 +24,6 @@ export default function BottomHeader() {
             RINGS
             </NavLink>
             <NavLink to={"Gold"}>
-            MIA
-            </NavLink>
-            <NavLink to={"Gold"}>
             COLLECTIONS
             </NavLink>
             <NavLink to={"Gold"}>
