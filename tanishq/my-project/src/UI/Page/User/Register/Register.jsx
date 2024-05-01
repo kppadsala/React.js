@@ -1,49 +1,108 @@
-import { TextInput } from 'flowbite-react'
-import React from 'react'
-import { useNavigate } from 'react-router-dom';
+import { TextInput } from "flowbite-react";
+import React, { useState } from "react";
+import { Controller, useForm } from "react-hook-form";
+import { useNavigate } from "react-router-dom";
+import { registerApi } from "../../../Api/registerApi";
+import { toast } from "react-toastify";
 
 export default function Register() {
-  const navigate=useNavigate();
+  const navigate = useNavigate();
+let [registerData,setRegisterData]=useState()
 
+  const registerHandler =async () => {
+      let { data, error } = await registerApi({ email: "", password: "" });
+    if (error) toast.error("somthing went wrong");
+    else {
+      setRegisterData(data.data);
+  }
+}
+  const { control, handleSubmit } = useForm({
+    defaultValues: {
+      name: "",
+      email: "",
+      password: "",
+      conformpassword: "",
+      contact: "",
+    },
+  });
   return (
-    <div className='m-8 flex justify-center items-center '>
-        <div className='border-[1px] border-gray-300 w-[50%] m-8 flex justify-start p-8 flex-col gap-4'>
-<p className='text-2xl'>Register</p>
-<p className='text-gray-400'>If you have an account with us, please log in.</p>
-<span className='flex items-center justify-between'>
-    <label >NAME *</label>
-    <p className='text-gray-400'>* Required Fields</p>
-</span>
-    <TextInput  type="text" required />
+    <div className="m-8 flex justify-center items-center ">
+      <div className="border-[1px] border-gray-300 w-[50%] m-8 ">
+        <p className="text-2xl m-5">Register</p>
+        <p className="text-gray-400 m-5">
+          If you have an account with us, please log in.
+        </p>
 
-    <label >E-MAIL *</label>
-    <TextInput  type="text" required />
+        <form
+          onSubmit={handleSubmit(registerHandler)}
+          className="flex justify-start px-8  flex-col gap-5"
+        >
+          <span>
+            <span className="flex items-center justify-between ">
+              <label>NAME *</label>
+              <p className="text-gray-400">* Required Fields</p>
+            </span>
+          </span>
+          <Controller
+            name="name"
+            control={control}
+            render={({ field }) => <TextInput type="text" {...field} />}
+          />
 
-    <label>PASSWORD *</label>
-    <TextInput  type="password" required />
-    
-    <label>CONFORM PASSWORD *</label>
-    <TextInput  type="password" required />
+          <span>
+            <label>E-MAIL *</label>
+            <Controller
+              name="email"
+              control={control}
+              render={({ field }) => <TextInput type="email" {...field} />}
+            />
+          </span>
+          <span>
+            <label>PASSWORD *</label>
+            <Controller
+              name="password"
+              control={control}
+              render={({ field }) => <TextInput type="password" {...field} />}
+            />
+          </span>
 
-    <label>MOBAIL NUMBER *</label>
-    <TextInput  type="number" required />
+          <span>
+            <label>CONFORM PASSWORD *</label>
+            <Controller
+              name="conformpassword"
+              control={control}
+              render={({ field }) => <TextInput type="password" {...field} />}
+            />
+          </span>
+          <span>
+            <label>MOBAIL NUMBER *</label>
+            <Controller
+              name="contact"
+              control={control}
+              render={({ field }) => <TextInput type="number" {...field} />}
+            />
+          </span>
 
-    
-
-    <span className='flex items-center justify-between'>
-    <button
-                className="w-25 text-[#D11E33] border-[2px] border-[#D11E33] px-7 py-2 rounded-md font-medium bold hover:bg-[#D11E33] hover:text-white hover:ease-in duration-500"
-              >
-                REGISTER
-              </button>
-    <p className='text-[#d11e33cb]'>Lost your password?</p>
-</span> 
-<span className='flex gap-2'>
-<p className='text-gray-400'>You Have Already Account? </p>
-<p className='text-[#D11E33] cursor-pointer hover:border-b-2 border-[#D11E33]' 
-onClick={() => navigate("/Login")}>Login</p>
-</span>
-        </div>
+          <span className="flex items-center justify-between">
+            <button
+              type="submit"
+              className="w-25 text-[#D11E33] border-[2px] border-[#D11E33] px-7 py-2 rounded-md font-medium bold hover:bg-[#D11E33] hover:text-white hover:ease-in duration-500"
+            >
+              REGISTER
+            </button>
+            <p className="text-[#d11e33cb]">Lost your password?</p>
+          </span>
+        </form>
+        <span className="flex  items-center">
+          <p className="text-gray-400 m-5">You Have Already Account ? </p>
+          <p
+            className="text-[#D11E33] cursor-pointer hover:border-b-2 border-[#D11E33] "
+            onClick={() => navigate("/Login")}
+          >
+            Login
+          </p>
+        </span>
+      </div>
     </div>
-  )
+  );
 }

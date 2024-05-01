@@ -33,7 +33,9 @@ export default function TopHeader(modal,toggle) {
           </span>
           <div className="flex  py-3 mt-3 gap-4 justify-center">
           
-            <span className=" px-2  flex flex-col justify-center items-center hover:scale-110 transiti transition duration-700 ease-in-out">
+            <span className=" px-2  flex flex-col justify-center items-center hover:scale-110 transiti transition duration-700 ease-in-out" 
+              onClick={() => navigate("/Store")}
+            >
               <LiaStoreAltSolid  className="text-2xl text-[#832729]"/>
               <p className="text-xm text-[#832729]">STORE</p>
             </span>

@@ -10,7 +10,7 @@ export default function CategoryCard() {
         {CategoryData?.map((item,index) => (
           <span key={index}>
             <Card
-              className="max-w-sm hover:shadow-lg hover:shadow-[#E1CCD1] rounded-0 shadow-none "
+              className="max-w-sm hover:shadow-lg hover:shadow-[#E1CCD1] rounded-0 shadow-none  "
               imgSrc={item.img}
             >
               <span className="flex  flex-col justify-center gap-3">

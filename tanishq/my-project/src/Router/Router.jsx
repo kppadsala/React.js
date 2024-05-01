@@ -19,6 +19,7 @@ import WishList from '../UI/Page/User/WishList/WishList'
 import Login from '../UI/Page/User/Login/Login'
 import Register from '../UI/Page/User/Register/Register'
 import CartPage from '../UI/Page/User/Cart/CartPage'
+import Store from '../UI/Page/User/Store/Store'
 
 
 export default function Router() {
@@ -43,6 +44,7 @@ export default function Router() {
                 <Route path="/login" element={<Login/>}/>
                 <Route path="/register" element={<Register/>}/>
                 <Route path="/cartpage" element={<CartPage/>}/>
+                <Route path="/store" element={<Store/>}/>
 
             <Route path="*" element={<PageNotFound />} />
 
