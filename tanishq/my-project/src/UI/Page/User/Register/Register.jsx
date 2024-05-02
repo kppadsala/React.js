@@ -9,8 +9,9 @@ export default function Register() {
   const navigate = useNavigate();
 let [registerData,setRegisterData]=useState()
 
-  const registerHandler =async () => {
-      let { data, error } = await registerApi({ email: "", password: "" });
+  const registerHandler =async (regdata) => {
+      console.log("🚀 ~ file: Register.jsx:13 ~ registerHandler ~ regdata:", regdata)
+      let { data, error } = await registerApi(regdata);
     if (error) toast.error("somthing went wrong");
     else {
       setRegisterData(data.data);
