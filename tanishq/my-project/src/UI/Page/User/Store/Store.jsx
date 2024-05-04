@@ -1,5 +1,5 @@
-import { Table } from 'flowbite-react';
 import React, { useEffect, useState } from 'react'
+import { Table } from 'flowbite-react';
 import { FaRegEdit } from "react-icons/fa";
 import { RiDeleteBin5Line } from "react-icons/ri";
 import { fetchAllProduct } from '../../../Api/Product';

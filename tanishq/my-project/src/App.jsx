@@ -7,10 +7,8 @@ function App() {
 
   return (
     <>
-      <div>
         <Router/>
         <ToastContainer />
-    </div>
     </>
   )
 }

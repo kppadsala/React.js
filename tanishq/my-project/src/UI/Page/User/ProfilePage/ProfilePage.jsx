@@ -1,31 +1,32 @@
-// ProfilePage.js
-import React, { useState } from "react";
-import { EditDetailsModal } from "../../../Modal/EditDetailsModal";
+import React from "react";
+import { useCookies } from "react-cookie";
+import { useNavigate } from "react-router-dom";
 
 export default function ProfilePage() {
-  const [modal, setModal] = useState(false);
+  const [cookies, setCookie, removeCookie] = useCookies([]);
+  const navigate = useNavigate();
 
-  const toggle = () => {
-    console.log("Toggling modal:", !modal);
-    setModal(!modal);
+  const LogoutHandler = () => {
+    removeCookie("token");
+    removeCookie("user");
+    navigate("/");
   };
-
-  console.log("Modal state:", modal);
 
   return (
     <div>
       <div className="w-[100%] h-[100%] px-20 py-10">
-        <EditDetailsModal isOpen={modal} toggle={toggle} />
         <div>
-          <p className="text-5xl font-medium bg-[#83272954] px-8 py-2 text-[#000000a5]">Account OverView</p>
+          <p className="text-5xl font-medium bg-[#83272954] px-8 py-2 text-[#000000a5]">
+            Account OverView
+          </p>
           <div className="border-[1px] border-black py-6 m-8 ">
             <span className="flex justify-between items-center bg-[#83272954] px-6 py-4">
               <p className="text-3xl text-[#000000a5]">Personal Information</p>
               <button
+                onClick={LogoutHandler}
                 className="w-25 bg-slate-100 border-[1px] border-[#832729] px-5 py-2 rounded-md text-lg font-medium bold hover:bg-[#832729] hover:text-white hover:ease-in duration-500"
-                onClick={toggle}
               >
-                Edit Details
+              LOGOUT
               </button>
             </span>
             <div className="w-[100%] m-6">

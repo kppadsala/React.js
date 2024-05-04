@@ -4,16 +4,12 @@ import { useNavigate } from "react-router-dom";
 import { LiaStoreAltSolid } from "react-icons/lia";
 import { CiUser, CiHeart, CiLogin } from "react-icons/ci";
 import { PiShoppingCartThin } from "react-icons/pi";
-// import { getCookie } from "../../Cookie/GetCookie";
 import { useCookies } from "react-cookie";
 
 export default function TopHeader(modal, toggle) {
-  const [{ usrin, token }, setCookies] = useCookies(["usrin", "token"]);
-  console.log(
-    "🚀 ~ file: TopHeader.jsx:12 ~ =======================>>>>>>>>>>>> ~ cookies:",
-    usrin
-  );
   const navigate = useNavigate();
+  const [cookies, setCookie] = useCookies([]);
+  // console.log(" cookiesdata ========>", cookies);
 
   return (
     <div>
@@ -58,8 +54,7 @@ export default function TopHeader(modal, toggle) {
               />
               <p className="text-xm text-[#832729]">CART</p>
             </span>
-
-            {!token ? (
+            {!cookies.token ? (
               <span
                 className=" px-2  flex flex-col justify-center items-center hover:scale-110 transiti transition duration-700 ease-in-out "
                 onClick={() => navigate("/Login")}

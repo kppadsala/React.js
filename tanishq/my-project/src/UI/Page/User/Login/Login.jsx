@@ -1,4 +1,4 @@
-import React, {  useState } from "react";
+import React from "react";
 import { Controller, useForm } from "react-hook-form";
 
 import { TextInput } from "flowbite-react";
@@ -9,8 +9,7 @@ import { useCookies } from "react-cookie";
 
 export default function Login() {
   const navigate = useNavigate();
-  const [cookie,  SetCookie] = useCookies();
-  let [loginData, setLoginData] = useState();
+  const [cookies, setCookie ] = useCookies(["token"]);
 
   const { control, handleSubmit } = useForm({
     defaultValues: {
@@ -20,22 +19,16 @@ export default function Login() {
   });
   const loginHandler = async (cred) => {
     let { data, error } = await loginApi(cred);
-    console.log(
-      "🚀 ~ file: Login.jsx:23 ~ =================== ~ data:",
-      data.data
-    );
+  
     if (error) {
       toast.error("Something went wrong");
     } else {
-      setLoginData(data.data);
-      SetCookie("usrin", data.data);
-      SetCookie("token", data.token);
-      setLoginData();
+      setCookie("token",data.token);
+      setCookie("user",data.data);
+   navigate("/")
     }
   };
-  // const logout = () => {
-  //   removeCookie("usrin");
-  // };
+ 
   return (
     <div className="m-8 flex justify-center items-center ">
       <div className="border-[1px] border-gray-300 w-[50%] m-8 py-6">
@@ -68,7 +61,7 @@ export default function Login() {
             <button
               type="submit"
               className="w-25 text-[#D11E33] border-[2px] border-[#D11E33] px-7 py-2 rounded-md font-medium bold hover:bg-[#D11E33] hover:text-white hover:ease-in duration-500"
-              onClick={() => navigate("/")}
+              // onClick={() => navigate("/")}
               
             >
               LOGIN

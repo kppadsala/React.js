@@ -2,18 +2,22 @@ import { TextInput } from "flowbite-react";
 import React, { useState } from "react";
 import { Controller, useForm } from "react-hook-form";
 import { useNavigate } from "react-router-dom";
-import { registerApi } from "../../../Api/registerApi";
+import { registerApi } from "../../../Api/auth";
 import { toast } from "react-toastify";
+import { useCookies } from "react-cookie";
 
 export default function Register() {
   const navigate = useNavigate();
-let [registerData,setRegisterData]=useState()
+let [registerData,setRegisterData]=useState();
+const [cookies, setCookie ] = useCookies(["token"]);
 
   const registerHandler =async (regdata) => {
       console.log("🚀 ~ file: Register.jsx:13 ~ registerHandler ~ regdata:", regdata)
       let { data, error } = await registerApi(regdata);
     if (error) toast.error("somthing went wrong");
     else {
+      setCookie("token",data.token);
+      setCookie("user",data.data);
       setRegisterData(data.data);
   }
 }

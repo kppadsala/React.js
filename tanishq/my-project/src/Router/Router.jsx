@@ -20,12 +20,15 @@ import Login from '../UI/Page/User/Login/Login'
 import Register from '../UI/Page/User/Register/Register'
 import CartPage from '../UI/Page/User/Cart/CartPage'
 import Store from '../UI/Page/User/Store/Store'
+import { CookiesProvider } from 'react-cookie'
+import { AdminProtected, LoginProtected, ProtectRouter } from './ProtectRouter'
 
 
 export default function Router() {
   return (
     <div>
             <BrowserRouter>
+            <CookiesProvider defaultSetOptions={{ path: '/' }}>
             <Header/>       
             <Routes>
                 <Route path="/" element={<Home/>}/>
@@ -39,12 +42,12 @@ export default function Router() {
                 <Route path="/gifting" element={<Gifting/>}/>
                 <Route path="/goldenHarvest" element={<GoldenHarvest/>}/>
                 <Route path="/more" element={<More/>}/>
-                <Route path="/profilePage" element={<ProfilePage/>}/>
-                <Route path="/wishList" element={<WishList/>}/>
-                <Route path="/login" element={<Login/>}/>
-                <Route path="/register" element={<Register/>}/>
+                <Route path="/profilePage" element={<ProtectRouter Component={<ProfilePage/>}/>}/>
+                <Route path="/wishList" element={<ProtectRouter Component={<WishList/>}/>}/>
+                <Route path="/login" element={<LoginProtected Component={<Login/>}/>}/>
+                <Route path="/register" element={<LoginProtected Component={<Register/>}/>}/>
                 <Route path="/cartpage" element={<CartPage/>}/>
-                <Route path="/store" element={<Store/>}/>
+                <Route path="/store" element={<AdminProtected Component={<Store/>}/>}/>
 
             <Route path="*" element={<PageNotFound />} />
 
@@ -52,6 +55,7 @@ export default function Router() {
 
             </Routes>
             <Footer/>
+            </CookiesProvider>
             </BrowserRouter>
     </div>
   )
