@@ -1,15 +1,15 @@
-import React, { useEffect, useState } from 'react'
-import { Table } from 'flowbite-react';
+import React, { useEffect, useState } from "react";
+import { Table } from "flowbite-react";
 import { FaRegEdit } from "react-icons/fa";
 import { RiDeleteBin5Line } from "react-icons/ri";
-import { fetchAllProduct } from '../../../Api/Product';
-import { toast } from 'react-toastify';
-
+import { deleteProduct, fetchAllProduct } from "../../../Api/Product";
+import { toast } from "react-toastify";
 
 export default function Store() {
-    let [productdata, setProductData] = useState([]);
+  let [productdata, setProductData] = useState([]);
 
-   
+  let sizeData = ["41", "42", "43", "44", "45"];
+
   useEffect(() => {
     (async function getData() {
       let { data, error } = await fetchAllProduct();
@@ -19,79 +19,104 @@ export default function Store() {
       }
     })();
   });
+
+  const updateHandler = ()=>{
+   
+  }
+
+  const deleteHandler = async (productId) => {
+    
+      const { error, data } = await deleteProduct(productId);
+      if (error) {
+        toast.error("Failed to delete product");
+      } else {
+        
+        setProductData(prevProductData =>
+          prevProductData.filter(product => product.id !== productId)
+        );
+        toast.success("Product deleted successfully");
+      }
+   
+  };
+  
+
   return (
     <div>
-         <div className="mx-3 my-5  px-8 ">
-          <Table responsive >
-            <thead >
-              <tr className="text-2xl  bg-[#d6b8b9e2]">
-                <th>Sr.No</th>
-                <th>Image</th>
-                <th>Brand </th>
-                <th>Gender</th>
-                <th>Price</th>
-                <th>category</th>
-                <th>Color</th>
-                <th>Size</th>
-                <th>Action</th>
-              </tr>
-            </thead>
-            <tbody>
-              {productdata?.map?.((e, i) => {
-                return (
-                  <tr key={i} >
-                    <td scope="row" className='px-[2rem]'>{i + 1}</td>
-                    <td>
-                      <img src={e.thumbnail} />
-                    </td>
-                    <td>{e.brand}</td>
-                    <td>{e.gender}</td>
-                    <td>{e.price}</td>
-                   
-                    <td className="">
-                      <div className="flex   gap-2 text-uppercase ">
-                        <th>{e.category[0]}</th>
-                        <th>{e.category[1]}</th>
-                        <th>{e.category[2]}</th>
-                      </div>
-                    </td>
-                    <td className="">
-                      <div className="flex   gap-2 text-uppercase ">
-                        <th>{e.color[0]}</th>
-                        <th>{e.color[1]}</th>
-                        <th>{e.color[2]}</th>
-                      </div>
-                    </td>
-  
-                    <td className="">
-                      <div className="flex    gap-2 ">
-                        <th className="border-[1px] p-1 border-black ">
-                          {e.size[0]}
-                        </th>
-                        <th className="border-[1px] p-1 border-black ">
-                          {e.size[1]}
-                        </th>
-                        <th className="border-[1px] p-1 border-black ">
-                          {e.size[2]}
-                        </th>
-                      </div>
-                    </td>
-  
-                    <td>
-                      <div className="flex gap-3">
-                        <FaRegEdit className="text-success h5 "/>
-                        <RiDeleteBin5Line
-                          className="text-danger h4"
-                          
-                        />
-                      </div>
-                    </td>
-                  </tr>
-                );
-              })}
-            </tbody>
-          </Table>
-        </div>
+      <div className="mx-3 my-9  px-8 ">
+        <Table responsive>
+          <thead>
+            <tr className="text-2xl text-black bg-[#d6b8b9e2] ">
+              <th>Sr.No</th>
+              <th>Image</th>
+              <th>Brand </th>
+              <th>Gender</th>
+              <th>Price</th>
+              <th>category</th>
+              <th>Color</th>
+              <th>Size</th>
+              <th>Action</th>
+            </tr>
+          </thead>
+          <tbody className="text-lg ">
+            {productdata?.map?.((e, i) => {
+              return (
+                <tr key={i} className="border-b-[2px] ">
+                  <td scope="row" className="px-[2rem] py-4">
+                    {i + 1}
+                  </td>
+                  <td>
+                    <img src={e.thumbnail} />
+                  </td>
+                  <td className="capitalize">{e.brand}</td>
+                  <td className="capitalize">{e.gender}</td>
+                  <td>{e.price}</td>
+
+                  <td className="">
+                    <div className="grid  text-uppercase">
+                      {e.category.map((category, i) => (
+                        <th key={i} className="capitalize">{category}</th>
+                      ))}
+                    </div>
+                  </td>
+                  <td className="">
+                    <div className="flex gap-2 text-uppercase">
+                      {e.color.map((color, i) => (
+                        <th key={i} className="capitalize">{color}</th>
+                      ))}
+                    </div>
+                  </td>
+
+                  <td className="">
+                    <div className="flex gap-2">
+                      {sizeData.map((size, i) => (
+                        <span
+                          key={i}
+                          className={`border-[1px] p-1 font-semibold text-black bg-gray-300  ${
+                            e.size.includes(size) ? " text-gray-500" : ""
+                          }`}
+                        >
+                          {size}
+                        </span>
+                      ))}
+                    </div>
+                  </td>
+
+                  <td>
+                    <div className="flex gap-3">
+                      <FaRegEdit className="text-blue-700 text-2xl "
+                       onClick={()=>updateHandler()}/>
+                      <RiDeleteBin5Line className="text-danger text-2xl text-red-600" 
+                       onClick={()=>deleteHandler(e.id)}/>
+                    </div>
+                  </td>
+                </tr>
+              );
+            })}
+          </tbody>
+        </Table>
+      </div>
     </div>
-  )
+  );
 }
+
+

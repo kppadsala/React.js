@@ -10,6 +10,7 @@ export default function ProfilePage() {
     removeCookie("token");
     removeCookie("user");
     navigate("/");
+    window.scrollTo(0, 0);
   };
 
   return (

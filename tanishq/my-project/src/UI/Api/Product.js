@@ -8,3 +8,14 @@ export const fetchAllProduct = async () => {
     return { error: error, data: null };
   }
 };
+
+export const deleteProduct = async (id) => {
+  try {
+    let response = await APIinstance.delete("/product/delete" + id);
+    console.log("response:", response)
+    return { error: null, data: response.data };
+  } catch (error) {
+    console.log("error:", error)
+    return { error: error, data: null };
+  }
+};
