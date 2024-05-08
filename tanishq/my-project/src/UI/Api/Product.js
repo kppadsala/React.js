@@ -19,3 +19,15 @@ export const deleteProduct = async (id) => {
     return { error: error, data: null };
   }
 };
+export const deleteProduct = async (id, token) => {
+  try {
+    let response = await APIinstance.delete(`/product/delete/${id}`, null, {
+      headers: {
+        authorization: "bearer " + token,
+      },
+    });
+    return { error: null, data: response.data };
+  } catch (error) {
+    return { error: error, data: null };
+  }
+};

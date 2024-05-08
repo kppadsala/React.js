@@ -19,9 +19,9 @@ import WishList from '../UI/Page/User/WishList/WishList'
 import Login from '../UI/Page/User/Login/Login'
 import Register from '../UI/Page/User/Register/Register'
 import CartPage from '../UI/Page/User/Cart/CartPage'
-import Store from '../UI/Page/User/Store/Store'
 import { CookiesProvider } from 'react-cookie'
 import { AdminProtected, LoginProtected, ProtectRouter } from './ProtectRouter'
+import ProductCom from '../UI/Page/Admin/Product/ProductCom'
 
 
 export default function Router() {
@@ -47,7 +47,7 @@ export default function Router() {
                 <Route path="/login" element={<LoginProtected Component={<Login/>}/>}/>
                 <Route path="/register" element={<LoginProtected Component={<Register/>}/>}/>
                 <Route path="/cartpage" element={<CartPage/>}/>
-                <Route path="/store" element={<AdminProtected Component={<Store/>}/>}/>
+                <Route path="/product" element={<AdminProtected Component={<ProductCom/>}/>}/>
 
             <Route path="*" element={<PageNotFound />} />
 

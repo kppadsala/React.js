@@ -18,8 +18,8 @@ export default function Gold(modal,toggle) {
     </div>
 
   <div className="w-100 flex justify-between bg-[#FCF9F9] px-20 py-3 my-3 position-relative ">
-  <span className="flex justify-center items-center text-xl gap-3 text-[#832729]"><MdOutlineTune  onClick={toggleModal} />Filter</span>
-  <span className="flex justify-center items-center text-xl gap-3 text-[#832729]"><SlDiamond /> Daily were Jewellery</span>
+  <span className="flex justify-center items-center text-xl gap-3 text-[#832729] cursor-pointer"><MdOutlineTune  onClick={toggleModal} />Filter</span>
+  <span className="flex justify-center items-center text-xl gap-3 text-[#832729] cursor-pointer"><SlDiamond /> Daily were Jewellery</span>
 </div>
 
   

@@ -5,10 +5,10 @@ import { RiDeleteBin5Line } from "react-icons/ri";
 import { deleteProduct, fetchAllProduct } from "../../../Api/Product";
 import { toast } from "react-toastify";
 
-export default function Store() {
+export default function ProductTable() {
   let [productdata, setProductData] = useState([]);
 
-  let sizeData = ["41", "42", "43", "44", "45"];
+  let sizeData = ["1.5", "2", "3", "4"];
 
   useEffect(() => {
     (async function getData() {
@@ -27,6 +27,7 @@ export default function Store() {
   const deleteHandler = async (productId) => {
     
       const { error, data } = await deleteProduct(productId);
+      console.log("🚀 ~ file: Store.jsx:30 ~ deleteHandler ~ data:", data)
       if (error) {
         toast.error("Failed to delete product");
       } else {
@@ -52,7 +53,6 @@ export default function Store() {
               <th>Gender</th>
               <th>Price</th>
               <th>category</th>
-              <th>Color</th>
               <th>Size</th>
               <th>Action</th>
             </tr>
@@ -65,7 +65,7 @@ export default function Store() {
                     {i + 1}
                   </td>
                   <td>
-                    <img src={e.thumbnail} />
+                    <img src={e.thumbnail} className="w-[70px] h-[70px]"/>
                   </td>
                   <td className="capitalize">{e.brand}</td>
                   <td className="capitalize">{e.gender}</td>
@@ -73,26 +73,20 @@ export default function Store() {
 
                   <td className="">
                     <div className="grid  text-uppercase">
-                      {e.category.map((category, i) => (
+                      {e?.category?.map((category, i) => (
                         <th key={i} className="capitalize">{category}</th>
                       ))}
                     </div>
                   </td>
-                  <td className="">
-                    <div className="flex gap-2 text-uppercase">
-                      {e.color.map((color, i) => (
-                        <th key={i} className="capitalize">{color}</th>
-                      ))}
-                    </div>
-                  </td>
+                 
 
                   <td className="">
                     <div className="flex gap-2">
-                      {sizeData.map((size, i) => (
+                      {sizeData?.map((size, i) => (
                         <span
                           key={i}
                           className={`border-[1px] p-1 font-semibold text-black bg-gray-300  ${
-                            e.size.includes(size) ? " text-gray-500" : ""
+                            e?.size?.includes(size) ? " text-gray-500" : ""
                           }`}
                         >
                           {size}
@@ -103,9 +97,9 @@ export default function Store() {
 
                   <td>
                     <div className="flex gap-3">
-                      <FaRegEdit className="text-blue-700 text-2xl "
+                      <FaRegEdit className="text-blue-700 text-2xl cursor-pointer "
                        onClick={()=>updateHandler()}/>
-                      <RiDeleteBin5Line className="text-danger text-2xl text-red-600" 
+                      <RiDeleteBin5Line className="text-danger text-2xl text-red-600 cursor-pointer" 
                        onClick={()=>deleteHandler(e.id)}/>
                     </div>
                   </td>

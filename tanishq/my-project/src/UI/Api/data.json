@@ -10,7 +10,8 @@
     "category": ["dimond", "24Karat"],
     "mainCategorie": "menKada",
     "size": ["2", "1.5", "4"],
-    "rating": 0
+    "rating": 0,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -23,7 +24,8 @@
     "category": ["dailyWear", "24Karat"],
     "mainCategorie": "ring",
     "size": ["3"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -36,7 +38,8 @@
     "category": ["dailyWear", "wedding"],
     "mainCategorie": "ring",
     "size": ["1.5", "2", "3"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -50,7 +53,7 @@
     "mainCategorie": "menKada",
     "size": ["3", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -64,7 +67,7 @@
     "mainCategorie": "ring",
     "size": ["2"],
     "rating": 3,
-    "thuumbai":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3e2f015c/images/hi-res/50D3B3YPJAA32_2.jpg"
+    "thuumbai": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3e2f015c/images/hi-res/50D3B3YPJAA32_2.jpg"
   },
   {
     "gender": "male",
@@ -78,7 +81,7 @@
     "mainCategorie": "gifting",
     "size": ["3", "4", "1.5", "2"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8466c34e/images/hi-res/500596FAAAB02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8466c34e/images/hi-res/500596FAAAB02_2.jpg"
   },
   {
     "gender": "female",
@@ -92,7 +95,7 @@
     "mainCategorie": "gifting",
     "size": ["4", "1.5"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6d0b5b46/images/hi-res/511003FCDAB00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6d0b5b46/images/hi-res/511003FCDAB00_2.jpg"
   },
   {
     "gender": "male",
@@ -106,7 +109,7 @@
     "mainCategorie": "bracelet",
     "size": ["3", "2", "4"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw86d1b413/images/hi-res/511107CSOAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw86d1b413/images/hi-res/511107CSOAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -120,7 +123,7 @@
     "mainCategorie": "goldChain",
     "size": ["2"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw63731ca3/images/hi-res/51D4MPFBQAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw63731ca3/images/hi-res/51D4MPFBQAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -134,7 +137,7 @@
     "mainCategorie": "ring",
     "size": ["4", "2", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8b3262c3/images/hi-res/511819VSX1A00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8b3262c3/images/hi-res/511819VSX1A00_2.jpg"
   },
   {
     "gender": "female",
@@ -148,7 +151,7 @@
     "mainCategorie": "goldChain",
     "size": ["2", "3", "4", "1.5"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9517cc90/images/hi-res/51F1D1FKXAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9517cc90/images/hi-res/51F1D1FKXAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -162,7 +165,7 @@
     "mainCategorie": "earrings",
     "size": ["2"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw50e3960d/images/hi-res/502117FDRAA09_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw50e3960d/images/hi-res/502117FDRAA09_2.jpg"
   },
   {
     "gender": "female",
@@ -176,7 +179,7 @@
     "mainCategorie": "gifting",
     "size": ["3", "1.5"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0abd0f01/images/hi-res/51F1D1FIWAACZ_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0abd0f01/images/hi-res/51F1D1FIWAACZ_2.jpg"
   },
   {
     "gender": "male",
@@ -190,7 +193,7 @@
     "mainCategorie": "gifting",
     "size": ["3"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwed0d984f/images/hi-res/51G3C1FCMAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwed0d984f/images/hi-res/51G3C1FCMAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -204,7 +207,7 @@
     "mainCategorie": "goldCoin",
     "size": ["4", "3", "1.5", "2"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1e358761/images/hi-res/512621VJB1A00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1e358761/images/hi-res/512621VJB1A00_2.jpg"
   },
   {
     "gender": "female",
@@ -218,7 +221,7 @@
     "mainCategorie": "gifting",
     "size": ["1.5", "3"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1e358761/images/hi-res/512621VJB1A00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1e358761/images/hi-res/512621VJB1A00_2.jpg"
   },
   {
     "gender": "female",
@@ -232,7 +235,7 @@
     "mainCategorie": "goldCoin",
     "size": ["3"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw37a9ecf2/images/hi-res/50D2CAFCI3A09_1.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw37a9ecf2/images/hi-res/50D2CAFCI3A09_1.jpg"
   },
   {
     "gender": "male",
@@ -246,7 +249,7 @@
     "mainCategorie": "bracelet",
     "size": ["2", "1.5", "3"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1b3cadb9/images/hi-res/A14019XAVAAA88_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1b3cadb9/images/hi-res/A14019XAVAAA88_2.jpg"
   },
   {
     "gender": "female",
@@ -260,7 +263,7 @@
     "mainCategorie": "earrings",
     "size": ["4", "3"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0c0f7e47/images/hi-res/513817GFAAAP3_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0c0f7e47/images/hi-res/513817GFAAAP3_2.jpg"
   },
   {
     "gender": "female",
@@ -274,7 +277,7 @@
     "mainCategorie": "ring",
     "size": ["2", "1.5", "4"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2821b018/images/hi-res/50D3PTYJNAA29_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2821b018/images/hi-res/50D3PTYJNAA29_2.jpg"
   },
   {
     "gender": "female",
@@ -288,7 +291,7 @@
     "mainCategorie": "bracelet",
     "size": ["1.5", "2", "4"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc63bb859/images/hi-res/511016COAAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc63bb859/images/hi-res/511016COAAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -302,7 +305,7 @@
     "mainCategorie": "ring",
     "size": ["2", "3", "1.5", "4"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
   },
   {
     "gender": "female",
@@ -316,7 +319,7 @@
     "mainCategorie": "menKada",
     "size": ["1.5", "3", "2"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
   },
   {
     "gender": "female",
@@ -330,7 +333,7 @@
     "mainCategorie": "menKada",
     "size": ["2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
   },
   {
     "gender": "female",
@@ -344,7 +347,7 @@
     "mainCategorie": "ring",
     "size": ["4", "1.5"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/2923FZQ.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/2923FZQ.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -358,7 +361,7 @@
     "mainCategorie": "necklace",
     "size": ["3", "4"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
   },
   {
     "gender": "female",
@@ -372,7 +375,7 @@
     "mainCategorie": "goldChain",
     "size": ["2", "4", "1.5"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL1002FHCAA04_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL1002FHCAA04_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -386,7 +389,7 @@
     "mainCategorie": "menKada",
     "size": ["1.5", "2", "3", "4"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
   },
   {
     "gender": "male",
@@ -400,7 +403,7 @@
     "mainCategorie": "goldCoin",
     "size": ["3", "2", "1.5", "4"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
   },
   {
     "gender": "female",
@@ -414,7 +417,7 @@
     "mainCategorie": "goldChain",
     "size": ["3"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/502617FFAAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/502617FFAAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -428,7 +431,7 @@
     "mainCategorie": "necklace",
     "size": ["2", "4"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513515FLPAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513515FLPAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -442,7 +445,7 @@
     "mainCategorie": "necklace",
     "size": ["4", "3", "1.5", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/2923FZU.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/2923FZU.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -456,7 +459,7 @@
     "mainCategorie": "earrings",
     "size": ["1.5", "4"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/51W2TT2AL1BAP3_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/51W2TT2AL1BAP3_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -470,7 +473,7 @@
     "mainCategorie": "menKada",
     "size": ["3", "1.5"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/50F2UYFAOAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/50F2UYFAOAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -484,7 +487,7 @@
     "mainCategorie": "bracelet",
     "size": ["1.5", "4", "3", "2"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/512017YOMAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/512017YOMAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -498,7 +501,7 @@
     "mainCategorie": "earrings",
     "size": ["2", "4", "3", "1.5"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/502617FFAAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/502617FFAAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -511,8 +514,8 @@
     "category": ["wedding", "18Karat"],
     "mainCategorie": "goldChain",
     "size": ["3"],
-    "rating": 1, 
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511100CHLAA00_1.jpg?sw=115&sh=115"
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511100CHLAA00_1.jpg?sw=115&sh=115"
   },
   {
     "gender": "male",
@@ -526,7 +529,7 @@
     "mainCategorie": "ring",
     "size": ["2", "3"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/741188CHSAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/741188CHSAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -540,7 +543,7 @@
     "mainCategorie": "menKada",
     "size": ["2", "1.5", "3"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/2923FZF.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/2923FZF.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -554,7 +557,7 @@
     "mainCategorie": "menKada",
     "size": ["1.5"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511154PMCAAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511154PMCAAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -568,7 +571,7 @@
     "mainCategorie": "goldChain",
     "size": ["1.5", "2", "3", "4"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/742770CCIAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/742770CCIAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -582,7 +585,7 @@
     "mainCategorie": "menKada",
     "size": ["1.5", "3"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/5019L1FADAA02_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/5019L1FADAA02_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -596,7 +599,7 @@
     "mainCategorie": "gifting",
     "size": ["4", "2"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGCAA02_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGCAA02_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -610,7 +613,7 @@
     "mainCategorie": "bracelet",
     "size": ["3", "2", "4"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL2118YEOAA34_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL2118YEOAA34_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -624,7 +627,7 @@
     "mainCategorie": "earrings",
     "size": ["4", "3", "1.5"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGR2A02_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGR2A02_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -638,7 +641,7 @@
     "mainCategorie": "goldCoin",
     "size": ["1.5", "3", "2", "4"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/502118YEJAA32_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/502118YEJAA32_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -652,7 +655,7 @@
     "mainCategorie": "goldCoin",
     "size": ["3"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/51F1D1FKWAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/51F1D1FKWAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -666,7 +669,7 @@
     "mainCategorie": "goldChain",
     "size": ["3", "2", "4", "1.5"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UP5060VKW2AP5_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UP5060VKW2AP5_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -680,7 +683,7 @@
     "mainCategorie": "necklace",
     "size": ["2", "4"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513220FSVAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513220FSVAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -694,7 +697,7 @@
     "mainCategorie": "earrings",
     "size": ["1.5"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511250VWR1A00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511250VWR1A00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -708,7 +711,7 @@
     "mainCategorie": "goldChain",
     "size": ["3", "1.5", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/ULD2DSFESAA32_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/ULD2DSFESAA32_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -722,7 +725,7 @@
     "mainCategorie": "goldCoin",
     "size": ["2"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/ULD2DSFESAA32_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/ULD2DSFESAA32_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -736,7 +739,7 @@
     "mainCategorie": "bracelet",
     "size": ["4", "2", "1.5"],
     "rating": 1,
-    "thumbnail":"https://m.media-amazon.com/images/I/61MNgBNCpSL._AC_UL480_FMwebp_QL65_.jpg"
+    "thumbnail": "https://m.media-amazon.com/images/I/61MNgBNCpSL._AC_UL480_FMwebp_QL65_.jpg"
   },
   {
     "gender": "male",
@@ -750,7 +753,7 @@
     "mainCategorie": "menKada",
     "size": ["4"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511920CMYAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511920CMYAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -764,7 +767,7 @@
     "mainCategorie": "goldCoin",
     "size": ["2", "1.5"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGHAA02_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGHAA02_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -778,7 +781,7 @@
     "mainCategorie": "goldCoin",
     "size": ["2", "1.5"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGR2A02_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGR2A02_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -792,7 +795,7 @@
     "mainCategorie": "gifting",
     "size": ["3", "4"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UP5060VJZ2AP5_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UP5060VJZ2AP5_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -806,7 +809,7 @@
     "mainCategorie": "menKada",
     "size": ["2", "3", "1.5"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/504025CIJAA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/504025CIJAA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -820,7 +823,7 @@
     "mainCategorie": "necklace",
     "size": ["1.5", "3"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FEOAA02_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FEOAA02_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "male",
@@ -834,7 +837,7 @@
     "mainCategorie": "bracelet",
     "size": ["1.5", "4"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/51D3A1CDKLA00_1.jpg?sw=360&sh=360"
+    "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/51D3A1CDKLA00_1.jpg?sw=360&sh=360"
   },
   {
     "gender": "female",
@@ -848,7 +851,7 @@
     "mainCategorie": "necklace",
     "size": ["2"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/product/elegant-diamond-and-gold-mangalsutra-503416ygxab32.html?lang=en_IN"
+    "thumbnail": "https://www.tanishq.co.in/product/elegant-diamond-and-gold-mangalsutra-503416ygxab32.html?lang=en_IN"
   },
   {
     "gender": "female",
@@ -862,7 +865,7 @@
     "mainCategorie": "bracelet",
     "size": ["1.5", "4", "2", "3"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw397f8b16/images/hi-res/501519CMMLA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw397f8b16/images/hi-res/501519CMMLA00_2.jpg"
   },
   {
     "gender": "male",
@@ -876,7 +879,7 @@
     "mainCategorie": "necklace",
     "size": ["1.5", "4", "2"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -890,7 +893,7 @@
     "mainCategorie": "ring",
     "size": ["2", "4", "3"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw720f28cf/images/hi-res/51E2J1FARAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw720f28cf/images/hi-res/51E2J1FARAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -904,7 +907,7 @@
     "mainCategorie": "bracelet",
     "size": ["2", "4", "1.5", "3"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19a832aa/images/hi-res/51F1D1VRU1A00_1.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19a832aa/images/hi-res/51F1D1VRU1A00_1.jpg"
   },
   {
     "gender": "female",
@@ -918,7 +921,7 @@
     "mainCategorie": "goldChain",
     "size": ["2", "3", "4"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw52ea1cc4/images/hi-res/50D3PT1YEABB02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw52ea1cc4/images/hi-res/50D3PT1YEABB02_2.jpg"
   },
   {
     "gender": "female",
@@ -932,7 +935,7 @@
     "mainCategorie": "bracelet",
     "size": ["2", "1.5"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw07c766d2/images/hi-res/51D3B11IMABA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw07c766d2/images/hi-res/51D3B11IMABA00_2.jpg"
   },
   {
     "gender": "male",
@@ -946,7 +949,7 @@
     "mainCategorie": "goldChain",
     "size": ["1.5"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw962006ad/images/hi-res/50G3I1FBUAA09_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw962006ad/images/hi-res/50G3I1FBUAA09_2.jpg"
   },
   {
     "gender": "male",
@@ -960,7 +963,7 @@
     "mainCategorie": "gifting",
     "size": ["4", "3"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw98641fe6/images/hi-res/51E2J1FBWAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw98641fe6/images/hi-res/51E2J1FBWAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -974,7 +977,7 @@
     "mainCategorie": "earrings",
     "size": ["3", "1.5", "4", "2"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw82f0098c/images/hi-res/5027842BIABA09_1.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw82f0098c/images/hi-res/5027842BIABA09_1.jpg"
   },
   {
     "gender": "female",
@@ -988,7 +991,7 @@
     "mainCategorie": "goldChain",
     "size": ["2", "3"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw04d72b02/images/hi-res/51E2J1FBEAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw04d72b02/images/hi-res/51E2J1FBEAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -1002,7 +1005,7 @@
     "mainCategorie": "bracelet",
     "size": ["1.5", "4", "2", "3"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0192aa3f/images/hi-res/50F2UYVBO1A00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0192aa3f/images/hi-res/50F2UYVBO1A00_2.jpg"
   },
   {
     "gender": "female",
@@ -1016,7 +1019,7 @@
     "mainCategorie": "goldCoin",
     "size": ["3", "2"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw416d1aae/images/hi-res/51E2J1FBQAC00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw416d1aae/images/hi-res/51E2J1FBQAC00_2.jpg"
   },
   {
     "gender": "female",
@@ -1030,7 +1033,7 @@
     "mainCategorie": "ring",
     "size": ["2", "3", "4", "1.5"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5af986ec/images/hi-res/51F1D1CQEAA00_2.jpg  "
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5af986ec/images/hi-res/51F1D1CQEAA00_2.jpg  "
   },
   {
     "gender": "female",
@@ -1044,7 +1047,7 @@
     "mainCategorie": "goldCoin",
     "size": ["4"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc63bb859/images/hi-res/511016COAAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc63bb859/images/hi-res/511016COAAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -1058,7 +1061,7 @@
     "mainCategorie": "gifting",
     "size": ["2", "4"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcd9c0f16/images/hi-res/51E2J1FBBAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcd9c0f16/images/hi-res/51E2J1FBBAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -1072,7 +1075,7 @@
     "mainCategorie": "gifting",
     "size": ["3", "1.5", "2", "4"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe59ecfed/images/hi-res/51F1KPVSS1A00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe59ecfed/images/hi-res/51F1KPVSS1A00_2.jpg"
   },
   {
     "gender": "male",
@@ -1086,7 +1089,7 @@
     "mainCategorie": "goldCoin",
     "size": ["1.5", "2", "4"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9f1b85/images/hi-res/503118FIOAA09_1.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9f1b85/images/hi-res/503118FIOAA09_1.jpg"
   },
   {
     "gender": "female",
@@ -1100,7 +1103,7 @@
     "mainCategorie": "necklace",
     "size": ["4"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw71671259/images/hi-res/51D3C2CMXAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw71671259/images/hi-res/51D3C2CMXAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1114,7 +1117,7 @@
     "mainCategorie": "goldCoin",
     "size": ["2", "4"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8f83428e/images/hi-res/50S3A1FALAH67_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8f83428e/images/hi-res/50S3A1FALAH67_2.jpg"
   },
   {
     "gender": "female",
@@ -1128,7 +1131,7 @@
     "mainCategorie": "bracelet",
     "size": ["2", "3", "4", "1.5"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw31d67da4/images/hi-res/510685CTAAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw31d67da4/images/hi-res/510685CTAAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1142,7 +1145,7 @@
     "mainCategorie": "menKada",
     "size": ["4", "3", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb0cc30f9/images/hi-res/502992FGPAA10_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb0cc30f9/images/hi-res/502992FGPAA10_2.jpg"
   },
   {
     "gender": "female",
@@ -1156,7 +1159,7 @@
     "mainCategorie": "goldCoin",
     "size": ["3", "2"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw02e26217/images/hi-res/50D2I1FLMAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw02e26217/images/hi-res/50D2I1FLMAA02_2.jpg"
   },
   {
     "gender": "female",
@@ -1170,7 +1173,7 @@
     "mainCategorie": "goldChain",
     "size": ["4"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9ef2ccf1/images/hi-res/511155YRLAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9ef2ccf1/images/hi-res/511155YRLAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1184,7 +1187,7 @@
     "mainCategorie": "ring",
     "size": ["1.5", "2", "4"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5b2de935/images/hi-res/504025CYYAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5b2de935/images/hi-res/504025CYYAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -1198,7 +1201,7 @@
     "mainCategorie": "gifting",
     "size": ["1.5"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5346692b/images/hi-res/51F1D1FKZAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5346692b/images/hi-res/51F1D1FKZAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -1212,7 +1215,7 @@
     "mainCategorie": "ring",
     "size": ["4"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc63bb859/images/hi-res/511016COAAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc63bb859/images/hi-res/511016COAAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1226,7 +1229,7 @@
     "mainCategorie": "necklace",
     "size": ["4", "3", "2"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1df67c8b/images/hi-res/502621CIJAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1df67c8b/images/hi-res/502621CIJAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1240,7 +1243,7 @@
     "mainCategorie": "earrings",
     "size": ["2", "3", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19f5c7c8/images/hi-res/502621CIAAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19f5c7c8/images/hi-res/502621CIAAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1254,7 +1257,7 @@
     "mainCategorie": "goldCoin",
     "size": ["2", "1.5", "4", "3"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5aa15e57/images/hi-res/50D3I3FLVAA10_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5aa15e57/images/hi-res/50D3I3FLVAA10_2.jpg"
   },
   {
     "gender": "female",
@@ -1268,7 +1271,7 @@
     "mainCategorie": "goldCoin",
     "size": ["1.5", "4"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1b3cadb9/images/hi-res/A14019XAVAAA88_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1b3cadb9/images/hi-res/A14019XAVAAA88_2.jpg"
   },
   {
     "gender": "female",
@@ -1282,7 +1285,7 @@
     "mainCategorie": "goldChain",
     "size": ["4", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa73091b4/images/hi-res/50D2D2FRMAA09_4.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa73091b4/images/hi-res/50D2D2FRMAA09_4.jpg"
   },
   {
     "gender": "female",
@@ -1296,7 +1299,7 @@
     "mainCategorie": "menKada",
     "size": ["1.5", "2", "3"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb52927b5/images/hi-res/513219BUGAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb52927b5/images/hi-res/513219BUGAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1310,7 +1313,7 @@
     "mainCategorie": "ring",
     "size": ["2", "1.5"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw92429b29/images/hi-res/51D3A1GCZAAPL_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw92429b29/images/hi-res/51D3A1GCZAAPL_2.jpg"
   },
   {
     "gender": "female",
@@ -1324,7 +1327,7 @@
     "mainCategorie": "ring",
     "size": ["3", "4", "2", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw26c47122/images/hi-res/51F1D1FKVAA00_1.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw26c47122/images/hi-res/51F1D1FKVAA00_1.jpg"
   },
   {
     "gender": "female",
@@ -1338,7 +1341,7 @@
     "mainCategorie": "menKada",
     "size": ["3", "2", "1.5"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw37a9ecf2/images/hi-res/50D2CAFCI3A09_1.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw37a9ecf2/images/hi-res/50D2CAFCI3A09_1.jpg"
   },
   {
     "gender": "female",
@@ -1352,7 +1355,7 @@
     "mainCategorie": "menKada",
     "size": ["3", "1.5", "2"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7ea34f36/images/hi-res/511107CUWAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7ea34f36/images/hi-res/511107CUWAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -1366,7 +1369,7 @@
     "mainCategorie": "bracelet",
     "size": ["4"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw07fdc58b/images/hi-res/502621CICAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw07fdc58b/images/hi-res/502621CICAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -1380,7 +1383,7 @@
     "mainCategorie": "goldChain",
     "size": ["1.5", "4", "3", "2"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw57ed153a/images/hi-res/51E2J1FAZAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw57ed153a/images/hi-res/51E2J1FAZAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1394,7 +1397,7 @@
     "mainCategorie": "earrings",
     "size": ["2", "3", "1.5"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcd9c0f16/images/hi-res/51E2J1FBBAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcd9c0f16/images/hi-res/51E2J1FBBAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1408,7 +1411,7 @@
     "mainCategorie": "gifting",
     "size": ["1.5", "3", "4"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc6a337ab/images/hi-res/511720YXUAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc6a337ab/images/hi-res/511720YXUAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -1422,7 +1425,7 @@
     "mainCategorie": "earrings",
     "size": ["3", "2"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5346692b/images/hi-res/51F1D1FKZAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5346692b/images/hi-res/51F1D1FKZAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1436,7 +1439,7 @@
     "mainCategorie": "ring",
     "size": ["3", "1.5", "2", "4"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwde7bb155/images/hi-res/51E2J1FAMAC00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwde7bb155/images/hi-res/51E2J1FAMAC00_2.jpg"
   },
   {
     "gender": "male",
@@ -1450,7 +1453,7 @@
     "mainCategorie": "goldChain",
     "size": ["3", "2", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw63731ca3/images/hi-res/51D4MPFBQAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw63731ca3/images/hi-res/51D4MPFBQAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1464,7 +1467,7 @@
     "mainCategorie": "bracelet",
     "size": ["4", "3", "2"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw35d6c64d/images/hi-res/51W1D1CFDAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw35d6c64d/images/hi-res/51W1D1CFDAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1478,7 +1481,7 @@
     "mainCategorie": "bracelet",
     "size": ["4", "2", "1.5"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw17b645ea/images/hi-res/5031202MLABA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw17b645ea/images/hi-res/5031202MLABA02_2.jpg"
   },
   {
     "gender": "female",
@@ -1492,7 +1495,7 @@
     "mainCategorie": "gifting",
     "size": ["3", "2", "4"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf6866b8e/images/hi-res/50O3UN2BSABA29_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf6866b8e/images/hi-res/50O3UN2BSABA29_2.jpg"
   },
   {
     "gender": "male",
@@ -1506,7 +1509,7 @@
     "mainCategorie": "ring",
     "size": ["1.5", "3"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4ba3f2ea/images/hi-res/50D2P2FCZAA32_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4ba3f2ea/images/hi-res/50D2P2FCZAA32_2.jpg"
   },
   {
     "gender": "female",
@@ -1520,7 +1523,7 @@
     "mainCategorie": "necklace",
     "size": ["2", "3"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf97dbf5e/images/hi-res/50E3B1FERAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf97dbf5e/images/hi-res/50E3B1FERAA02_2.jpg"
   },
   {
     "gender": "female",
@@ -1534,7 +1537,7 @@
     "mainCategorie": "goldCoin",
     "size": ["2", "4", "1.5", "3"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7ea34f36/images/hi-res/511107CUWAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7ea34f36/images/hi-res/511107CUWAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -1548,7 +1551,7 @@
     "mainCategorie": "ring",
     "size": ["4"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfac76ca6/images/hi-res/511072CSGAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfac76ca6/images/hi-res/511072CSGAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -1562,7 +1565,7 @@
     "mainCategorie": "gifting",
     "size": ["3"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3f378193/images/hi-res/51E2J1FAGAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3f378193/images/hi-res/51E2J1FAGAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1576,7 +1579,7 @@
     "mainCategorie": "earrings",
     "size": ["1.5"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw12ed6840/images/hi-res/51D1MPYAAAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw12ed6840/images/hi-res/51D1MPYAAAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1590,7 +1593,7 @@
     "mainCategorie": "gifting",
     "size": ["4", "3", "1.5", "2"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwab83b7bc/images/hi-res/51F1D1BQGAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwab83b7bc/images/hi-res/51F1D1BQGAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1604,7 +1607,7 @@
     "mainCategorie": "menKada",
     "size": ["1.5", "3", "4"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfac76ca6/images/hi-res/511072CSGAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfac76ca6/images/hi-res/511072CSGAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1618,7 +1621,7 @@
     "mainCategorie": "earrings",
     "size": ["1.5", "4", "2"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc3959834/images/hi-res/50D3DTFCAAA10_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc3959834/images/hi-res/50D3DTFCAAA10_2.jpg"
   },
   {
     "gender": "female",
@@ -1632,7 +1635,7 @@
     "mainCategorie": "goldChain",
     "size": ["3", "4", "2", "1.5"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcf1c0dac/images/hi-res/51F1D1BQFAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcf1c0dac/images/hi-res/51F1D1BQFAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -1646,7 +1649,7 @@
     "mainCategorie": "ring",
     "size": ["4"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw62de5308/images/hi-res/50G3C1FCHAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw62de5308/images/hi-res/50G3C1FCHAA02_2.jpg"
   },
   {
     "gender": "female",
@@ -1660,7 +1663,7 @@
     "mainCategorie": "bracelet",
     "size": ["4"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw962006ad/images/hi-res/50G3I1FBUAA09_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw962006ad/images/hi-res/50G3I1FBUAA09_2.jpg"
   },
   {
     "gender": "female",
@@ -1674,855 +1677,8 @@
     "mainCategorie": "goldChain",
     "size": ["4"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9fb20970/images/hi-res/502621CEDAA00_2.jpg"
- 
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9fb20970/images/hi-res/502621CEDAA00_2.jpg"
   },
-  [
-    {
-      "gender": "male",
-      "title": "gold ring",
-      "description": "Consequuntur esse qui vel tempora aut reiciendis quod aut.",
-      "price": 154433,
-      "discountPercentage": 3,
-      "availableStock": 1,
-      "brand": "holiSale",
-      "category": ["24Karat", "wedding"],
-      "mainCategorie": "goldCoin",
-      "size": ["2", "1.5", "3", "4"],
-      "rating": 1,
-  "thumbnail":"https://www.tanishq.co.in/product/sailor-anchor-gold-finger-ring-for-men-51f1kpfmzaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "wedding ring",
-      "description": "Est sint laudantium adipisci ut numquam repellendus.",
-      "price": 169917,
-      "discountPercentage": 10,
-      "availableStock": 1,
-      "brand": "diwaliSale",
-      "category": ["18Karat", "platinam"],
-      "mainCategorie": "earrings",
-      "size": ["2", "1.5", "3"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/regal-gold-finger-ring-511419fmlaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "24karat gold coin",
-      "description": "Sunt voluptates aliquid incidunt veniam ut cupiditate assumenda.",
-      "price": 430488,
-      "discountPercentage": 1,
-      "availableStock": 9,
-      "brand": "diwaliSale",
-      "category": ["wedding", "22Karat"],
-      "mainCategorie": "goldChain",
-      "size": ["4", "2", "3"],
-      "rating": 0,
-  "thumbnail":"https://www.tanishq.co.in/product/shree-yantra-22-karat-gold-coin-51c2dtxamaaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "gold ring",
-      "description": "Perferendis reiciendis dolorem laborum quod.",
-      "price": 68327,
-      "discountPercentage": 1,
-      "availableStock": 4,
-      "brand": "diwaliSale",
-      "category": ["gold", "silver"],
-      "mainCategorie": "goldChain",
-      "size": ["1.5", "2"],
-      "rating": 3,
-  "thumbnail":"https://www.tanishq.co.in/product/beguilling-22-karat-gold-artsy-ring-51t340famaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "gold ring",
-      "description": "Officiis voluptatem ab accusamus et.",
-      "price": 283343,
-      "discountPercentage": 0,
-      "availableStock": 2,
-      "brand": "diwaliSale",
-      "category": ["18Karat", "wedding"],
-      "mainCategorie": "earrings",
-      "size": ["1.5", "3", "4"],
-      "rating": 0,
-  "thumbnail":"https://www.tanishq.co.in/product/dainty-22-karat-yellow-gold-flower-finger-ring-511418fjaaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "mangal sutra",
-      "description": "Repellendus et odit.",
-      "price": 221998,
-      "discountPercentage": 3,
-      "availableStock": 2,
-      "brand": "holiSale",
-      "category": ["24Karat", "platinam"],
-      "mainCategorie": "goldChain",
-      "size": ["1.5", "4"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/stunning-sleek-gold-mangalsutra-510781yzaab00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "couple ring",
-      "description": "Atque quidem ut assumenda soluta.",
-      "price": 175534,
-      "discountPercentage": 5,
-      "availableStock": 9,
-      "brand": "newArrivals",
-      "category": ["24Karat", "wedding"],
-      "mainCategorie": "goldChain",
-      "size": ["2", "3", "4", "1.5"],
-      "rating": 0,
-  "thumbnail":"https://www.tanishq.co.in/product/it%27s-a-lovestory-couple-rings-51e2j1fapaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "silver chain",
-      "description": "Dolor voluptatem doloribus totam at qui sint delectus laudantium.",
-      "price": 327817,
-      "discountPercentage": 0,
-      "availableStock": 10,
-      "brand": "newArrivals",
-      "category": ["dimond", "22Karat"],
-      "mainCategorie": "goldChain",
-      "size": ["2", "3", "4", "1.5"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/stunning-gold-chain-500990caaba00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "24karat gold coin",
-      "description": "Quia consequatur accusantium ex consectetur officiis.",
-      "price": 215103,
-      "discountPercentage": 1,
-      "availableStock": 3,
-      "brand": "diwaliSale",
-      "category": ["22Karat", "24Karat"],
-      "mainCategorie": "goldCoin",
-      "size": ["4", "3", "1.5"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/shree-yantra-22-karat-gold-coin-51c2dtxamaaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "24karat gold coin",
-      "description": "In doloribus officiis.",
-      "price": 150101,
-      "discountPercentage": 1,
-      "availableStock": 3,
-      "brand": "holiSale",
-      "category": ["dailyWear", "24Karat"],
-      "mainCategorie": "earrings",
-      "size": ["2", "3"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/shree-yantra-22-karat-gold-coin-51c2dtxamaaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "gold dimond nechleck",
-      "description": "Quibusdam harum exercitationem distinctio.",
-      "price": 388009,
-      "discountPercentage": 7,
-      "availableStock": 5,
-      "brand": "holiSale",
-      "category": ["24Karat", "dimond"],
-      "mainCategorie": "ring",
-      "size": ["2"],
-      "rating": 0,
-  "thumbnail":"https://www.tanishq.co.in/product/unmatched-opulence-diamond-neckalce-50d3d1nxdaa21.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "rose gold chain",
-      "description": "Et laborum repellat.",
-      "price": 412930,
-      "discountPercentage": 10,
-      "availableStock": 7,
-      "brand": "holiSale",
-      "category": ["dailyWear", "platinam"],
-      "mainCategorie": "goldChain",
-      "size": ["3", "4", "1.5", "2"],
-      "rating": 3,
-  "thumbnail":"https://www.tanishq.co.in/product/sleek-gold-kamal-chain-511016coaaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "gold ring",
-      "description": "Esse delectus asperiores architecto rerum officia praesentium eligendi.",
-      "price": 225976,
-      "discountPercentage": 2,
-      "availableStock": 4,
-      "brand": "holiSale",
-      "category": ["gold", "wedding"],
-      "mainCategorie": "necklace",
-      "size": ["4", "3", "2"],
-      "rating": 3,
-  "thumbnail":"https://www.tanishq.co.in/product/elegant-symmetric-gold-ring-511003fcdab00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "couple ring",
-      "description": "Ut laudantium incidunt.",
-      "price": 499276,
-      "discountPercentage": 1,
-      "availableStock": 9,
-      "brand": "newArrivals",
-      "category": ["18Karat", "22Karat"],
-      "mainCategorie": "ring",
-      "size": ["3", "2", "4"],
-      "rating": 5,
-  
-  "thumbnail":"https://www.tanishq.co.in/product/new-beginnings-couple-rings-51e2j1famac00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "wedding ring",
-      "description": "Impedit officia ab est qui aperiam quia.",
-      "price": 100564,
-      "discountPercentage": 4,
-      "availableStock": 2,
-      "brand": "newArrivals",
-      "category": ["18Karat", "wedding"],
-      "mainCategorie": "bracelet",
-      "size": ["3"],
-      "rating": 5,
-  
-      "thumbnail":"https://www.tanishq.co.in/product/14kt-triple-layered-delicate-rose-gold-ring-553822fldae09.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "gold ring",
-      "description": "Qui et et et distinctio possimus ad sed vitae.",
-      "price": 294221,
-      "discountPercentage": 2,
-      "availableStock": 3,
-      "brand": "diwaliSale",
-      "category": ["24Karat", "22Karat"],
-      "mainCategorie": "bracelet",
-      "size": ["2", "4", "3"],
-      "rating": 5,
-  
-      "thumbnail":"https://www.tanishq.co.in/product/regal-gold-finger-ring-511419fmlaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "gold kada",
-      "description": "Totam eos quia.",
-      "price": 51215,
-      "discountPercentage": 10,
-      "availableStock": 6,
-      "brand": "diwaliSale",
-      "category": ["wedding", "dimond"],
-      "mainCategorie": "goldCoin",
-      "size": ["1.5", "3", "4", "2"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/charismatic-gold-kada-for-men-51f1kpvsl1a00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "dimond ring",
-      "description": "Ea enim ut dignissimos et.",
-      "price": 249325,
-      "discountPercentage": 7,
-      "availableStock": 1,
-      "brand": "newArrivals",
-      "category": ["gold", "22Karat"],
-      "mainCategorie": "ring",
-      "size": ["4"],
-      "rating": 0,
-  "thumbnail":"https://www.tanishq.co.in/product/intertwining-leaves-rose-gold-and-diamond-finger-ring-503419fipaa09.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "couple ring",
-      "description": "Cum necessitatibus corrupti nemo quos.",
-      "price": 287564,
-      "discountPercentage": 5,
-      "availableStock": 8,
-      "brand": "holiSale",
-      "category": ["platinam", "silver"],
-      "mainCategorie": "earrings",
-      "size": ["2", "1.5"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/be-mine-couple-rings-51e2j1fbbaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "24karat gold coin",
-      "description": "Odit sit optio et mollitia.",
-      "price": 460481,
-      "discountPercentage": 3,
-      "availableStock": 10,
-      "brand": "holiSale",
-      "category": ["24Karat", "platinam"],
-      "mainCategorie": "ring",
-      "size": ["1.5", "4", "2", "3"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/4-gram-24-karat-krishna-motif-gold-coin-600908zabras00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "mangal sutra",
-      "description": "Explicabo tempore consequuntur officia eius.",
-      "price": 152306,
-      "discountPercentage": 1,
-      "availableStock": 1,
-      "brand": "holiSale",
-      "category": ["gold", "platinam"],
-      "mainCategorie": "goldCoin",
-      "size": ["3", "4", "1.5", "2"],
-      "rating": 5,
-  "thumbnail":"https://www.tanishq.co.in/product/stunning-sleek-gold-mangalsutra-510781yzaab00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "dimond ring",
-      "description": "Dolorum eum temporibus quam magnam.",
-      "price": 417642,
-      "discountPercentage": 10,
-      "availableStock": 2,
-      "brand": "diwaliSale",
-      "category": ["dailyWear", "24Karat"],
-      "mainCategorie": "goldChain",
-      "size": ["3", "1.5", "4"],
-      "rating": 1,
-  "thumbnail":"https://www.tanishq.co.in/product/eminent-allure-solitaire-ring-50s3a1falah67.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "couple ring",
-      "description": "At voluptatem incidunt quod delectus eum molestiae labore unde pariatur.",
-      "price": 438352,
-      "discountPercentage": 6,
-      "availableStock": 3,
-      "brand": "holiSale",
-      "category": ["24Karat", "gold"],
-      "mainCategorie": "earrings",
-      "size": ["4", "2", "3", "1.5"],
-      "rating": 5,
-  "thumbnail":"https://www.tanishq.co.in/product/falling-for-you-couple-rings-51e2j1fbnaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "couple ring",
-      "description": "Voluptate iure cum quo quod minus aut rerum consequuntur libero.",
-      "price": 1710,
-      "discountPercentage": 10,
-      "availableStock": 4,
-      "brand": "newArrivals",
-      "category": ["gold", "dailyWear"],
-      "mainCategorie": "goldChain",
-      "size": ["4"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/soulmates-couple-rings-51e2j1fbaaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "silver chain",
-      "description": "Nulla eos veniam eum consequatur ipsa ipsum esse veritatis natus.",
-      "price": 242586,
-      "discountPercentage": 7,
-      "availableStock": 2,
-      "brand": "diwaliSale",
-      "category": ["gold", "platinam"],
-      "mainCategorie": "bracelet",
-      "size": ["3", "1.5", "2"],
-      "rating": 5,
-  "thumbnail":"https://www.tanishq.co.in/product/traditional-broad-chain-51d2a2cjzaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "silver chain",
-      "description": "Minus qui asperiores nostrum totam magnam reprehenderit amet qui qui.",
-      "price": 98499,
-      "discountPercentage": 1,
-      "availableStock": 7,
-      "brand": "diwaliSale",
-      "category": ["18Karat", "24Karat"],
-      "mainCategorie": "gifting",
-      "size": ["4", "3"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/traditional-broad-chain-51d2a2cjzaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "gold ring",
-      "description": "Dolorum odit laudantium asperiores officiis ea perspiciatis fugit.",
-      "price": 67210,
-      "discountPercentage": 5,
-      "availableStock": 1,
-      "brand": "newArrivals",
-      "category": ["wedding", "22Karat"],
-      "mainCategorie": "goldCoin",
-      "size": ["4"],
-      "rating": 1,
-  "thumbnail":"https://www.tanishq.co.in/product/fancy-glossy-gold-and-diamond-finger-ring-500596faaab02.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "rose gold chain",
-      "description": "Quia repellat quasi quaerat laborum alias voluptas voluptatibus voluptate.",
-      "price": 334117,
-      "discountPercentage": 7,
-      "availableStock": 8,
-      "brand": "newArrivals",
-      "category": ["gold", "silver"],
-      "mainCategorie": "bracelet",
-      "size": ["3", "4", "1.5", "2"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/traditional-broad-chain-51d2a2cjzaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "couple ring",
-      "description": "Cum necessitatibus facilis soluta vel quisquam velit.",
-      "price": 397075,
-      "discountPercentage": 3,
-      "availableStock": 4,
-      "brand": "diwaliSale",
-      "category": ["dimond", "silver"],
-      "mainCategorie": "goldChain",
-      "size": ["4", "1.5", "3"],
-      "rating": 3,
-  "thumbnail":"https://www.tanishq.co.in/product/bonfire-hearts-couple-rings-51e2j1fbcac00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "24karat gold coin",
-      "description": "Culpa ab vero praesentium et ut tempora nostrum.",
-      "price": 278062,
-      "discountPercentage": 5,
-      "availableStock": 6,
-      "brand": "newArrivals",
-      "category": ["platinam", "gold"],
-      "mainCategorie": "menKada",
-      "size": ["3", "4", "1.5", "2"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/om-motif-22-karat-10-gram-gold-coin-60c2eczaeaap00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "mangal sutra",
-      "description": "Earum ut quisquam.",
-      "price": 368494,
-      "discountPercentage": 0,
-      "availableStock": 8,
-      "brand": "diwaliSale",
-      "category": ["silver", "dimond"],
-      "mainCategorie": "bracelet",
-      "size": ["2"],
-      "rating": 1,
-  "thumbnail":"https://www.tanishq.co.in/product/contemporary-bell-mangalsutra-512219yptab00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "gold ring",
-      "description": "Iste atque voluptatem possimus eligendi autem exercitationem non ad mollitia.",
-      "price": 428357,
-      "discountPercentage": 6,
-      "availableStock": 4,
-      "brand": "holiSale",
-      "category": ["platinam", "22Karat"],
-      "mainCategorie": "menKada",
-      "size": ["4"],
-      "rating": 0,
-  "thumbnail":"https://www.tanishq.co.in/product/breathtaking-22-karat-yellow-gold-floral-motif-finger-ring-511920faoaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "silver chain",
-      "description": "Eum sunt perferendis sit non explicabo debitis ipsum unde ut.",
-      "price": 297255,
-      "discountPercentage": 9,
-      "availableStock": 9,
-      "brand": "newArrivals",
-      "category": ["platinam", "24Karat"],
-      "mainCategorie": "goldChain",
-      "size": ["3", "4", "1.5", "2"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/austere-gold-chain-501519cmkla00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "mangal sutra",
-      "description": "Natus quo veritatis vel sunt pariatur.",
-      "price": 17581,
-      "discountPercentage": 0,
-      "availableStock": 6,
-      "brand": "diwaliSale",
-      "category": ["silver", "dimond"],
-      "mainCategorie": "gifting",
-      "size": ["2"],
-      "rating": 1,
-  "thumbnail":"https://www.tanishq.co.in/product/elaborate-yellow-gold-beaded-mangalsutra-510896yoaab00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "dimond ring",
-      "description": "Qui eos eaque placeat ut.",
-      "price": 29263,
-      "discountPercentage": 4,
-      "availableStock": 2,
-      "brand": "holiSale",
-      "category": ["dimond", "24Karat"],
-      "mainCategorie": "goldCoin",
-      "size": ["4", "3", "1.5"],
-      "rating": 3,
-  "thumbnail":"https://www.tanishq.co.in/product/glamorous-ridged-gold-ring-for-men-51f1d1fkvaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "gold kada",
-      "description": "Sapiente excepturi eligendi ipsam voluptatem expedita explicabo sint qui autem.",
-      "price": 87099,
-      "discountPercentage": 7,
-      "availableStock": 6,
-      "brand": "newArrivals",
-      "category": ["dimond", "18Karat"],
-      "mainCategorie": "bracelet",
-      "size": ["3"],
-      "rating": 0,
-  "thumbnail":"https://www.tanishq.co.in/product/bajrang-bali-kada-for-men-51f2kpvbi1a00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "couple ring",
-      "description": "Sapiente sit sint porro facere illum alias itaque sed quo.",
-      "price": 377278,
-      "discountPercentage": 7,
-      "availableStock": 8,
-      "brand": "newArrivals",
-      "category": ["gold", "22Karat"],
-      "mainCategorie": "earrings",
-      "size": ["4", "1.5", "3"],
-      "rating": 0,
-  "thumbnail":"https://www.tanishq.co.in/product/be-mine-couple-rings-51e2j1fbbaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "rose gold chain",
-      "description": "Beatae sunt velit ut perspiciatis aut possimus excepturi.",
-      "price": 222959,
-      "discountPercentage": 7,
-      "availableStock": 3,
-      "brand": "diwaliSale",
-      "category": ["18Karat", "22Karat"],
-      "mainCategorie": "necklace",
-      "size": ["1.5"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/graceful-geometric-gold-chain-504025cifaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "gold ring",
-      "description": "Porro distinctio non sit quis id aut aliquid aut.",
-      "price": 488358,
-      "discountPercentage": 8,
-      "availableStock": 6,
-      "brand": "holiSale",
-      "category": ["18Karat", "dimond"],
-      "mainCategorie": "earrings",
-      "size": ["3"],
-      "rating": 3,
-  "thumbnail":"https://www.tanishq.co.in/product/subtle-marks-gold-finger-ring-for-men-51f1kpfpoaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "silver chain",
-      "description": "Vel blanditiis molestiae vel.",
-      "price": 185722,
-      "discountPercentage": 3,
-      "availableStock": 10,
-      "brand": "diwaliSale",
-      "category": ["24Karat", "22Karat"],
-      "mainCategorie": "goldCoin",
-      "size": ["4", "2"],
-      "rating": 0,
-  "thumbnail":"https://www.tanishq.co.in/product/austere-gold-chain-501519cmkla00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "gold kada",
-      "description": "Modi dolores voluptate officiis dolorem ea earum earum facere impedit.",
-      "price": 395760,
-      "discountPercentage": 4,
-      "availableStock": 3,
-      "brand": "diwaliSale",
-      "category": ["18Karat", "platinam"],
-      "mainCategorie": "menKada",
-      "size": ["3", "1.5", "2"],
-      "rating": 0,
-  "thumbnail":"https://www.tanishq.co.in/product/unique-style-link-gold-bracelet-for-men-51f1d1brmaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "gold dimond nechleck",
-      "description": "Ex praesentium omnis adipisci.",
-      "price": 432218,
-      "discountPercentage": 2,
-      "availableStock": 3,
-      "brand": "holiSale",
-      "category": ["24Karat", "gold"],
-      "mainCategorie": "goldChain",
-      "size": ["3", "4", "1.5"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/asymmetric-glam-diamond-necklace-50d3i1neoaa09.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "gold dimond nechleck",
-      "description": "Magnam facilis rem aut.",
-      "price": 210128,
-      "discountPercentage": 8,
-      "availableStock": 5,
-      "brand": "holiSale",
-      "category": ["24Karat", "dimond"],
-      "mainCategorie": "goldCoin",
-      "size": ["1.5", "2", "4", "3"],
-      "rating": 1,
-  "thumbnail":"https://www.tanishq.co.in/product/strung-together-diamond-necklace-50d3i1nenaa09.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "gold ring",
-      "description": "Dolorem rerum hic odit odio nisi aut.",
-      "price": 387881,
-      "discountPercentage": 2,
-      "availableStock": 2,
-      "brand": "diwaliSale",
-      "category": ["24Karat", "dimond"],
-      "mainCategorie": "earrings",
-      "size": ["3", "2", "4"],
-      "rating": 1,
-  "thumbnail":"https://www.tanishq.co.in/product/impressive-hollow-gold-finger-ring-for-men-51f1kpfonaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "24karat gold coin",
-      "description": "Quia aliquid velit et nobis consequuntur sit omnis voluptate corrupti.",
-      "price": 131696,
-      "discountPercentage": 5,
-      "availableStock": 3,
-      "brand": "newArrivals",
-      "category": ["gold", "silver"],
-      "mainCategorie": "bracelet",
-      "size": ["3", "2", "1.5"],
-      "rating": 5,
-  "thumbnail":"https://www.tanishq.co.in/product/goddess-lakshmi-with-lotus-motif-22-karat-gold-coin-51c2ecxajaaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "rose gold chain",
-      "description": "Aut sequi molestiae sequi et ducimus.",
-      "price": 378896,
-      "discountPercentage": 0,
-      "availableStock": 7,
-      "brand": "holiSale",
-      "category": ["dailyWear", "22Karat"],
-      "mainCategorie": "goldCoin",
-      "size": ["1.5", "3", "2"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/graceful-geometric-gold-chain-504025cifaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "gold dimond nechleck",
-      "description": "Rerum odio eos dolor magni.",
-      "price": 288209,
-      "discountPercentage": 10,
-      "availableStock": 9,
-      "brand": "newArrivals",
-      "category": ["silver", "dailyWear"],
-      "mainCategorie": "necklace",
-      "size": ["2", "1.5", "3"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/luminous-contemporary-diamond-necklace-set-5027842biaba09.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "silver chain",
-      "description": "Voluptatem illo optio rerum animi quos quo voluptatem voluptatum laboriosam.",
-      "price": 413121,
-      "discountPercentage": 7,
-      "availableStock": 3,
-      "brand": "newArrivals",
-      "category": ["platinam", "24Karat"],
-      "mainCategorie": "goldChain",
-      "size": ["3"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/stunning-gold-chain-500990caaba00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "wedding ring",
-      "description": "Inventore qui ea.",
-      "price": 57740,
-      "discountPercentage": 4,
-      "availableStock": 3,
-      "brand": "holiSale",
-      "category": ["18Karat", "dailyWear"],
-      "mainCategorie": "menKada",
-      "size": ["1.5", "3"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/impressive-hollow-gold-finger-ring-for-men-51f1kpfonaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "gold ring",
-      "description": "Ad mollitia laudantium modi atque placeat quo vitae.",
-      "price": 143998,
-      "discountPercentage": 9,
-      "availableStock": 10,
-      "brand": "newArrivals",
-      "category": ["dailyWear", "dimond"],
-      "mainCategorie": "gifting",
-      "size": ["2", "4", "1.5", "3"],
-      "rating": 3,
-  "thumbnail":"https://www.tanishq.co.in/product/cancer-zodiac-gold-finger-ring-50f1i2fbyaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "dimond ring",
-      "description": "Perferendis numquam amet veniam et ex quia modi.",
-      "price": 418582,
-      "discountPercentage": 0,
-      "availableStock": 10,
-      "brand": "newArrivals",
-      "category": ["18Karat", "24Karat"],
-      "mainCategorie": "menKada",
-      "size": ["2"],
-      "rating": 3,
-  "thumbnail":"https://www.tanishq.co.in/product/intertwining-leaves-rose-gold-and-diamond-finger-ring-503419fipaa09.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "gold ring",
-      "description": "Neque impedit ad earum odit iure sunt.",
-      "price": 448703,
-      "discountPercentage": 6,
-      "availableStock": 7,
-      "brand": "diwaliSale",
-      "category": ["platinam", "gold"],
-      "mainCategorie": "menKada",
-      "size": ["2", "3", "1.5"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/elegant-gold-finger-ring-512313fgeaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "wedding ring",
-      "description": "Deleniti ea harum sed quos rerum sed.",
-      "price": 444012,
-      "discountPercentage": 7,
-      "availableStock": 3,
-      "brand": "holiSale",
-      "category": ["platinam", "silver"],
-      "mainCategorie": "gifting",
-      "size": ["4"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/heart-to-heart-couple-rings-51e2j1fbmac00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "couple ring",
-      "description": "Et sit itaque ut natus id explicabo id recusandae esse.",
-      "price": 255833,
-      "discountPercentage": 2,
-      "availableStock": 7,
-      "brand": "holiSale",
-      "category": ["platinam", "silver"],
-      "mainCategorie": "gifting",
-      "size": ["1.5"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/love-potion-couple-rings-51e2j1fbwaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "mangal sutra",
-      "description": "Voluptatem exercitationem molestias velit voluptatem laborum alias reiciendis ea.",
-      "price": 272531,
-      "discountPercentage": 6,
-      "availableStock": 7,
-      "brand": "holiSale",
-      "category": ["wedding", "18Karat"],
-      "mainCategorie": "goldCoin",
-      "size": ["3", "1.5", "2", "4"],
-      "rating": 1,
-  "thumbnail":"https://www.tanishq.co.in/product/glistening-orb-mangalsutra-514025yowaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "wedding ring",
-      "description": "Nesciunt sed quis assumenda et.",
-      "price": 479229,
-      "discountPercentage": 0,
-      "availableStock": 4,
-      "brand": "diwaliSale",
-      "category": ["gold", "18Karat"],
-      "mainCategorie": "goldChain",
-      "size": ["1.5", "3", "2"],
-      "rating": 1,
-  "thumbnail":"https://www.tanishq.co.in/product/bold-square-diamond-ring-50g3i1fbuaa09.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "dimond ring",
-      "description": "Qui ut numquam nam atque voluptas aut aut earum.",
-      "price": 379986,
-      "discountPercentage": 5,
-      "availableStock": 6,
-      "brand": "newArrivals",
-      "category": ["dimond", "24Karat"],
-      "mainCategorie": "earrings",
-      "size": ["2", "1.5"],
-      "rating": 5,
-  
-  "thumbnail": "https://www.tanishq.co.in/product/bold-square-diamond-ring-50g3i1fbuaa09.html?lang=en_IN"   
-    },
-    {
-      "gender": "male",
-      "title": "gold ring",
-      "description": "Esse odio eveniet qui quas qui sunt odit.",
-      "price": 488982,
-      "discountPercentage": 6,
-      "availableStock": 2,
-      "brand": "holiSale",
-      "category": ["wedding", "18Karat"],
-      "mainCategorie": "goldChain",
-      "size": ["4"],
-      "rating": 4,
-  "thumbnail":"https://www.tanishq.co.in/product/elegant-gold-finger-ring-512313fgeaa00.html?lang=en_IN"
-    },
-    {
-      "gender": "male",
-      "title": "mangal sutra",
-      "description": "Culpa omnis qui itaque perspiciatis aut et sequi nesciunt non.",
-      "price": 257756,
-      "discountPercentage": 6,
-      "availableStock": 1,
-      "brand": "diwaliSale",
-      "category": ["gold", "24Karat"],
-      "mainCategorie": "earrings",
-      "size": ["2", "4"],
-      "rating": 5,
-  "thumbnail":"https://www.tanishq.co.in/product/elaborate-yellow-gold-beaded-mangalsutra-510896yoaab00.html?lang=en_IN"
-    },
-    {
-      "gender": "female",
-      "title": "couple ring",
-      "description": "Maiores qui eum quis eligendi reprehenderit suscipit reiciendis rerum suscipit.",
-      "price": 224859,
-      "discountPercentage": 5,
-      "availableStock": 1,
-      "brand": "newArrivals",
-      "category": ["platinam", "silver"],
-      "mainCategorie": "goldChain",
-      "size": ["2"],
-      "rating": 2,
-  "thumbnail":"https://www.tanishq.co.in/product/we-found-love-couple-rings-51e2j1fakaa00.html?lang=en_IN"
-    },
-  
   {
     "gender": "female",
     "title": "wedding ring",
@@ -2534,7 +1690,8 @@
     "category": ["platinam", "silver"],
     "mainCategorie": "gifting",
     "size": ["4"],
-    "rating": 4
+    "rating": 4,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbd1cff19/images/hi-res/511418FRFAA00_1.jpg"
   },
   {
     "gender": "female",
@@ -2547,7 +1704,8 @@
     "category": ["platinam", "silver"],
     "mainCategorie": "gifting",
     "size": ["1.5"],
-    "rating": 4
+    "rating": 4,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5943878f/images/hi-res/51E2J1FAPAA00_1.jpg"
   },
   {
     "gender": "male",
@@ -2560,7 +1718,8 @@
     "category": ["wedding", "18Karat"],
     "mainCategorie": "goldCoin",
     "size": ["3", "1.5", "2", "4"],
-    "rating": 1
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw696d0b49/images/hi-res/510781YZAAB00_1.jpg"
   },
   {
     "gender": "male",
@@ -2573,7 +1732,8 @@
     "category": ["gold", "18Karat"],
     "mainCategorie": "goldChain",
     "size": ["1.5", "3", "2"],
-    "rating": 1
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe45a55f2/images/hi-res/511419FMLAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -2586,7 +1746,8 @@
     "category": ["dimond", "24Karat"],
     "mainCategorie": "earrings",
     "size": ["2", "1.5"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc824a180/images/hi-res/50G3I1FBUAA09_1.jpg"
   },
   {
     "gender": "male",
@@ -2599,7 +1760,8 @@
     "category": ["wedding", "18Karat"],
     "mainCategorie": "goldChain",
     "size": ["4"],
-    "rating": 4
+    "rating": 4,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -2612,7 +1774,8 @@
     "category": ["gold", "24Karat"],
     "mainCategorie": "earrings",
     "size": ["2", "4"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc4da9ae0/images/hi-res/51D3B4YFLAA00_1.jpg"
   },
   {
     "gender": "female",
@@ -2625,7 +1788,8 @@
     "category": ["platinam", "silver"],
     "mainCategorie": "goldChain",
     "size": ["2"],
-    "rating": 2
+    "rating": 2,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbc6d0aa9/images/hi-res/51E2J1FARAA00_1.jpg"
   },
   {
     "gender": "male",
@@ -2638,7 +1802,8 @@
     "category": ["dimond", "18Karat"],
     "mainCategorie": "goldCoin",
     "size": ["2"],
-    "rating": 0
+    "rating": 0,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbd1cff19/images/hi-res/511418FRFAA00_1.jpg"
   },
   {
     "gender": "male",
@@ -2651,7 +1816,8 @@
     "category": ["dimond", "18Karat"],
     "mainCategorie": "necklace",
     "size": ["4"],
-    "rating": 4
+    "rating": 4,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw962006ad/images/hi-res/50G3I1FBUAA09_2.jpg"
   },
   {
     "gender": "male",
@@ -2664,7 +1830,8 @@
     "category": ["dailyWear", "wedding"],
     "mainCategorie": "goldCoin",
     "size": ["2"],
-    "rating": 4
+    "rating": 4,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7fe12ec1/images/hi-res/51F1KPVSL1A00_1.jpg"
   },
   {
     "gender": "female",
@@ -2677,7 +1844,8 @@
     "category": ["wedding", "18Karat"],
     "mainCategorie": "necklace",
     "size": ["1.5", "3", "2", "4"],
-    "rating": 1
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8f83428e/images/hi-res/50S3A1FALAH67_2.jpg"
   },
   {
     "gender": "female",
@@ -2690,7 +1858,8 @@
     "category": ["wedding", "dailyWear"],
     "mainCategorie": "goldChain",
     "size": ["1.5", "3", "2"],
-    "rating": 1
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw81cffa14/images/hi-res/504025CYYAA00_1.jpg"
   },
   {
     "gender": "female",
@@ -2703,7 +1872,8 @@
     "category": ["platinam", "24Karat"],
     "mainCategorie": "goldCoin",
     "size": ["2", "1.5", "4"],
-    "rating": 0
+    "rating": 0,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd63bc3e6/images/hi-res/512621VJC1A00_1.jpg"
   },
   {
     "gender": "female",
@@ -2716,7 +1886,8 @@
     "category": ["22Karat", "gold"],
     "mainCategorie": "menKada",
     "size": ["3", "1.5"],
-    "rating": 1
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2e82d1cf/images/hi-res/51E2J1FAMAC00_1.jpg"
   },
   {
     "gender": "female",
@@ -2729,7 +1900,8 @@
     "category": ["platinam", "18Karat"],
     "mainCategorie": "earrings",
     "size": ["4", "2", "3"],
-    "rating": 1
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5b2de935/images/hi-res/504025CYYAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -2742,7 +1914,8 @@
     "category": ["platinam", "dimond"],
     "mainCategorie": "necklace",
     "size": ["1.5"],
-    "rating": 0
+    "rating": 0,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw98641fe6/images/hi-res/51E2J1FBWAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -2755,7 +1928,8 @@
     "category": ["22Karat", "wedding"],
     "mainCategorie": "menKada",
     "size": ["1.5", "2", "4"],
-    "rating": 4
+    "rating": 4,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe45a55f2/images/hi-res/511419FMLAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -2768,7 +1942,8 @@
     "category": ["silver", "24Karat"],
     "mainCategorie": "menKada",
     "size": ["3", "2"],
-    "rating": 1
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe02cdd62/images/hi-res/50D5PTNXIAA02_2.jpg"
   },
   {
     "gender": "female",
@@ -2781,7 +1956,8 @@
     "category": ["22Karat", "dailyWear"],
     "mainCategorie": "goldChain",
     "size": ["1.5", "3", "2", "4"],
-    "rating": 0
+    "rating": 0,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5f44cc6f/images/hi-res/4019XCJ_2.jpg"
   },
   {
     "gender": "male",
@@ -2794,7 +1970,8 @@
     "category": ["dailyWear", "18Karat"],
     "mainCategorie": "gifting",
     "size": ["4", "3", "2", "1.5"],
-    "rating": 3
+    "rating": 3,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -2807,7 +1984,8 @@
     "category": ["24Karat", "platinam"],
     "mainCategorie": "earrings",
     "size": ["3", "1.5"],
-    "rating": 0
+    "rating": 0,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa899ed8b/images/hi-res/51C2DTXAMAAA00_1.jpg"
   },
   {
     "gender": "male",
@@ -2820,7 +1998,8 @@
     "category": ["dailyWear", "gold"],
     "mainCategorie": "ring",
     "size": ["1.5", "3", "4", "2"],
-    "rating": 0
+    "rating": 0,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe02cdd62/images/hi-res/50D5PTNXIAA02_2.jpg"
   },
   {
     "gender": "male",
@@ -2833,7 +2012,8 @@
     "category": ["wedding", "24Karat"],
     "mainCategorie": "bracelet",
     "size": ["2", "4"],
-    "rating": 4
+    "rating": 4,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -2846,7 +2026,8 @@
     "category": ["dimond", "dailyWear"],
     "mainCategorie": "necklace",
     "size": ["2", "1.5", "3"],
-    "rating": 3
+    "rating": 3,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe02cdd62/images/hi-res/50D5PTNXIAA02_2.jpg"
   },
   {
     "gender": "male",
@@ -2859,7 +2040,8 @@
     "category": ["18Karat", "silver"],
     "mainCategorie": "goldCoin",
     "size": ["4", "2", "1.5", "3"],
-    "rating": 3
+    "rating": 3,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw397f8b16/images/hi-res/501519CMMLA00_2.jpg"
   },
   {
     "gender": "female",
@@ -2872,7 +2054,8 @@
     "category": ["22Karat", "gold"],
     "mainCategorie": "necklace",
     "size": ["1.5", "3"],
-    "rating": 2
+    "rating": 2,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfe5b3511/images/hi-res/2923FJY_1.jpg"
   },
   {
     "gender": "male",
@@ -2885,7 +2068,8 @@
     "category": ["gold", "platinam"],
     "mainCategorie": "goldCoin",
     "size": ["2", "4", "3"],
-    "rating": 3
+    "rating": 3,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbd1cff19/images/hi-res/511418FRFAA00_1.jpg"
   },
   {
     "gender": "female",
@@ -2898,7 +2082,8 @@
     "category": ["silver", "24Karat"],
     "mainCategorie": "menKada",
     "size": ["4", "2"],
-    "rating": 2
+    "rating": 2,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6b1a1df1/images/hi-res/51C2ECXAAAAA00.jpg"
   },
   {
     "gender": "male",
@@ -2911,7 +2096,8 @@
     "category": ["wedding", "dailyWear"],
     "mainCategorie": "ring",
     "size": ["1.5", "4", "2", "3"],
-    "rating": 3
+    "rating": 3,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbd1cff19/images/hi-res/511418FRFAA00_1.jpg"
   },
   {
     "gender": "male",
@@ -2924,7 +2110,8 @@
     "category": ["24Karat", "wedding"],
     "mainCategorie": "goldChain",
     "size": ["3"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8b3262c3/images/hi-res/511819VSX1A00_2.jpg"
   },
   {
     "gender": "male",
@@ -2937,7 +2124,8 @@
     "category": ["wedding", "platinam"],
     "mainCategorie": "ring",
     "size": ["2"],
-    "rating": 3
+    "rating": 3,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf4329e10/images/hi-res/501519CMKLA00_1.jpg"
   },
   {
     "gender": "male",
@@ -2950,7 +2138,8 @@
     "category": ["gold", "platinam"],
     "mainCategorie": "necklace",
     "size": ["3"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw98641fe6/images/hi-res/51E2J1FBWAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -2963,7 +2152,8 @@
     "category": ["22Karat", "18Karat"],
     "mainCategorie": "goldCoin",
     "size": ["3"],
-    "rating": 1
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe02cdd62/images/hi-res/50D5PTNXIAA02_2.jpg"
   },
   {
     "gender": "female",
@@ -2976,7 +2166,8 @@
     "category": ["silver", "dimond"],
     "mainCategorie": "bracelet",
     "size": ["2", "1.5", "3", "4"],
-    "rating": 2
+    "rating": 2,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw54cf2890/images/hi-res/503419FIPAA09_2.jpg"
   },
   {
     "gender": "female",
@@ -2989,7 +2180,8 @@
     "category": ["dailyWear", "22Karat"],
     "mainCategorie": "bracelet",
     "size": ["3", "2", "1.5", "4"],
-    "rating": 2
+    "rating": 2,
+    "thumbnail": "https://www.tanishq.co.in/product/classic-subtle-kada-for-men-511178vhl1a00.html?lang=en_IN"
   },
   {
     "gender": "female",
@@ -3002,7 +2194,8 @@
     "category": ["22Karat", "wedding"],
     "mainCategorie": "necklace",
     "size": ["3", "1.5", "4"],
-    "rating": 2
+    "rating": 2,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw292f7229/images/hi-res/511819VSX1A00_1.jpg"
   },
   {
     "gender": "male",
@@ -3015,7 +2208,8 @@
     "category": ["wedding", "dailyWear"],
     "mainCategorie": "ring",
     "size": ["2", "4", "1.5"],
-    "rating": 4
+    "rating": 4,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfed1e39a/images/hi-res/51C2ECXAFAAA00.jpg"
   },
   {
     "gender": "male",
@@ -3028,7 +2222,8 @@
     "category": ["silver", "gold"],
     "mainCategorie": "menKada",
     "size": ["2", "3", "1.5"],
-    "rating": 3
+    "rating": 3,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw707149ed/images/hi-res/50F1D1CPZAA00_6.jpg"
   },
   {
     "gender": "male",
@@ -3041,7 +2236,8 @@
     "category": ["wedding", "18Karat"],
     "mainCategorie": "menKada",
     "size": ["1.5", "2", "4", "3"],
-    "rating": 3
+    "rating": 3,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw962006ad/images/hi-res/50G3I1FBUAA09_2.jpg"
   },
   {
     "gender": "male",
@@ -3054,7 +2250,8 @@
     "category": ["24Karat", "silver"],
     "mainCategorie": "earrings",
     "size": ["3", "1.5", "2", "4"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbd1cff19/images/hi-res/511418FRFAA00_1.jpg"
   },
   {
     "gender": "male",
@@ -3067,7 +2264,8 @@
     "category": ["dailyWear", "dimond"],
     "mainCategorie": "gifting",
     "size": ["3", "2", "4", "1.5"],
-    "rating": 4
+    "rating": 4,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19a832aa/images/hi-res/51F1D1VRU1A00_1.jpg"
   },
   {
     "gender": "male",
@@ -3080,7 +2278,8 @@
     "category": ["dailyWear", "24Karat"],
     "mainCategorie": "earrings",
     "size": ["3", "1.5", "2"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3093,7 +2292,8 @@
     "category": ["18Karat", "gold"],
     "mainCategorie": "necklace",
     "size": ["4", "3", "2"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf3409394/images/hi-res/2923FJY.jpg"
   },
   {
     "gender": "female",
@@ -3106,7 +2306,8 @@
     "category": ["wedding", "24Karat"],
     "mainCategorie": "gifting",
     "size": ["2", "4", "1.5"],
-    "rating": 3
+    "rating": 3,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw23770899/images/hi-res/51D3A1FAYAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3119,7 +2320,8 @@
     "category": ["platinam", "22Karat"],
     "mainCategorie": "goldChain",
     "size": ["2", "4", "1.5"],
-    "rating": 1
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19a832aa/images/hi-res/51F1D1VRU1A00_1.jpg"
   },
   {
     "gender": "female",
@@ -3132,7 +2334,8 @@
     "category": ["wedding", "24Karat"],
     "mainCategorie": "menKada",
     "size": ["4", "1.5"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5b2de935/images/hi-res/504025CYYAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3145,7 +2348,8 @@
     "category": ["24Karat", "dailyWear"],
     "mainCategorie": "necklace",
     "size": ["4"],
-    "rating": 4
+    "rating": 4,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6b1a1df1/images/hi-res/51C2ECXAAAAA00.jpg"
   },
   {
     "gender": "male",
@@ -3158,7 +2362,8 @@
     "category": ["dimond", "24Karat"],
     "mainCategorie": "ring",
     "size": ["2"],
-    "rating": 5
+    "rating": 5,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3171,7 +2376,8 @@
     "category": ["dailyWear", "22Karat"],
     "mainCategorie": "necklace",
     "size": ["4", "1.5"],
-    "rating": 1
+    "rating": 1,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1ba64413/images/hi-res/51F1D1VRU1A00_2.jpg"
   },
   {
     "gender": "female",
@@ -3184,7 +2390,8 @@
     "category": ["18Karat", "24Karat"],
     "mainCategorie": "necklace",
     "size": ["4"],
-    "rating": 2
+    "rating": 2,
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfe5b3511/images/hi-res/2923FJY_1.jpg"
   },
   {
     "gender": "female",
@@ -3198,7 +2405,7 @@
     "mainCategorie": "goldChain",
     "size": ["3", "4"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2ba1f70d/images/hi-res/50D3C2FJJAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2ba1f70d/images/hi-res/50D3C2FJJAA02_2.jpg"
   },
   {
     "gender": "female",
@@ -3212,7 +2419,7 @@
     "mainCategorie": "necklace",
     "size": ["4", "1.5"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw06e486bb/images/hi-res/600209ZAARAS00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw06e486bb/images/hi-res/600209ZAARAS00_2.jpg"
   },
   {
     "gender": "female",
@@ -3226,7 +2433,7 @@
     "mainCategorie": "goldCoin",
     "size": ["4"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb12d5ce1/images/hi-res/501719CQFAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb12d5ce1/images/hi-res/501719CQFAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3240,7 +2447,7 @@
     "mainCategorie": "goldChain",
     "size": ["4", "1.5", "3", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3592e7e2/images/hi-res/51D3D2CWWAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3592e7e2/images/hi-res/51D3D2CWWAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3254,63 +2461,7 @@
     "mainCategorie": "gifting",
     "size": ["3", "4"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0c73a0d0/images/hi-res/5134202DAABA00_2.jpg"
-  },
-  {
-    "gender": "male",
-    "title": "dimond ring",
-    "description": "Qui et voluptas.",
-    "price": 373167,
-    "discountPercentage": 7,
-    "availableStock": 6,
-    "brand": "holiSale",
-    "category": ["silver", "wedding"],
-    "mainCategorie": "bracelet",
-    "size": ["3"],
-    "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3e104041/images/hi-res/50G312FBIAA02_2.jpg"
-  },
-  {
-    "gender": "female",
-    "title": "rose gold chain",
-    "description": "Dolore ut non ut quae nostrum culpa expedita est eius.",
-    "price": 372514,
-    "discountPercentage": 3,
-    "availableStock": 10,
-    "brand": "newArrivals",
-    "category": ["silver", "dailyWear"],
-    "mainCategorie": "bracelet",
-    "size": ["4"],
-    "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3913ba48/images/hi-res/504025CZIAA00_2.jpg"
-  },
-  {
-    "gender": "female",
-    "title": "couple ring",
-    "description": "Ducimus dolor sint consectetur cupiditate id cupiditate.",
-    "price": 401686,
-    "discountPercentage": 2,
-    "availableStock": 8,
-    "brand": "diwaliSale",
-    "category": ["24Karat", "dailyWear"],
-    "mainCategorie": "goldChain",
-    "size": ["1.5"],
-    "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc9e71853/images/hi-res/51E2J1FBKAA00_2.jpg"
-  },
-  {
-    "gender": "male",
-    "title": "couple ring",
-    "description": "Quisquam quia voluptatibus necessitatibus sint id enim.",
-    "price": 260934,
-    "discountPercentage": 5,
-    "availableStock": 3,
-    "brand": "newArrivals",
-    "category": ["gold", "dailyWear"],
-    "mainCategorie": "bracelet",
-    "size": ["1.5", "4"],
-    "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd73df6fb/images/hi-res/51E2J1FAPAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0c73a0d0/images/hi-res/5134202DAABA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3324,7 +2475,7 @@
     "mainCategorie": "necklace",
     "size": ["3", "4", "2", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfe3a458a/images/hi-res/600113ZBARAS00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfe3a458a/images/hi-res/600113ZBARAS00_2.jpg"
   },
   {
     "gender": "male",
@@ -3338,7 +2489,7 @@
     "mainCategorie": "gifting",
     "size": ["2"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4fbdf99d/images/hi-res/600105ZDARAS00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4fbdf99d/images/hi-res/600105ZDARAS00_2.jpg"
   },
   {
     "gender": "female",
@@ -3352,7 +2503,7 @@
     "mainCategorie": "menKada",
     "size": ["4", "1.5", "3", "2"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0af5919c/images/hi-res/50D3P22AMABAP6_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0af5919c/images/hi-res/50D3P22AMABAP6_2.jpg"
   },
   {
     "gender": "female",
@@ -3366,7 +2517,7 @@
     "mainCategorie": "bracelet",
     "size": ["1.5", "3", "2", "4"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf6866b8e/images/hi-res/50O3UN2BSABA29_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf6866b8e/images/hi-res/50O3UN2BSABA29_2.jpg"
   },
   {
     "gender": "female",
@@ -3380,7 +2531,7 @@
     "mainCategorie": "bracelet",
     "size": ["1.5", "2", "3", "4"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd4d5c344/images/hi-res/50D2P2FZPAA32_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd4d5c344/images/hi-res/50D2P2FZPAA32_2.jpg"
   },
   {
     "gender": "female",
@@ -3394,7 +2545,7 @@
     "mainCategorie": "menKada",
     "size": ["1.5"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw306ed1e1/images/hi-res/51E2J1FBDAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw306ed1e1/images/hi-res/51E2J1FBDAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3408,7 +2559,7 @@
     "mainCategorie": "gifting",
     "size": ["4", "1.5"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa0ce498f/images/hi-res/5027212AMABA02_1.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa0ce498f/images/hi-res/5027212AMABA02_1.jpg"
   },
   {
     "gender": "male",
@@ -3422,7 +2573,7 @@
     "mainCategorie": "goldCoin",
     "size": ["1.5"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6eb85737/images/hi-res/512621VJD1A00_1.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6eb85737/images/hi-res/512621VJD1A00_1.jpg"
   },
   {
     "gender": "male",
@@ -3436,7 +2587,7 @@
     "mainCategorie": "bracelet",
     "size": ["1.5", "3", "4", "2"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwdc47cc50/images/hi-res/50G3I1FCWAA31_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwdc47cc50/images/hi-res/50G3I1FCWAA31_2.jpg"
   },
   {
     "gender": "male",
@@ -3450,7 +2601,7 @@
     "mainCategorie": "menKada",
     "size": ["2", "1.5", "3", "4"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw22fd506c/images/hi-res/50G2PTFFUAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw22fd506c/images/hi-res/50G2PTFFUAA02_2.jpg"
   },
   {
     "gender": "female",
@@ -3464,7 +2615,7 @@
     "mainCategorie": "gifting",
     "size": ["1.5", "3", "2"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfcdf16f1/images/hi-res/51F1D1CQDAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfcdf16f1/images/hi-res/51F1D1CQDAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3478,7 +2629,7 @@
     "mainCategorie": "ring",
     "size": ["3", "4", "1.5", "2"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw28c84170/images/hi-res/51D2D2CBAAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw28c84170/images/hi-res/51D2D2CBAAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3492,7 +2643,7 @@
     "mainCategorie": "necklace",
     "size": ["4", "1.5"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcd9c0f16/images/hi-res/51E2J1FBBAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcd9c0f16/images/hi-res/51E2J1FBBAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3506,7 +2657,7 @@
     "mainCategorie": "bracelet",
     "size": ["1.5"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb61ddb41/images/hi-res/50D2P2FZJAA32_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb61ddb41/images/hi-res/50D2P2FZJAA32_2.jpg"
   },
   {
     "gender": "male",
@@ -3520,7 +2671,7 @@
     "mainCategorie": "goldCoin",
     "size": ["2"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw686b6952/images/hi-res/502621CHWAA00_6.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw686b6952/images/hi-res/502621CHWAA00_6.jpg"
   },
   {
     "gender": "female",
@@ -3534,7 +2685,7 @@
     "mainCategorie": "goldCoin",
     "size": ["1.5"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw57fc0b8a/images/hi-res/503218FMAAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw57fc0b8a/images/hi-res/503218FMAAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3548,7 +2699,7 @@
     "mainCategorie": "goldCoin",
     "size": ["3", "2", "4"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe6bf5c76/images/hi-res/51E2J1FAKAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe6bf5c76/images/hi-res/51E2J1FAKAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3562,7 +2713,7 @@
     "mainCategorie": "ring",
     "size": ["2", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe86f8afb/images/hi-res/50D3C3FACAA09_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe86f8afb/images/hi-res/50D3C3FACAA09_2.jpg"
   },
   {
     "gender": "male",
@@ -3576,7 +2727,7 @@
     "mainCategorie": "goldChain",
     "size": ["3", "1.5", "4"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6d31c313/images/hi-res/511030VIC1A00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6d31c313/images/hi-res/511030VIC1A00_2.jpg"
   },
   {
     "gender": "male",
@@ -3590,7 +2741,7 @@
     "mainCategorie": "gifting",
     "size": ["2", "4", "1.5"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw730fa7af/images/hi-res/600906ZAARAS00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw730fa7af/images/hi-res/600906ZAARAS00_2.jpg"
   },
   {
     "gender": "female",
@@ -3604,7 +2755,7 @@
     "mainCategorie": "gifting",
     "size": ["1.5", "4", "2"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe967b39b/images/hi-res/50D3FFNACAA10_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe967b39b/images/hi-res/50D3FFNACAA10_2.jpg"
   },
   {
     "gender": "female",
@@ -3618,7 +2769,7 @@
     "mainCategorie": "ring",
     "size": ["2", "4", "3", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw28a5aebc/images/hi-res/50D3FFNADAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw28a5aebc/images/hi-res/50D3FFNADAA02_2.jpg"
   },
   {
     "gender": "female",
@@ -3632,7 +2783,7 @@
     "mainCategorie": "goldChain",
     "size": ["3", "4", "1.5", "2"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9b385ce7/images/hi-res/74D3B3CUIAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9b385ce7/images/hi-res/74D3B3CUIAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3646,7 +2797,7 @@
     "mainCategorie": "earrings",
     "size": ["3", "1.5", "2"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcf848e68/images/hi-res/51W3C1YIWAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcf848e68/images/hi-res/51W3C1YIWAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3660,7 +2811,7 @@
     "mainCategorie": "earrings",
     "size": ["2", "1.5", "3"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4bdf9881/images/hi-res/50D3C1YPQAA32_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4bdf9881/images/hi-res/50D3C1YPQAA32_2.jpg"
   },
   {
     "gender": "male",
@@ -3674,7 +2825,7 @@
     "mainCategorie": "earrings",
     "size": ["4", "3", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2bcf7d31/images/hi-res/50G3C1FCIAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2bcf7d31/images/hi-res/50G3C1FCIAA02_2.jpg"
   },
   {
     "gender": "female",
@@ -3688,7 +2839,7 @@
     "mainCategorie": "ring",
     "size": ["3", "4", "2", "1.5"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw63731ca3/images/hi-res/51D4MPFBQAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw63731ca3/images/hi-res/51D4MPFBQAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3702,7 +2853,7 @@
     "mainCategorie": "goldChain",
     "size": ["1.5", "4", "3", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc48fb1bc/images/hi-res/500993CECAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc48fb1bc/images/hi-res/500993CECAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3716,7 +2867,7 @@
     "mainCategorie": "ring",
     "size": ["4", "1.5", "3"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc097f4f3/images/hi-res/51C2ECXAFAAA00_1.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc097f4f3/images/hi-res/51C2ECXAFAAA00_1.jpg"
   },
   {
     "gender": "female",
@@ -3730,7 +2881,7 @@
     "mainCategorie": "bracelet",
     "size": ["3", "2", "1.5", "4"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3913ba48/images/hi-res/504025CZIAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3913ba48/images/hi-res/504025CZIAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3744,7 +2895,7 @@
     "mainCategorie": "goldChain",
     "size": ["1.5", "4", "2"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb0032806/images/hi-res/50F1D1CPOAA00_6.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb0032806/images/hi-res/50F1D1CPOAA00_6.jpg"
   },
   {
     "gender": "male",
@@ -3758,7 +2909,7 @@
     "mainCategorie": "gifting",
     "size": ["2"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd31b99dc/images/hi-res/50D1D1CWHAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd31b99dc/images/hi-res/50D1D1CWHAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3772,7 +2923,7 @@
     "mainCategorie": "goldChain",
     "size": ["2", "3", "1.5", "4"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwea7e7dd2/images/hi-res/502621CIXAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwea7e7dd2/images/hi-res/502621CIXAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3786,7 +2937,7 @@
     "mainCategorie": "bracelet",
     "size": ["1.5"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc47211b3/images/hi-res/553822FLDAE09_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc47211b3/images/hi-res/553822FLDAE09_2.jpg"
   },
   {
     "gender": "female",
@@ -3800,7 +2951,7 @@
     "mainCategorie": "bracelet",
     "size": ["2", "1.5"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3747a32f/images/hi-res/510429FFAAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3747a32f/images/hi-res/510429FFAAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3814,7 +2965,7 @@
     "mainCategorie": "gifting",
     "size": ["4"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw175afb91/images/hi-res/51F2KPVBN1A00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw175afb91/images/hi-res/51F2KPVBN1A00_2.jpg"
   },
   {
     "gender": "male",
@@ -3828,7 +2979,7 @@
     "mainCategorie": "bracelet",
     "size": ["4"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7e3cf352/images/hi-res/50G3C1FEIAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7e3cf352/images/hi-res/50G3C1FEIAA02_2.jpg"
   },
   {
     "gender": "male",
@@ -3842,7 +2993,7 @@
     "mainCategorie": "gifting",
     "size": ["1.5", "3", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd8c7050a/images/hi-res/512621VFS1A00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd8c7050a/images/hi-res/512621VFS1A00_2.jpg"
   },
   {
     "gender": "male",
@@ -3856,7 +3007,7 @@
     "mainCategorie": "gifting",
     "size": ["4", "3", "2", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf74884e4/images/hi-res/51F1D1CPWAA00_6.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf74884e4/images/hi-res/51F1D1CPWAA00_6.jpg"
   },
   {
     "gender": "male",
@@ -3870,7 +3021,7 @@
     "mainCategorie": "gifting",
     "size": ["2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw243229d5/images/hi-res/51G3I2FHYAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw243229d5/images/hi-res/51G3I2FHYAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3884,7 +3035,7 @@
     "mainCategorie": "goldCoin",
     "size": ["1.5", "4", "2"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb12d5ce1/images/hi-res/501719CQFAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb12d5ce1/images/hi-res/501719CQFAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3898,7 +3049,7 @@
     "mainCategorie": "necklace",
     "size": ["3"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3592e7e2/images/hi-res/51D3D2CWWAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3592e7e2/images/hi-res/51D3D2CWWAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3912,7 +3063,7 @@
     "mainCategorie": "gifting",
     "size": ["1.5", "3", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe631f9fb/images/hi-res/50F3I1FBDAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe631f9fb/images/hi-res/50F3I1FBDAA02_2.jpg"
   },
   {
     "gender": "female",
@@ -3926,7 +3077,7 @@
     "mainCategorie": "necklace",
     "size": ["3", "1.5"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0686b443/images/hi-res/50D3B3FICAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0686b443/images/hi-res/50D3B3FICAA02_2.jpg"
   },
   {
     "gender": "male",
@@ -3940,7 +3091,7 @@
     "mainCategorie": "goldCoin",
     "size": ["2", "1.5"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw196804e1/images/hi-res/51E2J1FAIAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw196804e1/images/hi-res/51E2J1FAIAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -3954,7 +3105,7 @@
     "mainCategorie": "necklace",
     "size": ["4", "3", "2", "1.5"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf6c185fd/images/hi-res/50D3C1FMNAA10_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf6c185fd/images/hi-res/50D3C1FMNAA10_2.jpg"
   },
   {
     "gender": "male",
@@ -3968,7 +3119,7 @@
     "mainCategorie": "ring",
     "size": ["1.5", "2"],
     "rating": 4,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw57ed153a/images/hi-res/51E2J1FAZAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw57ed153a/images/hi-res/51E2J1FAZAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3982,7 +3133,7 @@
     "mainCategorie": "earrings",
     "size": ["2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc9e71853/images/hi-res/51E2J1FBKAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc9e71853/images/hi-res/51E2J1FBKAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -3996,7 +3147,7 @@
     "mainCategorie": "necklace",
     "size": ["4", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwaf00be9e/images/hi-res/50G2PTFFXAA02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwaf00be9e/images/hi-res/50G2PTFFXAA02_2.jpg"
   },
   {
     "gender": "male",
@@ -4010,7 +3161,7 @@
     "mainCategorie": "goldCoin",
     "size": ["2", "3"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4ded6b9a/images/hi-res/512621VFV1A00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4ded6b9a/images/hi-res/512621VFV1A00_2.jpg"
   },
   {
     "gender": "female",
@@ -4024,7 +3175,7 @@
     "mainCategorie": "ring",
     "size": ["4", "2"],
     "rating": 0,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw04d72b02/images/hi-res/51E2J1FBEAA00_2.jpg "
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw04d72b02/images/hi-res/51E2J1FBEAA00_2.jpg "
   },
   {
     "gender": "female",
@@ -4038,7 +3189,7 @@
     "mainCategorie": "gifting",
     "size": ["2", "3", "1.5"],
     "rating": 2,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwde7bb155/images/hi-res/51E2J1FAMAC00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwde7bb155/images/hi-res/51E2J1FAMAC00_2.jpg"
   },
   {
     "gender": "female",
@@ -4052,7 +3203,7 @@
     "mainCategorie": "menKada",
     "size": ["4", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwefbbcd16/images/hi-res/50D2FFFSEAA02_1.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwefbbcd16/images/hi-res/50D2FFFSEAA02_1.jpg"
   },
   {
     "gender": "male",
@@ -4066,7 +3217,7 @@
     "mainCategorie": "bracelet",
     "size": ["3", "4", "1.5"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7811ee07/images/hi-res/502621CHQAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7811ee07/images/hi-res/502621CHQAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -4080,7 +3231,7 @@
     "mainCategorie": "goldChain",
     "size": ["1.5", "3", "4"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb0cc30f9/images/hi-res/502992FGPAA10_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb0cc30f9/images/hi-res/502992FGPAA10_2.jpg"
   },
   {
     "gender": "female",
@@ -4094,7 +3245,7 @@
     "mainCategorie": "menKada",
     "size": ["1.5", "3", "4", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4e855644/images/hi-res/504025CIFAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4e855644/images/hi-res/504025CIFAA00_2.jpg"
   },
   {
     "gender": "male",
@@ -4108,7 +3259,7 @@
     "mainCategorie": "goldCoin",
     "size": ["4", "1.5"],
     "rating": 3,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8466c34e/images/hi-res/500596FAAAB02_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8466c34e/images/hi-res/500596FAAAB02_2.jpg"
   },
   {
     "gender": "male",
@@ -4122,7 +3273,7 @@
     "mainCategorie": "goldChain",
     "size": ["3", "2"],
     "rating": 5,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw98641fe6/images/hi-res/51E2J1FBWAA00_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw98641fe6/images/hi-res/51E2J1FBWAA00_2.jpg"
   },
   {
     "gender": "female",
@@ -4136,6 +3287,6 @@
     "mainCategorie": "goldCoin",
     "size": ["4", "1.5"],
     "rating": 1,
-    "thumbnail":"https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw54cf2890/images/hi-res/503419FIPAA09_2.jpg"
+    "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw54cf2890/images/hi-res/503419FIPAA09_2.jpg"
   }
 ]
