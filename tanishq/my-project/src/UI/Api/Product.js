@@ -2,14 +2,18 @@ import { APIinstance } from "./axiosConfig";
 
 
 // =================GetAllProduct API===========================
-export const fetchAllProduct = async () => {
+export const fetchAllProduct = async ({limit,page,searchQuery}) => {
   try {
-    let response = await APIinstance.get("/product/getAll");
+    let response = await APIinstance.get("/product/getAllPaginate",{
+      params:{page,limit,search:searchQuery}
+    });
     return { error: null, data: response.data };
   } catch (error) {
     return { error: error, data: null };
   }
 };
+
+
 
 // export const deleteProduct = async (id,token) => {
 //   try {
@@ -40,10 +44,11 @@ export const deleteProduct = async (id, token) => {
   }
 };
 
-// =================GetAllProduct API===========================
-export const createProduct = async () => {
+// =================Crete Product API===========================
+export const createProduct = async (data) => {
+  console.log("🚀 ~ file: Product.js:47 ~ createProduct ~ data:", data)
   try {
-    let response = await APIinstance.post("/product/create");
+    let response = await APIinstance.post("/product/create",data);
     console.log("Createe Product", response)
     return { error: null, data: response.data };
   } catch (error) {
