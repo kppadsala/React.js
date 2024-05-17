@@ -13,7 +13,7 @@ export function ProtectRouter({ Component }) {
 
 export function LoginProtected({ Component }) {
   const [cookies, setCookie] = useCookies(["token"]);
-  const navigate = useNavigate();
+  const navigate = useNavigate(); 
   useEffect(() => {
     if (cookies.token) return navigate(-1);
   });

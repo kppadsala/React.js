@@ -25,7 +25,9 @@ export default function Login() {
     } else {
       setCookie("token",data.token);
       setCookie("user",data.data);
-   navigate("/")
+      if (data.data.userType === "admin") navigate("/product");
+      else navigate("/");
+    
     }
   };
  

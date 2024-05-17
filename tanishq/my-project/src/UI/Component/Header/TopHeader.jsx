@@ -8,7 +8,7 @@ import { useCookies } from "react-cookie";
 
 export default function TopHeader(modal, toggle) {
   const navigate = useNavigate();
-  const [cookies, setCookie] = useCookies([]);
+  const [cookies, setCookie] = useCookies(["token", "user"]);
   // console.log(" cookiesdata ========>", cookies);
 
   return (
@@ -32,28 +32,32 @@ export default function TopHeader(modal, toggle) {
             />
           </span>
           <div className="flex  py-3 mt-3 gap-4 justify-center">
-            <span
+            {/* <span
               className=" px-2  flex flex-col justify-center items-center hover:scale-110 transiti transition duration-700 ease-in-out cursor-pointer"
-              onClick={() => navigate("/product")}
+              
             >
               <LiaStoreAltSolid className="text-2xl text-[#832729]" />
               <p className="text-xm text-[#832729]">STORE</p>
-            </span>
+            </span> */}
+            {cookies?.user?.userType !== "admin" && (
+              <>
+                <span
+                  className=" px-2  flex flex-col justify-center items-center hover:scale-110 transiti transition duration-700 ease-in-out cursor-pointer"
+                  onClick={() => navigate("/WishList")}
+                >
+                  <CiHeart className="text-2xl text-[#832729]" />
+                  <p className="text-xm text-[#832729]">WISHLIST</p>
+                </span>
+                <span className=" px-2  flex flex-col justify-center items-center hover:scale-110 transiti transition duration-700 ease-in-out cursor-pointer" onClick={() => navigate("/CartPage")}>
+                  <PiShoppingCartThin
+                    className="text-2xl text-[#832729] "
+                    
+                  />
+                  <p className="text-xm text-[#832729]">CART</p>
+                </span>
+              </>
+            )}
 
-            <span
-              className=" px-2  flex flex-col justify-center items-center hover:scale-110 transiti transition duration-700 ease-in-out cursor-pointer"
-              onClick={() => navigate("/WishList")}
-            >
-              <CiHeart className="text-2xl text-[#832729]" />
-              <p className="text-xm text-[#832729]">WISHLIST</p>
-            </span>
-            <span className=" px-2  flex flex-col justify-center items-center hover:scale-110 transiti transition duration-700 ease-in-out cursor-pointer">
-              <PiShoppingCartThin
-                className="text-2xl text-[#832729] "
-                onClick={() => navigate("/CartPage")}
-              />
-              <p className="text-xm text-[#832729]">CART</p>
-            </span>
             {!cookies.token ? (
               <span
                 className=" px-2  flex flex-col justify-center items-center hover:scale-110 transiti transition duration-700 ease-in-out cursor-pointer"

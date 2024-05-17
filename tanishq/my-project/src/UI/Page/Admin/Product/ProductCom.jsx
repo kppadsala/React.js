@@ -48,9 +48,10 @@ useEffect(() => {
     setOpenModal(true);
   }
 const viewHandler =()=>{
-    setViewOpenModal(true);
 
+    setViewOpenModal(true);
   }
+
   // ==========================Delete Data In API========================
   const deleteHandler = async (productId) => {
     const { error, data } = await deleteProduct(productId, cookie?.token);
@@ -77,7 +78,8 @@ const viewHandler =()=>{
   return (
     <div className='px-[3rem] flex flex-col py-6'>
       <div className='flex justify-end  flex-col items-end gap-4'>
-      <Button onClick={() => setOpenModal(true)} className='bg-[#822729] hover:bg-none'>Add Product</Button>
+      <Button onClick={() => setOpenModal(true)} className="bg-[#822729] hover:bg-sky-700">Add Product</Button>
+
       <TextInput  type="text" placeholder="Search For Product..." className='searchbar w-[45%] '
       onChange={(e) => setSearchQuery(e.target.value)}/>
       </div>

@@ -22,6 +22,7 @@ import CartPage from '../UI/Page/User/Cart/CartPage'
 import { CookiesProvider } from 'react-cookie'
 import { AdminProtected, LoginProtected, ProtectRouter } from './ProtectRouter'
 import ProductCom from '../UI/Page/Admin/Product/ProductCom'
+import UserCom from '../UI/Page/Admin/User/UserCom'
 
 
 export default function Router() {
@@ -48,6 +49,7 @@ export default function Router() {
                 <Route path="/register" element={<LoginProtected Component={<Register/>}/>}/>
                 <Route path="/cartpage" element={<CartPage/>}/>
                 <Route path="/product" element={<AdminProtected Component={<ProductCom/>}/>}/>
+                <Route path="/Userlist" element={<AdminProtected Component={<UserCom/>}/>}/>
 
             <Route path="*" element={<PageNotFound />} />
 
