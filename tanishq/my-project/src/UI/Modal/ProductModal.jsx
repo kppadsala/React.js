@@ -1,4 +1,4 @@
-import react from "react";
+import react, { useEffect, useState } from "react";
 import { Controller, useForm } from "react-hook-form";
 import ReactSelect from "react-select";
 import {
@@ -9,11 +9,40 @@ import {
   Radio,
   TextInput,
 } from "flowbite-react";
+import { updateProduct } from "../Api/Product";
+import { toast } from "react-toastify";
 
-export function ProductModal({ openModal, setOpenModal, addProduct }) {
+export function ProductModal({
+  openModal,
+  setOpenModal,
+  addProduct,
+  productdata,
+  setProductData,
+  updateMode,
+  setUpdateMode,
+  refetch
+}) {
   const sizeData = ["1.5", "2", "3", "4"];
   const { control, handleSubmit, setValue, getValues, reset } = useForm({
-    defaultValues: {
+    defaultValues: {},
+  });
+
+  const addProductHandler = (data) => {
+    addProduct(data);
+    reset();
+    setOpenModal(false);
+    setUpdateMode(false);
+
+  };
+
+  useEffect(() => {
+    reset(productdata);
+  }, [productdata]);
+
+  const closeHandler = () => {
+    setOpenModal(false);
+    reset({});
+    setProductData({
       title: "",
       description: "",
       brand: "",
@@ -23,22 +52,24 @@ export function ProductModal({ openModal, setOpenModal, addProduct }) {
       discount: "",
       thumbnail: "",
       size: "",
-    },
-  });
-
-  const addProductHandler = (data) => {
-    addProduct(data);
-    reset();
-    setOpenModal(false);
+    });
+    setUpdateMode(false);
   };
 
-  // const EditHandler = (data) => {
-  //   console.log("🚀 ~ file: ProductModal.jsx:27 ~ EditHandler ~ data:", data);
-  // };
-
+  const updateHandler= async (inputdata) => {
+   let {data,error}= await updateProduct(inputdata,inputdata?._id);
+   if(error) toast.error("Somthing Went Wrong");
+   else{
+    toast.success("Data Updated");
+   }
+   setOpenModal(false);
+   reset({});
+   setProductData({});
+   refetch()
+  }
   return (
     <>
-      <Modal show={openModal} onClose={() => setOpenModal(false)}>
+      <Modal show={openModal} onClose={() => closeHandler()}>
         <Modal.Header className="capitalize  bg-[#DBC0C1] ">
           Upadate Data
         </Modal.Header>
@@ -92,7 +123,6 @@ export function ProductModal({ openModal, setOpenModal, addProduct }) {
                     id="female"
                     value="FEMALE"
                     name="gender"
-
                     onChange={() => setValue("gender", "female")}
                   />
                   <Label>Female</Label>
@@ -117,11 +147,9 @@ export function ProductModal({ openModal, setOpenModal, addProduct }) {
                       isMulti
                       {...field}
                       onChange={(selectedOptions) => {
-                        // Mapping selected options to their values
                         const selectedValues = selectedOptions.map(
                           (option) => option.value
                         );
-                        // Calling onChange with the selected values
                         field.onChange(selectedValues);
                       }}
                       value={field?.value?.map?.((val) => ({
@@ -199,10 +227,11 @@ export function ProductModal({ openModal, setOpenModal, addProduct }) {
                   </div>
                 ))}
               </div>
-
-              <Button type="submit">Add Product</Button>
-
-              <Button type="submit">Update Product</Button>
+              {updateMode ? (
+                <Button onClick={handleSubmit(updateHandler)}>Update Product</Button>
+              ) : (
+                <Button type="submit">Add Product</Button>
+              )}
             </div>
           </form>
         </Modal.Body>

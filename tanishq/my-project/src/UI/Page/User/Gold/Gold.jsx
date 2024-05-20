@@ -4,7 +4,7 @@ import { MdOutlineTune } from "react-icons/md";
 import FilterModal from "../../../Modal/FilterModal";
 import { GoldData } from "../../../Component/Card/Data";
 
-export default function Gold(modal,toggle) {
+export default function All_Jewellery(modal,toggle,allProduct) {
   const [modalOpen, setModalOpen] = useState(false);
 
   const toggleModal = () => {
@@ -27,7 +27,7 @@ export default function Gold(modal,toggle) {
 
     <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 position-relative  ">
       {
-        GoldData.map((item,index)=>(
+        GoldData?.map((item,index)=>(
           <div  key={index} className="relative group  cursor-pointer group overflow-hidden text-gray-50      h-[20rem] w-56  hover:duration-500 duration-700 hover:drop-shadow-md">
           <img
            src={item.img}
@@ -43,17 +43,6 @@ export default function Gold(modal,toggle) {
             <button className=" border-[1px] border-black mt-2 px-3.5 font-com text-lg  capitalize text-black shadow hover:shadow-black/100 ">Add To Card</button>
           </div>
         </div>
-        //   <div className="group relative cursor-pointer items-center justify-center overflow-hidden transition-shadow hover:shadow-xl hover:shadow-black/30">
-        //   <div className="h-96 w-72">
-        //     <img className="h-full w-full object-cover transition-transform duration-500 group-hover:rotate-3 group-hover:scale-125"  />
-        //   </div>
-        //   <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black group-hover:from-black/70 group-hover:via-black/60 group-hover:to-black/70"></div>
-        //   <div className="absolute inset-0 flex translate-y-[50%] flex-col items-center justify-center px-9 text-center transition-all duration-500 group-hover:translate-y-0">
-        //     <h1 className="font-dmserif text-2xl font-bold text-white">{item.title}</h1>
-        //     <p className="mb-3 text-lg italic text-white opacity-0 transition-opacity duration-300 group-hover:opacity-100">₹ {item.price}</p>
-        //     <button className="rounded-full bg-neutral-900 py-2 px-3.5 font-com text-lg hover:bg-red-600 capitalize text-white shadow shadow-black/60">Add To Card</button>
-        //   </div>
-        // </div>
         ))
       }
     

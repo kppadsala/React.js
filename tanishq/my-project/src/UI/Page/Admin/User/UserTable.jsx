@@ -34,7 +34,7 @@ const [userData,setUserData]=useState([])
               return (
                 <tr key={i} className="border-b-[2px] ">
                 
-                <td className="w-2  text-center">{i+1}</td>
+                <td className="w-2  text-center py-2">{i+1}</td>
                   <td className="w-[150px] ">{e?.name}</td>
                   <td className="w-20 ">{e?.email}</td>
                   <td  className="w-[200px] ">{e.password}</td>

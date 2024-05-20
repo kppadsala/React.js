@@ -7,7 +7,7 @@ import { FaEye } from "react-icons/fa";
 export default function ProductTable({
   updateHandler,
   deleteHandler,
-  productdata,
+  allProduct,
   openModal,
   setPagination,
   pagination,
@@ -35,7 +35,7 @@ export default function ProductTable({
             </tr>
           </thead>
           <tbody className="text-lg ">
-            {productdata?.map?.((e, i) => {
+            {allProduct?.map?.((e, i) => {
               return (
                 <tr key={i} className="border-b-[2px] ">
                   <td scope="row" className="px-[2rem] py-8">
@@ -87,7 +87,7 @@ export default function ProductTable({
                       />
                       <FaRegEdit
                         className="text-blue-700 text-2xl cursor-pointer "
-                        onClick={updateHandler}
+                        onClick={() => updateHandler(e)}
                       />
                       <RiDeleteBin5Line
                         className="text-danger text-2xl text-red-600 cursor-pointer"
