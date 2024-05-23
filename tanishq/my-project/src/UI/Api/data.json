@@ -8,7 +8,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["dimond", "24Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["2", "1.5", "4"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
@@ -22,7 +22,7 @@
     "availableStock": 4,
     "brand": "diwaliSale",
     "category": ["dailyWear", "24Karat"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["3"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
@@ -36,7 +36,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["dailyWear", "wedding"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["1.5", "2", "3"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
@@ -50,7 +50,7 @@
     "availableStock": 10,
     "brand": "holiSale",
     "category": ["18Karat", "24Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["3", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
@@ -64,7 +64,7 @@
     "availableStock": 4,
     "brand": "holiSale",
     "category": ["wedding", "dimond"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2"],
     "rating": 3,
     "thuumbai": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3e2f015c/images/hi-res/50D3B3YPJAA32_2.jpg"
@@ -78,7 +78,7 @@
     "availableStock": 8,
     "brand": "diwaliSale",
     "category": ["silver", "24Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["3", "4", "1.5", "2"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8466c34e/images/hi-res/500596FAAAB02_2.jpg"
@@ -92,7 +92,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["platinam", "18Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["4", "1.5"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6d0b5b46/images/hi-res/511003FCDAB00_2.jpg"
@@ -106,7 +106,7 @@
     "availableStock": 3,
     "brand": "holiSale",
     "category": ["platinam", "dailyWear"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["3", "2", "4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw86d1b413/images/hi-res/511107CSOAA00_2.jpg"
@@ -120,7 +120,7 @@
     "availableStock": 10,
     "brand": "holiSale",
     "category": ["dimond", "silver"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["2"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw63731ca3/images/hi-res/51D4MPFBQAA00_2.jpg"
@@ -134,7 +134,7 @@
     "availableStock": 4,
     "brand": "holiSale",
     "category": ["dailyWear", "platinam"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["4", "2", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8b3262c3/images/hi-res/511819VSX1A00_2.jpg"
@@ -148,7 +148,7 @@
     "availableStock": 5,
     "brand": "diwaliSale",
     "category": ["wedding", "24Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["2", "3", "4", "1.5"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9517cc90/images/hi-res/51F1D1FKXAA00_2.jpg"
@@ -162,7 +162,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["24Karat", "18Karat"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["2"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw50e3960d/images/hi-res/502117FDRAA09_2.jpg"
@@ -176,7 +176,7 @@
     "availableStock": 8,
     "brand": "holiSale",
     "category": ["dimond", "gold"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["3", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0abd0f01/images/hi-res/51F1D1FIWAACZ_2.jpg"
@@ -190,7 +190,7 @@
     "availableStock": 6,
     "brand": "diwaliSale",
     "category": ["18Karat", "gold"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["3"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwed0d984f/images/hi-res/51G3C1FCMAA00_2.jpg"
@@ -204,7 +204,7 @@
     "availableStock": 10,
     "brand": "newArrivals",
     "category": ["gold", "dailyWear"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["4", "3", "1.5", "2"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1e358761/images/hi-res/512621VJB1A00_2.jpg"
@@ -218,7 +218,7 @@
     "availableStock": 8,
     "brand": "diwaliSale",
     "category": ["platinam", "gold"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["1.5", "3"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1e358761/images/hi-res/512621VJB1A00_2.jpg"
@@ -232,7 +232,7 @@
     "availableStock": 1,
     "brand": "diwaliSale",
     "category": ["dimond", "22Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["3"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw37a9ecf2/images/hi-res/50D2CAFCI3A09_1.jpg"
@@ -246,7 +246,7 @@
     "availableStock": 7,
     "brand": "holiSale",
     "category": ["24Karat", "22Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["2", "1.5", "3"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1b3cadb9/images/hi-res/A14019XAVAAA88_2.jpg"
@@ -260,7 +260,7 @@
     "availableStock": 3,
     "brand": "newArrivals",
     "category": ["platinam", "18Karat"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["4", "3"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0c0f7e47/images/hi-res/513817GFAAAP3_2.jpg"
@@ -274,7 +274,7 @@
     "availableStock": 2,
     "brand": "holiSale",
     "category": ["gold", "wedding"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2", "1.5", "4"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2821b018/images/hi-res/50D3PTYJNAA29_2.jpg"
@@ -288,7 +288,7 @@
     "availableStock": 4,
     "brand": "holiSale",
     "category": ["24Karat", "dimond"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["1.5", "2", "4"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc63bb859/images/hi-res/511016COAAA00_2.jpg"
@@ -302,7 +302,7 @@
     "availableStock": 2,
     "brand": "diwaliSale",
     "category": ["22Karat", "18Karat"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2", "3", "1.5", "4"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
@@ -316,7 +316,7 @@
     "availableStock": 5,
     "brand": "newArrivals",
     "category": ["24Karat", "wedding"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["1.5", "3", "2"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
@@ -330,7 +330,7 @@
     "availableStock": 9,
     "brand": "newArrivals",
     "category": ["22Karat", "silver"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
@@ -344,7 +344,7 @@
     "availableStock": 2,
     "brand": "diwaliSale",
     "category": ["dimond", "dailyWear"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["4", "1.5"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/2923FZQ.jpg?sw=360&sh=360"
@@ -358,7 +358,7 @@
     "availableStock": 6,
     "brand": "diwaliSale",
     "category": ["dailyWear", "wedding"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["3", "4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
@@ -372,7 +372,7 @@
     "availableStock": 5,
     "brand": "diwaliSale",
     "category": ["18Karat", "dimond"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["2", "4", "1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL1002FHCAA04_1.jpg?sw=360&sh=360"
@@ -386,7 +386,7 @@
     "availableStock": 6,
     "brand": "holiSale",
     "category": ["22Karat", "wedding"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["1.5", "2", "3", "4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
@@ -400,7 +400,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["dailyWear", "22Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["3", "2", "1.5", "4"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513018YKPAA00_1.jpg?sw=115&sh=115"
@@ -414,7 +414,7 @@
     "availableStock": 3,
     "brand": "diwaliSale",
     "category": ["dailyWear", "silver"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/502617FFAAA00_1.jpg?sw=360&sh=360"
@@ -428,7 +428,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["22Karat", "24Karat"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["2", "4"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513515FLPAA00_1.jpg?sw=360&sh=360"
@@ -442,7 +442,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["22Karat", "24Karat"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4", "3", "1.5", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/2923FZU.jpg?sw=360&sh=360"
@@ -456,7 +456,7 @@
     "availableStock": 7,
     "brand": "newArrivals",
     "category": ["24Karat", "wedding"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["1.5", "4"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/51W2TT2AL1BAP3_1.jpg?sw=360&sh=360"
@@ -470,7 +470,7 @@
     "availableStock": 7,
     "brand": "holiSale",
     "category": ["gold", "24Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["3", "1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/50F2UYFAOAA00_1.jpg?sw=360&sh=360"
@@ -484,7 +484,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["gold", "22Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["1.5", "4", "3", "2"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/512017YOMAA00_1.jpg?sw=360&sh=360"
@@ -498,7 +498,7 @@
     "availableStock": 6,
     "brand": "diwaliSale",
     "category": ["dimond", "22Karat"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["2", "4", "3", "1.5"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/502617FFAAA00_1.jpg?sw=360&sh=360"
@@ -512,7 +512,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["wedding", "18Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511100CHLAA00_1.jpg?sw=115&sh=115"
@@ -526,7 +526,7 @@
     "availableStock": 2,
     "brand": "holiSale",
     "category": ["dimond", "silver"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2", "3"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/741188CHSAA00_1.jpg?sw=360&sh=360"
@@ -540,7 +540,7 @@
     "availableStock": 7,
     "brand": "newArrivals",
     "category": ["24Karat", "dimond"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["2", "1.5", "3"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/2923FZF.jpg?sw=360&sh=360"
@@ -554,7 +554,7 @@
     "availableStock": 10,
     "brand": "diwaliSale",
     "category": ["dimond", "platinam"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511154PMCAAA00_1.jpg?sw=360&sh=360"
@@ -568,7 +568,7 @@
     "availableStock": 6,
     "brand": "diwaliSale",
     "category": ["24Karat", "dimond"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["1.5", "2", "3", "4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/742770CCIAA00_1.jpg?sw=360&sh=360"
@@ -582,7 +582,7 @@
     "availableStock": 6,
     "brand": "holiSale",
     "category": ["gold", "platinam"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["1.5", "3"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/5019L1FADAA02_1.jpg?sw=360&sh=360"
@@ -596,7 +596,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["silver", "22Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["4", "2"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGCAA02_1.jpg?sw=360&sh=360"
@@ -610,7 +610,7 @@
     "availableStock": 3,
     "brand": "newArrivals",
     "category": ["platinam", "dailyWear"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["3", "2", "4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL2118YEOAA34_1.jpg?sw=360&sh=360"
@@ -624,7 +624,7 @@
     "availableStock": 10,
     "brand": "holiSale",
     "category": ["dailyWear", "platinam"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["4", "3", "1.5"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGR2A02_1.jpg?sw=360&sh=360"
@@ -638,7 +638,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["dailyWear", "18Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["1.5", "3", "2", "4"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/502118YEJAA32_1.jpg?sw=360&sh=360"
@@ -652,7 +652,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["gold", "wedding"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["3"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/51F1D1FKWAA00_1.jpg?sw=360&sh=360"
@@ -666,7 +666,7 @@
     "availableStock": 3,
     "brand": "holiSale",
     "category": ["dailyWear", "dimond"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3", "2", "4", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UP5060VKW2AP5_1.jpg?sw=360&sh=360"
@@ -680,7 +680,7 @@
     "availableStock": 8,
     "brand": "newArrivals",
     "category": ["platinam", "22Karat"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["2", "4"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/513220FSVAA00_1.jpg?sw=360&sh=360"
@@ -694,7 +694,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["gold", "dimond"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511250VWR1A00_1.jpg?sw=360&sh=360"
@@ -708,7 +708,7 @@
     "availableStock": 2,
     "brand": "holiSale",
     "category": ["silver", "22Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3", "1.5", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/ULD2DSFESAA32_1.jpg?sw=360&sh=360"
@@ -722,7 +722,7 @@
     "availableStock": 9,
     "brand": "newArrivals",
     "category": ["dailyWear", "18Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/ULD2DSFESAA32_1.jpg?sw=360&sh=360"
@@ -736,7 +736,7 @@
     "availableStock": 4,
     "brand": "newArrivals",
     "category": ["18Karat", "wedding"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["4", "2", "1.5"],
     "rating": 1,
     "thumbnail": "https://m.media-amazon.com/images/I/61MNgBNCpSL._AC_UL480_FMwebp_QL65_.jpg"
@@ -750,7 +750,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["dailyWear", "18Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["4"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/511920CMYAA00_1.jpg?sw=360&sh=360"
@@ -764,7 +764,7 @@
     "availableStock": 9,
     "brand": "holiSale",
     "category": ["platinam", "dimond"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGHAA02_1.jpg?sw=360&sh=360"
@@ -778,7 +778,7 @@
     "availableStock": 7,
     "brand": "newArrivals",
     "category": ["dimond", "dailyWear"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2", "1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FGR2A02_1.jpg?sw=360&sh=360"
@@ -792,7 +792,7 @@
     "availableStock": 2,
     "brand": "holiSale",
     "category": ["22Karat", "18Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["3", "4"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UP5060VJZ2AP5_1.jpg?sw=360&sh=360"
@@ -806,7 +806,7 @@
     "availableStock": 10,
     "brand": "holiSale",
     "category": ["dimond", "wedding"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["2", "3", "1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/504025CIJAA00_1.jpg?sw=360&sh=360"
@@ -820,7 +820,7 @@
     "availableStock": 3,
     "brand": "newArrivals",
     "category": ["gold", "dimond"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["1.5", "3"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.ae/dw/image/v2/BJGM_PRD/on/demandware.static/-/Sites-Tanishq-site-catalog/default/dwfba6b370/images/hi-res/UL7003FEOAA02_1.jpg?sw=360&sh=360"
@@ -834,7 +834,7 @@
     "availableStock": 3,
     "brand": "holiSale",
     "category": ["18Karat", "22Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["1.5", "4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/dw/image/v2/BKCK_PRD/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcfbf242b/images/hi-res/51D3A1CDKLA00_1.jpg?sw=360&sh=360"
@@ -848,7 +848,7 @@
     "availableStock": 8,
     "brand": "diwaliSale",
     "category": ["24Karat", "dimond"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["2"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/product/elegant-diamond-and-gold-mangalsutra-503416ygxab32.html?lang=en_IN"
@@ -862,7 +862,7 @@
     "availableStock": 7,
     "brand": "diwaliSale",
     "category": ["platinam", "18Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["1.5", "4", "2", "3"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw397f8b16/images/hi-res/501519CMMLA00_2.jpg"
@@ -876,7 +876,7 @@
     "availableStock": 3,
     "brand": "holiSale",
     "category": ["silver", "dailyWear"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["1.5", "4", "2"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
@@ -890,7 +890,7 @@
     "availableStock": 7,
     "brand": "diwaliSale",
     "category": ["dailyWear", "wedding"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2", "4", "3"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw720f28cf/images/hi-res/51E2J1FARAA00_2.jpg"
@@ -904,7 +904,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["22Karat", "wedding"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["2", "4", "1.5", "3"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19a832aa/images/hi-res/51F1D1VRU1A00_1.jpg"
@@ -918,7 +918,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["22Karat", "platinam"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["2", "3", "4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw52ea1cc4/images/hi-res/50D3PT1YEABB02_2.jpg"
@@ -932,7 +932,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["24Karat", "18Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["2", "1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw07c766d2/images/hi-res/51D3B11IMABA00_2.jpg"
@@ -946,7 +946,7 @@
     "availableStock": 7,
     "brand": "newArrivals",
     "category": ["24Karat", "dimond"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw962006ad/images/hi-res/50G3I1FBUAA09_2.jpg"
@@ -960,7 +960,7 @@
     "availableStock": 3,
     "brand": "holiSale",
     "category": ["22Karat", "platinam"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["4", "3"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw98641fe6/images/hi-res/51E2J1FBWAA00_2.jpg"
@@ -974,7 +974,7 @@
     "availableStock": 6,
     "brand": "diwaliSale",
     "category": ["24Karat", "silver"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["3", "1.5", "4", "2"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw82f0098c/images/hi-res/5027842BIABA09_1.jpg"
@@ -988,7 +988,7 @@
     "availableStock": 10,
     "brand": "diwaliSale",
     "category": ["silver", "platinam"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["2", "3"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw04d72b02/images/hi-res/51E2J1FBEAA00_2.jpg"
@@ -1002,7 +1002,7 @@
     "availableStock": 1,
     "brand": "diwaliSale",
     "category": ["22Karat", "silver"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["1.5", "4", "2", "3"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0192aa3f/images/hi-res/50F2UYVBO1A00_2.jpg"
@@ -1016,7 +1016,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["wedding", "dailyWear"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["3", "2"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw416d1aae/images/hi-res/51E2J1FBQAC00_2.jpg"
@@ -1030,7 +1030,7 @@
     "availableStock": 8,
     "brand": "holiSale",
     "category": ["dimond", "gold"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2", "3", "4", "1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5af986ec/images/hi-res/51F1D1CQEAA00_2.jpg  "
@@ -1044,7 +1044,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["platinam", "18Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["4"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc63bb859/images/hi-res/511016COAAA00_2.jpg"
@@ -1058,7 +1058,7 @@
     "availableStock": 4,
     "brand": "diwaliSale",
     "category": ["22Karat", "gold"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["2", "4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcd9c0f16/images/hi-res/51E2J1FBBAA00_2.jpg"
@@ -1072,7 +1072,7 @@
     "availableStock": 8,
     "brand": "diwaliSale",
     "category": ["wedding", "22Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["3", "1.5", "2", "4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe59ecfed/images/hi-res/51F1KPVSS1A00_2.jpg"
@@ -1086,7 +1086,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["22Karat", "gold"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["1.5", "2", "4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9f1b85/images/hi-res/503118FIOAA09_1.jpg"
@@ -1100,7 +1100,7 @@
     "availableStock": 1,
     "brand": "diwaliSale",
     "category": ["18Karat", "24Karat"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw71671259/images/hi-res/51D3C2CMXAA00_2.jpg"
@@ -1114,7 +1114,7 @@
     "availableStock": 3,
     "brand": "newArrivals",
     "category": ["wedding", "dimond"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2", "4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8f83428e/images/hi-res/50S3A1FALAH67_2.jpg"
@@ -1128,7 +1128,7 @@
     "availableStock": 7,
     "brand": "newArrivals",
     "category": ["24Karat", "22Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["2", "3", "4", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw31d67da4/images/hi-res/510685CTAAA00_2.jpg"
@@ -1142,7 +1142,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["platinam", "24Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["4", "3", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb0cc30f9/images/hi-res/502992FGPAA10_2.jpg"
@@ -1156,7 +1156,7 @@
     "availableStock": 4,
     "brand": "holiSale",
     "category": ["dailyWear", "dimond"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["3", "2"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw02e26217/images/hi-res/50D2I1FLMAA02_2.jpg"
@@ -1170,7 +1170,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["22Karat", "silver"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9ef2ccf1/images/hi-res/511155YRLAA00_2.jpg"
@@ -1184,7 +1184,7 @@
     "availableStock": 6,
     "brand": "diwaliSale",
     "category": ["18Karat", "dailyWear"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["1.5", "2", "4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5b2de935/images/hi-res/504025CYYAA00_2.jpg"
@@ -1198,7 +1198,7 @@
     "availableStock": 8,
     "brand": "holiSale",
     "category": ["silver", "dimond"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["1.5"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5346692b/images/hi-res/51F1D1FKZAA00_2.jpg"
@@ -1212,7 +1212,7 @@
     "availableStock": 1,
     "brand": "diwaliSale",
     "category": ["dimond", "gold"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc63bb859/images/hi-res/511016COAAA00_2.jpg"
@@ -1226,7 +1226,7 @@
     "availableStock": 6,
     "brand": "newArrivals",
     "category": ["22Karat", "gold"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4", "3", "2"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1df67c8b/images/hi-res/502621CIJAA00_2.jpg"
@@ -1240,7 +1240,7 @@
     "availableStock": 3,
     "brand": "diwaliSale",
     "category": ["gold", "wedding"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["2", "3", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19f5c7c8/images/hi-res/502621CIAAA00_2.jpg"
@@ -1254,7 +1254,7 @@
     "availableStock": 4,
     "brand": "diwaliSale",
     "category": ["wedding", "platinam"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2", "1.5", "4", "3"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5aa15e57/images/hi-res/50D3I3FLVAA10_2.jpg"
@@ -1268,7 +1268,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["silver", "dimond"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["1.5", "4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1b3cadb9/images/hi-res/A14019XAVAAA88_2.jpg"
@@ -1282,7 +1282,7 @@
     "availableStock": 6,
     "brand": "newArrivals",
     "category": ["24Karat", "22Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["4", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa73091b4/images/hi-res/50D2D2FRMAA09_4.jpg"
@@ -1296,7 +1296,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["dailyWear", "22Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["1.5", "2", "3"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb52927b5/images/hi-res/513219BUGAA00_2.jpg"
@@ -1310,7 +1310,7 @@
     "availableStock": 6,
     "brand": "newArrivals",
     "category": ["dailyWear", "18Karat"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2", "1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw92429b29/images/hi-res/51D3A1GCZAAPL_2.jpg"
@@ -1324,7 +1324,7 @@
     "availableStock": 3,
     "brand": "diwaliSale",
     "category": ["gold", "platinam"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["3", "4", "2", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw26c47122/images/hi-res/51F1D1FKVAA00_1.jpg"
@@ -1338,7 +1338,7 @@
     "availableStock": 8,
     "brand": "diwaliSale",
     "category": ["dailyWear", "gold"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["3", "2", "1.5"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw37a9ecf2/images/hi-res/50D2CAFCI3A09_1.jpg"
@@ -1352,7 +1352,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["24Karat", "silver"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["3", "1.5", "2"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7ea34f36/images/hi-res/511107CUWAA00_2.jpg"
@@ -1366,7 +1366,7 @@
     "availableStock": 7,
     "brand": "diwaliSale",
     "category": ["silver", "24Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw07fdc58b/images/hi-res/502621CICAA00_2.jpg"
@@ -1380,7 +1380,7 @@
     "availableStock": 10,
     "brand": "holiSale",
     "category": ["gold", "dailyWear"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["1.5", "4", "3", "2"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw57ed153a/images/hi-res/51E2J1FAZAA00_2.jpg"
@@ -1394,7 +1394,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["wedding", "silver"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["2", "3", "1.5"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcd9c0f16/images/hi-res/51E2J1FBBAA00_2.jpg"
@@ -1408,7 +1408,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["gold", "dimond"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["1.5", "3", "4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc6a337ab/images/hi-res/511720YXUAA00_2.jpg"
@@ -1422,7 +1422,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["silver", "18Karat"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["3", "2"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5346692b/images/hi-res/51F1D1FKZAA00_2.jpg"
@@ -1436,7 +1436,7 @@
     "availableStock": 4,
     "brand": "newArrivals",
     "category": ["wedding", "platinam"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["3", "1.5", "2", "4"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwde7bb155/images/hi-res/51E2J1FAMAC00_2.jpg"
@@ -1450,7 +1450,7 @@
     "availableStock": 6,
     "brand": "newArrivals",
     "category": ["gold", "wedding"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3", "2", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw63731ca3/images/hi-res/51D4MPFBQAA00_2.jpg"
@@ -1464,7 +1464,7 @@
     "availableStock": 4,
     "brand": "diwaliSale",
     "category": ["dimond", "dailyWear"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["4", "3", "2"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw35d6c64d/images/hi-res/51W1D1CFDAA00_2.jpg"
@@ -1478,7 +1478,7 @@
     "availableStock": 10,
     "brand": "newArrivals",
     "category": ["dimond", "24Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["4", "2", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw17b645ea/images/hi-res/5031202MLABA02_2.jpg"
@@ -1492,7 +1492,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["22Karat", "dimond"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["3", "2", "4"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf6866b8e/images/hi-res/50O3UN2BSABA29_2.jpg"
@@ -1506,7 +1506,7 @@
     "availableStock": 4,
     "brand": "diwaliSale",
     "category": ["dimond", "18Karat"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["1.5", "3"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4ba3f2ea/images/hi-res/50D2P2FCZAA32_2.jpg"
@@ -1520,7 +1520,7 @@
     "availableStock": 8,
     "brand": "newArrivals",
     "category": ["22Karat", "wedding"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["2", "3"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf97dbf5e/images/hi-res/50E3B1FERAA02_2.jpg"
@@ -1534,7 +1534,7 @@
     "availableStock": 3,
     "brand": "diwaliSale",
     "category": ["18Karat", "wedding"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2", "4", "1.5", "3"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7ea34f36/images/hi-res/511107CUWAA00_2.jpg"
@@ -1548,7 +1548,7 @@
     "availableStock": 8,
     "brand": "newArrivals",
     "category": ["gold", "dimond"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfac76ca6/images/hi-res/511072CSGAA00_2.jpg"
@@ -1562,7 +1562,7 @@
     "availableStock": 6,
     "brand": "diwaliSale",
     "category": ["dailyWear", "24Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["3"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3f378193/images/hi-res/51E2J1FAGAA00_2.jpg"
@@ -1576,7 +1576,7 @@
     "availableStock": 6,
     "brand": "diwaliSale",
     "category": ["22Karat", "gold"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw12ed6840/images/hi-res/51D1MPYAAAA00_2.jpg"
@@ -1590,7 +1590,7 @@
     "availableStock": 4,
     "brand": "newArrivals",
     "category": ["platinam", "24Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["4", "3", "1.5", "2"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwab83b7bc/images/hi-res/51F1D1BQGAA00_2.jpg"
@@ -1604,7 +1604,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["22Karat", "dailyWear"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["1.5", "3", "4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfac76ca6/images/hi-res/511072CSGAA00_2.jpg"
@@ -1618,7 +1618,7 @@
     "availableStock": 5,
     "brand": "diwaliSale",
     "category": ["wedding", "gold"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["1.5", "4", "2"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc3959834/images/hi-res/50D3DTFCAAA10_2.jpg"
@@ -1632,7 +1632,7 @@
     "availableStock": 7,
     "brand": "diwaliSale",
     "category": ["gold", "silver"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3", "4", "2", "1.5"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcf1c0dac/images/hi-res/51F1D1BQFAA00_2.jpg"
@@ -1646,7 +1646,7 @@
     "availableStock": 8,
     "brand": "newArrivals",
     "category": ["22Karat", "gold"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["4"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw62de5308/images/hi-res/50G3C1FCHAA02_2.jpg"
@@ -1660,7 +1660,7 @@
     "availableStock": 3,
     "brand": "diwaliSale",
     "category": ["gold", "18Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw962006ad/images/hi-res/50G3I1FBUAA09_2.jpg"
@@ -1674,7 +1674,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["24Karat", "silver"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["4"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9fb20970/images/hi-res/502621CEDAA00_2.jpg"
@@ -1688,7 +1688,7 @@
     "availableStock": 3,
     "brand": "holiSale",
     "category": ["platinam", "silver"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbd1cff19/images/hi-res/511418FRFAA00_1.jpg"
@@ -1702,7 +1702,7 @@
     "availableStock": 7,
     "brand": "holiSale",
     "category": ["platinam", "silver"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5943878f/images/hi-res/51E2J1FAPAA00_1.jpg"
@@ -1716,7 +1716,7 @@
     "availableStock": 7,
     "brand": "holiSale",
     "category": ["wedding", "18Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["3", "1.5", "2", "4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw696d0b49/images/hi-res/510781YZAAB00_1.jpg"
@@ -1730,7 +1730,7 @@
     "availableStock": 4,
     "brand": "diwaliSale",
     "category": ["gold", "18Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["1.5", "3", "2"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe45a55f2/images/hi-res/511419FMLAA00_2.jpg"
@@ -1744,7 +1744,7 @@
     "availableStock": 6,
     "brand": "newArrivals",
     "category": ["dimond", "24Karat"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["2", "1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc824a180/images/hi-res/50G3I1FBUAA09_1.jpg"
@@ -1758,7 +1758,7 @@
     "availableStock": 2,
     "brand": "holiSale",
     "category": ["wedding", "18Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
@@ -1772,7 +1772,7 @@
     "availableStock": 1,
     "brand": "diwaliSale",
     "category": ["gold", "24Karat"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["2", "4"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc4da9ae0/images/hi-res/51D3B4YFLAA00_1.jpg"
@@ -1786,7 +1786,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["platinam", "silver"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["2"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbc6d0aa9/images/hi-res/51E2J1FARAA00_1.jpg"
@@ -1800,7 +1800,7 @@
     "availableStock": 8,
     "brand": "diwaliSale",
     "category": ["dimond", "18Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbd1cff19/images/hi-res/511418FRFAA00_1.jpg"
@@ -1814,7 +1814,7 @@
     "availableStock": 7,
     "brand": "holiSale",
     "category": ["dimond", "18Karat"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw962006ad/images/hi-res/50G3I1FBUAA09_2.jpg"
@@ -1828,7 +1828,7 @@
     "availableStock": 10,
     "brand": "newArrivals",
     "category": ["dailyWear", "wedding"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7fe12ec1/images/hi-res/51F1KPVSL1A00_1.jpg"
@@ -1842,7 +1842,7 @@
     "availableStock": 5,
     "brand": "diwaliSale",
     "category": ["wedding", "18Karat"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["1.5", "3", "2", "4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8f83428e/images/hi-res/50S3A1FALAH67_2.jpg"
@@ -1856,7 +1856,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["wedding", "dailyWear"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["1.5", "3", "2"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw81cffa14/images/hi-res/504025CYYAA00_1.jpg"
@@ -1870,7 +1870,7 @@
     "availableStock": 2,
     "brand": "diwaliSale",
     "category": ["platinam", "24Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2", "1.5", "4"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd63bc3e6/images/hi-res/512621VJC1A00_1.jpg"
@@ -1884,7 +1884,7 @@
     "availableStock": 9,
     "brand": "holiSale",
     "category": ["22Karat", "gold"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["3", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2e82d1cf/images/hi-res/51E2J1FAMAC00_1.jpg"
@@ -1898,7 +1898,7 @@
     "availableStock": 10,
     "brand": "diwaliSale",
     "category": ["platinam", "18Karat"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["4", "2", "3"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5b2de935/images/hi-res/504025CYYAA00_2.jpg"
@@ -1912,7 +1912,7 @@
     "availableStock": 10,
     "brand": "holiSale",
     "category": ["platinam", "dimond"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["1.5"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw98641fe6/images/hi-res/51E2J1FBWAA00_2.jpg"
@@ -1926,7 +1926,7 @@
     "availableStock": 6,
     "brand": "holiSale",
     "category": ["22Karat", "wedding"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["1.5", "2", "4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe45a55f2/images/hi-res/511419FMLAA00_2.jpg"
@@ -1940,7 +1940,7 @@
     "availableStock": 9,
     "brand": "holiSale",
     "category": ["silver", "24Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["3", "2"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe02cdd62/images/hi-res/50D5PTNXIAA02_2.jpg"
@@ -1954,7 +1954,7 @@
     "availableStock": 10,
     "brand": "diwaliSale",
     "category": ["22Karat", "dailyWear"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["1.5", "3", "2", "4"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5f44cc6f/images/hi-res/4019XCJ_2.jpg"
@@ -1968,7 +1968,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["dailyWear", "18Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["4", "3", "2", "1.5"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
@@ -1982,7 +1982,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["24Karat", "platinam"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["3", "1.5"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa899ed8b/images/hi-res/51C2DTXAMAAA00_1.jpg"
@@ -1996,7 +1996,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["dailyWear", "gold"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["1.5", "3", "4", "2"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe02cdd62/images/hi-res/50D5PTNXIAA02_2.jpg"
@@ -2010,7 +2010,7 @@
     "availableStock": 1,
     "brand": "diwaliSale",
     "category": ["wedding", "24Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["2", "4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3eb2c074/images/hi-res/51T340FAMAA00_2.jpg"
@@ -2024,7 +2024,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["dimond", "dailyWear"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["2", "1.5", "3"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe02cdd62/images/hi-res/50D5PTNXIAA02_2.jpg"
@@ -2038,7 +2038,7 @@
     "availableStock": 1,
     "brand": "diwaliSale",
     "category": ["18Karat", "silver"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["4", "2", "1.5", "3"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw397f8b16/images/hi-res/501519CMMLA00_2.jpg"
@@ -2052,7 +2052,7 @@
     "availableStock": 1,
     "brand": "diwaliSale",
     "category": ["22Karat", "gold"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["1.5", "3"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfe5b3511/images/hi-res/2923FJY_1.jpg"
@@ -2066,7 +2066,7 @@
     "availableStock": 8,
     "brand": "holiSale",
     "category": ["gold", "platinam"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2", "4", "3"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbd1cff19/images/hi-res/511418FRFAA00_1.jpg"
@@ -2080,7 +2080,7 @@
     "availableStock": 3,
     "brand": "diwaliSale",
     "category": ["silver", "24Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["4", "2"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6b1a1df1/images/hi-res/51C2ECXAAAAA00.jpg"
@@ -2094,7 +2094,7 @@
     "availableStock": 5,
     "brand": "newArrivals",
     "category": ["wedding", "dailyWear"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["1.5", "4", "2", "3"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbd1cff19/images/hi-res/511418FRFAA00_1.jpg"
@@ -2108,7 +2108,7 @@
     "availableStock": 4,
     "brand": "holiSale",
     "category": ["24Karat", "wedding"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8b3262c3/images/hi-res/511819VSX1A00_2.jpg"
@@ -2122,7 +2122,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["wedding", "platinam"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf4329e10/images/hi-res/501519CMKLA00_1.jpg"
@@ -2136,7 +2136,7 @@
     "availableStock": 6,
     "brand": "holiSale",
     "category": ["gold", "platinam"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["3"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw98641fe6/images/hi-res/51E2J1FBWAA00_2.jpg"
@@ -2150,7 +2150,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["22Karat", "18Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["3"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe02cdd62/images/hi-res/50D5PTNXIAA02_2.jpg"
@@ -2164,7 +2164,7 @@
     "availableStock": 4,
     "brand": "newArrivals",
     "category": ["silver", "dimond"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["2", "1.5", "3", "4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw54cf2890/images/hi-res/503419FIPAA09_2.jpg"
@@ -2178,7 +2178,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["dailyWear", "22Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["3", "2", "1.5", "4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/product/classic-subtle-kada-for-men-511178vhl1a00.html?lang=en_IN"
@@ -2192,7 +2192,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["22Karat", "wedding"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["3", "1.5", "4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw292f7229/images/hi-res/511819VSX1A00_1.jpg"
@@ -2206,7 +2206,7 @@
     "availableStock": 7,
     "brand": "diwaliSale",
     "category": ["wedding", "dailyWear"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2", "4", "1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfed1e39a/images/hi-res/51C2ECXAFAAA00.jpg"
@@ -2220,7 +2220,7 @@
     "availableStock": 4,
     "brand": "holiSale",
     "category": ["silver", "gold"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["2", "3", "1.5"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw707149ed/images/hi-res/50F1D1CPZAA00_6.jpg"
@@ -2234,7 +2234,7 @@
     "availableStock": 3,
     "brand": "diwaliSale",
     "category": ["wedding", "18Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["1.5", "2", "4", "3"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw962006ad/images/hi-res/50G3I1FBUAA09_2.jpg"
@@ -2248,7 +2248,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["24Karat", "silver"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["3", "1.5", "2", "4"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwbd1cff19/images/hi-res/511418FRFAA00_1.jpg"
@@ -2262,7 +2262,7 @@
     "availableStock": 2,
     "brand": "diwaliSale",
     "category": ["dailyWear", "dimond"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["3", "2", "4", "1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19a832aa/images/hi-res/51F1D1VRU1A00_1.jpg"
@@ -2276,7 +2276,7 @@
     "availableStock": 7,
     "brand": "newArrivals",
     "category": ["dailyWear", "24Karat"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["3", "1.5", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
@@ -2290,7 +2290,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["18Karat", "gold"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4", "3", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf3409394/images/hi-res/2923FJY.jpg"
@@ -2304,7 +2304,7 @@
     "availableStock": 4,
     "brand": "holiSale",
     "category": ["wedding", "24Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["2", "4", "1.5"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw23770899/images/hi-res/51D3A1FAYAA00_2.jpg"
@@ -2318,7 +2318,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["platinam", "22Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["2", "4", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw19a832aa/images/hi-res/51F1D1VRU1A00_1.jpg"
@@ -2332,7 +2332,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["wedding", "24Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["4", "1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw5b2de935/images/hi-res/504025CYYAA00_2.jpg"
@@ -2346,7 +2346,7 @@
     "availableStock": 10,
     "brand": "newArrivals",
     "category": ["24Karat", "dailyWear"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6b1a1df1/images/hi-res/51C2ECXAAAAA00.jpg"
@@ -2360,7 +2360,7 @@
     "availableStock": 4,
     "brand": "diwaliSale",
     "category": ["dimond", "24Karat"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcb9929e2/images/hi-res/51F1KPFMZAA00_2.jpg"
@@ -2374,7 +2374,7 @@
     "availableStock": 6,
     "brand": "newArrivals",
     "category": ["dailyWear", "22Karat"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw1ba64413/images/hi-res/51F1D1VRU1A00_2.jpg"
@@ -2388,7 +2388,7 @@
     "availableStock": 8,
     "brand": "newArrivals",
     "category": ["18Karat", "24Karat"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfe5b3511/images/hi-res/2923FJY_1.jpg"
@@ -2402,7 +2402,7 @@
     "availableStock": 10,
     "brand": "holiSale",
     "category": ["platinam", "24Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3", "4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2ba1f70d/images/hi-res/50D3C2FJJAA02_2.jpg"
@@ -2416,7 +2416,7 @@
     "availableStock": 8,
     "brand": "newArrivals",
     "category": ["24Karat", "dimond"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4", "1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw06e486bb/images/hi-res/600209ZAARAS00_2.jpg"
@@ -2430,7 +2430,7 @@
     "availableStock": 10,
     "brand": "diwaliSale",
     "category": ["platinam", "silver"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb12d5ce1/images/hi-res/501719CQFAA00_2.jpg"
@@ -2444,7 +2444,7 @@
     "availableStock": 4,
     "brand": "diwaliSale",
     "category": ["18Karat", "24Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["4", "1.5", "3", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3592e7e2/images/hi-res/51D3D2CWWAA00_2.jpg"
@@ -2458,7 +2458,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["gold", "24Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["3", "4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0c73a0d0/images/hi-res/5134202DAABA00_2.jpg"
@@ -2472,7 +2472,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["22Karat", "wedding"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["3", "4", "2", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfe3a458a/images/hi-res/600113ZBARAS00_2.jpg"
@@ -2486,7 +2486,7 @@
     "availableStock": 4,
     "brand": "newArrivals",
     "category": ["22Karat", "gold"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["2"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4fbdf99d/images/hi-res/600105ZDARAS00_2.jpg"
@@ -2500,7 +2500,7 @@
     "availableStock": 7,
     "brand": "newArrivals",
     "category": ["silver", "platinam"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["4", "1.5", "3", "2"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0af5919c/images/hi-res/50D3P22AMABAP6_2.jpg"
@@ -2514,7 +2514,7 @@
     "availableStock": 9,
     "brand": "newArrivals",
     "category": ["gold", "platinam"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["1.5", "3", "2", "4"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf6866b8e/images/hi-res/50O3UN2BSABA29_2.jpg"
@@ -2528,7 +2528,7 @@
     "availableStock": 7,
     "brand": "newArrivals",
     "category": ["22Karat", "silver"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["1.5", "2", "3", "4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd4d5c344/images/hi-res/50D2P2FZPAA32_2.jpg"
@@ -2542,7 +2542,7 @@
     "availableStock": 2,
     "brand": "diwaliSale",
     "category": ["wedding", "dailyWear"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw306ed1e1/images/hi-res/51E2J1FBDAA00_2.jpg"
@@ -2556,7 +2556,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["18Karat", "platinam"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["4", "1.5"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwa0ce498f/images/hi-res/5027212AMABA02_1.jpg"
@@ -2570,7 +2570,7 @@
     "availableStock": 3,
     "brand": "holiSale",
     "category": ["gold", "22Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6eb85737/images/hi-res/512621VJD1A00_1.jpg"
@@ -2584,7 +2584,7 @@
     "availableStock": 5,
     "brand": "diwaliSale",
     "category": ["24Karat", "18Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["1.5", "3", "4", "2"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwdc47cc50/images/hi-res/50G3I1FCWAA31_2.jpg"
@@ -2598,7 +2598,7 @@
     "availableStock": 5,
     "brand": "diwaliSale",
     "category": ["dailyWear", "platinam"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["2", "1.5", "3", "4"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw22fd506c/images/hi-res/50G2PTFFUAA02_2.jpg"
@@ -2612,7 +2612,7 @@
     "availableStock": 5,
     "brand": "newArrivals",
     "category": ["18Karat", "dimond"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["1.5", "3", "2"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwfcdf16f1/images/hi-res/51F1D1CQDAA00_2.jpg"
@@ -2626,7 +2626,7 @@
     "availableStock": 9,
     "brand": "holiSale",
     "category": ["22Karat", "wedding"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["3", "4", "1.5", "2"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw28c84170/images/hi-res/51D2D2CBAAA00_2.jpg"
@@ -2640,7 +2640,7 @@
     "availableStock": 6,
     "brand": "holiSale",
     "category": ["18Karat", "wedding"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4", "1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcd9c0f16/images/hi-res/51E2J1FBBAA00_2.jpg"
@@ -2654,7 +2654,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["22Karat", "18Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["1.5"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb61ddb41/images/hi-res/50D2P2FZJAA32_2.jpg"
@@ -2668,7 +2668,7 @@
     "availableStock": 5,
     "brand": "newArrivals",
     "category": ["24Karat", "22Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw686b6952/images/hi-res/502621CHWAA00_6.jpg"
@@ -2682,7 +2682,7 @@
     "availableStock": 4,
     "brand": "diwaliSale",
     "category": ["24Karat", "dailyWear"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw57fc0b8a/images/hi-res/503218FMAAA00_2.jpg"
@@ -2696,7 +2696,7 @@
     "availableStock": 9,
     "brand": "holiSale",
     "category": ["dimond", "24Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["3", "2", "4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe6bf5c76/images/hi-res/51E2J1FAKAA00_2.jpg"
@@ -2710,7 +2710,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["22Karat", "dimond"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe86f8afb/images/hi-res/50D3C3FACAA09_2.jpg"
@@ -2724,7 +2724,7 @@
     "availableStock": 4,
     "brand": "holiSale",
     "category": ["dimond", "wedding"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3", "1.5", "4"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw6d31c313/images/hi-res/511030VIC1A00_2.jpg"
@@ -2738,7 +2738,7 @@
     "availableStock": 7,
     "brand": "newArrivals",
     "category": ["22Karat", "silver"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["2", "4", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw730fa7af/images/hi-res/600906ZAARAS00_2.jpg"
@@ -2752,7 +2752,7 @@
     "availableStock": 5,
     "brand": "diwaliSale",
     "category": ["platinam", "dailyWear"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["1.5", "4", "2"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe967b39b/images/hi-res/50D3FFNACAA10_2.jpg"
@@ -2766,7 +2766,7 @@
     "availableStock": 5,
     "brand": "newArrivals",
     "category": ["18Karat", "dimond"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["2", "4", "3", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw28a5aebc/images/hi-res/50D3FFNADAA02_2.jpg"
@@ -2780,7 +2780,7 @@
     "availableStock": 2,
     "brand": "diwaliSale",
     "category": ["dailyWear", "platinam"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3", "4", "1.5", "2"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw9b385ce7/images/hi-res/74D3B3CUIAA00_2.jpg"
@@ -2794,7 +2794,7 @@
     "availableStock": 10,
     "brand": "holiSale",
     "category": ["gold", "22Karat"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["3", "1.5", "2"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwcf848e68/images/hi-res/51W3C1YIWAA00_2.jpg"
@@ -2808,7 +2808,7 @@
     "availableStock": 7,
     "brand": "diwaliSale",
     "category": ["18Karat", "gold"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["2", "1.5", "3"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4bdf9881/images/hi-res/50D3C1YPQAA32_2.jpg"
@@ -2822,7 +2822,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["dimond", "platinam"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["4", "3", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw2bcf7d31/images/hi-res/50G3C1FCIAA02_2.jpg"
@@ -2836,7 +2836,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["gold", "22Karat"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["3", "4", "2", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw63731ca3/images/hi-res/51D4MPFBQAA00_2.jpg"
@@ -2850,7 +2850,7 @@
     "availableStock": 1,
     "brand": "diwaliSale",
     "category": ["platinam", "silver"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["1.5", "4", "3", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc48fb1bc/images/hi-res/500993CECAA00_2.jpg"
@@ -2864,7 +2864,7 @@
     "availableStock": 3,
     "brand": "diwaliSale",
     "category": ["platinam", "gold"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["4", "1.5", "3"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc097f4f3/images/hi-res/51C2ECXAFAAA00_1.jpg"
@@ -2878,7 +2878,7 @@
     "availableStock": 4,
     "brand": "newArrivals",
     "category": ["gold", "18Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["3", "2", "1.5", "4"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3913ba48/images/hi-res/504025CZIAA00_2.jpg"
@@ -2892,7 +2892,7 @@
     "availableStock": 2,
     "brand": "diwaliSale",
     "category": ["18Karat", "gold"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["1.5", "4", "2"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb0032806/images/hi-res/50F1D1CPOAA00_6.jpg"
@@ -2906,7 +2906,7 @@
     "availableStock": 2,
     "brand": "newArrivals",
     "category": ["18Karat", "24Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["2"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd31b99dc/images/hi-res/50D1D1CWHAA00_2.jpg"
@@ -2920,7 +2920,7 @@
     "availableStock": 1,
     "brand": "holiSale",
     "category": ["22Karat", "dailyWear"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["2", "3", "1.5", "4"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwea7e7dd2/images/hi-res/502621CIXAA00_2.jpg"
@@ -2934,7 +2934,7 @@
     "availableStock": 10,
     "brand": "diwaliSale",
     "category": ["dailyWear", "24Karat"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["1.5"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc47211b3/images/hi-res/553822FLDAE09_2.jpg"
@@ -2948,7 +2948,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["wedding", "gold"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["2", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3747a32f/images/hi-res/510429FFAAA00_2.jpg"
@@ -2962,7 +2962,7 @@
     "availableStock": 5,
     "brand": "newArrivals",
     "category": ["18Karat", "gold"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["4"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw175afb91/images/hi-res/51F2KPVBN1A00_2.jpg"
@@ -2976,7 +2976,7 @@
     "availableStock": 10,
     "brand": "holiSale",
     "category": ["dailyWear", "silver"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["4"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7e3cf352/images/hi-res/50G3C1FEIAA02_2.jpg"
@@ -2990,7 +2990,7 @@
     "availableStock": 9,
     "brand": "diwaliSale",
     "category": ["silver", "dailyWear"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["1.5", "3", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwd8c7050a/images/hi-res/512621VFS1A00_2.jpg"
@@ -3004,7 +3004,7 @@
     "availableStock": 4,
     "brand": "holiSale",
     "category": ["24Karat", "platinam"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["4", "3", "2", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf74884e4/images/hi-res/51F1D1CPWAA00_6.jpg"
@@ -3018,7 +3018,7 @@
     "availableStock": 10,
     "brand": "diwaliSale",
     "category": ["dailyWear", "18Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw243229d5/images/hi-res/51G3I2FHYAA00_2.jpg"
@@ -3032,7 +3032,7 @@
     "availableStock": 10,
     "brand": "holiSale",
     "category": ["gold", "silver"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["1.5", "4", "2"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb12d5ce1/images/hi-res/501719CQFAA00_2.jpg"
@@ -3046,7 +3046,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["gold", "24Karat"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["3"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw3592e7e2/images/hi-res/51D3D2CWWAA00_2.jpg"
@@ -3060,7 +3060,7 @@
     "availableStock": 4,
     "brand": "diwaliSale",
     "category": ["silver", "24Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["1.5", "3", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwe631f9fb/images/hi-res/50F3I1FBDAA02_2.jpg"
@@ -3074,7 +3074,7 @@
     "availableStock": 3,
     "brand": "newArrivals",
     "category": ["wedding", "silver"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["3", "1.5"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw0686b443/images/hi-res/50D3B3FICAA02_2.jpg"
@@ -3088,7 +3088,7 @@
     "availableStock": 7,
     "brand": "diwaliSale",
     "category": ["wedding", "24Karat"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2", "1.5"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw196804e1/images/hi-res/51E2J1FAIAA00_2.jpg"
@@ -3102,7 +3102,7 @@
     "availableStock": 6,
     "brand": "newArrivals",
     "category": ["gold", "dimond"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4", "3", "2", "1.5"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwf6c185fd/images/hi-res/50D3C1FMNAA10_2.jpg"
@@ -3116,7 +3116,7 @@
     "availableStock": 2,
     "brand": "diwaliSale",
     "category": ["silver", "wedding"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["1.5", "2"],
     "rating": 4,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw57ed153a/images/hi-res/51E2J1FAZAA00_2.jpg"
@@ -3130,7 +3130,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["platinam", "gold"],
-    "mainCategorie": "earrings",
+    "mainCategory": "earrings",
     "size": ["2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwc9e71853/images/hi-res/51E2J1FBKAA00_2.jpg"
@@ -3144,7 +3144,7 @@
     "availableStock": 5,
     "brand": "newArrivals",
     "category": ["silver", "platinam"],
-    "mainCategorie": "necklace",
+    "mainCategory": "necklace",
     "size": ["4", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwaf00be9e/images/hi-res/50G2PTFFXAA02_2.jpg"
@@ -3158,7 +3158,7 @@
     "availableStock": 2,
     "brand": "holiSale",
     "category": ["dimond", "silver"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["2", "3"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4ded6b9a/images/hi-res/512621VFV1A00_2.jpg"
@@ -3172,7 +3172,7 @@
     "availableStock": 5,
     "brand": "diwaliSale",
     "category": ["24Karat", "dimond"],
-    "mainCategorie": "ring",
+    "mainCategory": "ring",
     "size": ["4", "2"],
     "rating": 0,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw04d72b02/images/hi-res/51E2J1FBEAA00_2.jpg "
@@ -3186,7 +3186,7 @@
     "availableStock": 10,
     "brand": "newArrivals",
     "category": ["silver", "22Karat"],
-    "mainCategorie": "gifting",
+    "mainCategory": "gifting",
     "size": ["2", "3", "1.5"],
     "rating": 2,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwde7bb155/images/hi-res/51E2J1FAMAC00_2.jpg"
@@ -3200,7 +3200,7 @@
     "availableStock": 2,
     "brand": "diwaliSale",
     "category": ["22Karat", "wedding"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["4", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwefbbcd16/images/hi-res/50D2FFFSEAA02_1.jpg"
@@ -3214,7 +3214,7 @@
     "availableStock": 5,
     "brand": "holiSale",
     "category": ["silver", "gold"],
-    "mainCategorie": "bracelet",
+    "mainCategory": "bracelet",
     "size": ["3", "4", "1.5"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw7811ee07/images/hi-res/502621CHQAA00_2.jpg"
@@ -3228,7 +3228,7 @@
     "availableStock": 6,
     "brand": "diwaliSale",
     "category": ["gold", "18Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["1.5", "3", "4"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dwb0cc30f9/images/hi-res/502992FGPAA10_2.jpg"
@@ -3242,7 +3242,7 @@
     "availableStock": 7,
     "brand": "newArrivals",
     "category": ["platinam", "24Karat"],
-    "mainCategorie": "menKada",
+    "mainCategory": "menKada",
     "size": ["1.5", "3", "4", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw4e855644/images/hi-res/504025CIFAA00_2.jpg"
@@ -3256,7 +3256,7 @@
     "availableStock": 1,
     "brand": "newArrivals",
     "category": ["22Karat", "wedding"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["4", "1.5"],
     "rating": 3,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw8466c34e/images/hi-res/500596FAAAB02_2.jpg"
@@ -3270,7 +3270,7 @@
     "availableStock": 7,
     "brand": "diwaliSale",
     "category": ["22Karat", "18Karat"],
-    "mainCategorie": "goldChain",
+    "mainCategory": "goldChain",
     "size": ["3", "2"],
     "rating": 5,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw98641fe6/images/hi-res/51E2J1FBWAA00_2.jpg"
@@ -3284,7 +3284,7 @@
     "availableStock": 6,
     "brand": "diwaliSale",
     "category": ["dailyWear", "dimond"],
-    "mainCategorie": "goldCoin",
+    "mainCategory": "goldCoin",
     "size": ["4", "1.5"],
     "rating": 1,
     "thumbnail": "https://www.tanishq.co.in/on/demandware.static/-/Sites-Tanishq-product-catalog/default/dw54cf2890/images/hi-res/503419FIPAA09_2.jpg"

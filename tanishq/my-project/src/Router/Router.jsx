@@ -11,9 +11,10 @@ import Login from "../UI/Page/User/Login/Login";
 import Register from "../UI/Page/User/Register/Register";
 import CartPage from "../UI/Page/User/Cart/CartPage";
 import { CookiesProvider } from "react-cookie";
-import { AdminProtected, LoginProtected, ProtectRouter } from "./ProtectRouter";
+import { AdminProtected, LoginProtected, ProtectRouter, UserProtected } from "./ProtectRouter";
 import ProductCom from "../UI/Page/Admin/Product/ProductCom";
 import UserCom from "../UI/Page/Admin/User/UserCom";
+import UnauthorisePage from "./UnauthorisePage";
 
 export default function Router() {
   return (
@@ -23,7 +24,8 @@ export default function Router() {
           <Header />
           <Routes>
             <Route path="/" element={<Home />} />
-            <Route path="/jewellery/:type" element={<JewelleryPage />} />
+            <Route path="/jewellery/:type" 
+            element={<UserProtected Component={<JewelleryPage />}/>}/>
 
             <Route
               path="/profilePage"
@@ -41,15 +43,17 @@ export default function Router() {
               path="/register"
               element={<LoginProtected Component={<Register />} />}
             />
-            <Route path="/cartpage" element={<CartPage />} />
+            <Route path="/cartpage"  element={<UserProtected Component={<CartPage />}/>}/>
+
             <Route
               path="/product"
               element={<AdminProtected Component={<ProductCom />} />}
             />
             <Route
-              path="/Userlist"
+              path="/userlist"
               element={<AdminProtected Component={<UserCom />} />}
             />
+            <Route path="/unauthorisePage" element={<UnauthorisePage />} />
 
             <Route path="*" element={<PageNotFound />} />
           </Routes>

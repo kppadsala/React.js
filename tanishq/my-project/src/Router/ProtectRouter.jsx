@@ -27,13 +27,31 @@ export function AdminProtected({ Component }) {
   useEffect(() => {
     if (cookies?.user?.userType !== "admin")
       {
-        navigate("/UnauthorisePage");
+        navigate("/unauthorisePage");
      removeCookie("token");
      removeCookie("user");
       } 
       return;
 
   });
+
+  
   return <div>{Component}</div>;
 }
 
+export function UserProtected({ Component }) {
+  const [cookies, setCookie, removeCookie] = useCookies(["token", "user"]);
+  // console.log("===========================>", cookies.user.userType)
+  const navigate = useNavigate();
+  useEffect(() => {
+    if (cookies?.user?.userType !== "user")
+      {
+        navigate("/unauthorisePage");
+     removeCookie("token");
+     removeCookie("user");
+      } 
+      return;
+
+  });
+  
+}

@@ -4,15 +4,13 @@ import { MdOutlineTune } from "react-icons/md";
 import FilterModal from "../../../Modal/FilterModal";
 import { getAllProduct } from "../../../Api/Product";
 import { useParams } from "react-router-dom";
+import { CiHeart } from "react-icons/ci";
 
 export default function JewelleryPage() {
   const [modalOpen, setModalOpen] = useState(false);
   let [allProduct, setAllProduct] = useState([]);
   let [count, setCount] = useState(0);
-  let [filter, setFilter] = useState({
-    mainCategory: "",
-    
-  });
+  let [filter, setFilter] = useState({});
 
   const toggleModal = () => {
     setModalOpen(!modalOpen);
@@ -41,7 +39,12 @@ export default function JewelleryPage() {
   return (
     <div>
       <div>
-        <FilterModal isOpen={modalOpen} toggle={toggleModal} />
+        <FilterModal
+          filter={filter}
+          setFilter={setFilter}
+          isOpen={modalOpen}
+          toggle={toggleModal}
+        />
       </div>
 
       <div className="w-100 flex justify-between bg-[#FCF9F9] px-20 py-3 my-3 position-relative ">
@@ -58,23 +61,38 @@ export default function JewelleryPage() {
       </div>
 
       <div className="flex min-h-screen items-center justify-center  px-20 py-[2rem] flex-col">
-        <div className="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-4 position-relative  ">
+        <div className="grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-4 position-relative  ">
           {allProduct?.map((item, index) => (
             <div
               key={index}
-              className="relative group  cursor-pointer group overflow-hidden text-gray-50      h-[20rem] w-56  hover:duration-500 duration-700 hover:drop-shadow-md"
+              className="relative group  cursor-pointer group overflow-hidden text-gray-50 border-black-500 border-[1px]   h-[20rem] w-[230px]  hover:duration-500 duration-700 hover:drop-shadow-lg"
             >
-              <img
-                src={item.thumbnail}
-                className="h-[100%] object-cover transition-transform duration-500 group-hover:rotate-3 group-hover:scale-125"
-              />
-
-              <div className="absolute bg-[#fdf2f2c6] -bottom-[5rem] w-56 p-3 flex flex-col gap-1 group-hover:-bottom-0 group-hover:duration-600 duration-500">
-                <span className="text-gray-800 font-bold text-xl ">
+              <div className="">
+                <img
+                  src={item.thumbnail}
+                  className="h-full   absolute object-fill transition-transform duration-500 group-hover:rotate-3   group-hover:scale-125 "
+                />
+                <p className="text-white text-md relative  inset-2   text-center bg-[#832729] w-12 ">
+                  {item.discountPercentage}%
+                </p>
+                <span     className="p-1 bg-white h-8 rounded-full drop-shadow-lg absolute top-2 right-2 w-8"
+                >
+                  <CiHeart className="text-[#832729] text-2xl  " />
+                </span>
+              </div>
+              <div className="absolute bg-[#fdf2f2c6] -bottom-[3rem] w-full  p-3  flex flex-col gap-1 group-hover:-bottom-0 group-hover:duration-600 duration-500">
+                <span className="text-gray-800 font-bold text-xl capitalize">
                   {item.title}
                 </span>
-                <span className="text-lime-400 font-bold text-xs"></span>
-                <p className="text-neutral-800 text-lg">₹ {item.price}</p>
+                <span className="flex gap-4 items-center">
+
+                <del className="text-neutral-600 text-md">₹ {item.price}</del>
+                <p className="text-black text-lg">
+                  ₹{Math.round(
+                    item.price - (item.price * item.discountPercentage) / 100
+                  )}
+                </p>
+                </span>
                 <button className=" border-[1px] border-black mt-2 px-3.5 font-com text-lg  capitalize text-black shadow hover:shadow-black/100 ">
                   Add To Card
                 </button>
