@@ -8,6 +8,7 @@ import { toast } from "react-toastify";
 
 export default function ProductPage({refetch,refresh,toggle,setDefaultData,setupdateMode }) {
     let [productdata, setProductData] = useState([]);
+    const sizeData = ["1.5", "2", "3", "4"];
 
     useEffect(() => {
       axios({
@@ -72,38 +73,41 @@ export default function ProductPage({refetch,refresh,toggle,setDefaultData,setup
                   <tr key={i}>
                     <td scope="row">{i + 1}</td>
                     <td>
-                      <img src={e.thumbnail} />
+                      <img className="w-25 h-25" src={e.thumbnail} />
                     </td>
                     <td>{e.brand}</td>
                     <td>{e.gender}</td>
                     <td>{e.price}</td>
                    
                     <td className="">
-                      <div className="d-flex   gap-2 text-uppercase ">
-                        <th>{e.category[0]}</th>
-                        <th>{e.category[1]}</th>
-                        <th>{e.category[2]}</th>
+                      <div className="d-grid   gap-2 text-uppercase ">
+                      {e?.category?.map((category, i) => (
+                        <th key={i} className="capitalize">{category}</th>
+                      ))}
                       </div>
                     </td>
                     <td className="">
                       <div className="d-flex   gap-2 text-uppercase ">
-                        <th>{e.color[0]}</th>
-                        <th>{e.color[1]}</th>
-                        <th>{e.color[2]}</th>
+                      {e?.color?.map((color, i) => (
+                        <th key={i} className="capitalize">{color}</th>
+                      ))}
                       </div>
                     </td>
   
                     <td className="">
                       <div className="d-flex    gap-2 ">
-                        <th className="border border-1 p-1 border-black ">
-                          {e.size[0]}
-                        </th>
-                        <th className="border border-1 p-1 border-black ">
-                          {e.size[1]}
-                        </th>
-                        <th className="border border-1 p-1 border-black ">
-                          {e.size[2]}
-                        </th>
+                      {sizeData?.map((size, i) => (
+                        <span
+                          key={i}
+                          className={
+                            e.size.includes(size)
+                              ? ` rounded-3xl h-[40px] w-[40px] flex justify-center items-center p-3 font-semibold text-black bg-gray-200`
+                              : " rounded-3xl h-[40px] w-[40px] flex justify-center items-center p-3 font-semibold text-gray-400 bg-gray-100"
+                          }
+                        >
+                          {size}
+                        </span>
+                      ))}
                       </div>
                     </td>
   
