@@ -9,8 +9,11 @@ const countSlice = createSlice({
         incrementCount:(state,actions)=>{
             state.count++
         },
+        decrementCount:(state,actions)=>{
+            state.count = state.count*3
+        },
     },
 })
 
 export default countSlice.reducer
-export const {incrementCount} = countSlice.actions
+export const {incrementCount,decrementCount} = countSlice.actions
