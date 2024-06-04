@@ -4,7 +4,6 @@ import { EyeOff } from "lucide-react";
 import { Controller, useForm } from "react-hook-form";
 import ReactSelect from "react-select";
 import { render } from "react-dom";
-
 export default function UserForm() {
   const { control, handleSubmit, reset, setValue } = useForm({
     defaultValues: {
@@ -12,7 +11,10 @@ export default function UserForm() {
       email: "",
       password: "",
       hobby: "",
-      gender: "",
+      // gender: "",
+      usertype: "",
+      phonenumber: "",
+      dob: "",
     },
   });
   const inputHandler = (data) => {
@@ -79,10 +81,42 @@ export default function UserForm() {
                 />
               )}
             />
+
+            <label>User Type</label>
             <Controller
-              name="userType"
+              name="usertype"
               control={control}
-              render={({ field }) => <ReactSelect {...field} />}
+              render={({ field }) => (
+                <ReactSelect
+                  {...field}
+                  onChange={(selectedOptions) => {
+                    setValue("usertype", selectedOptions.value);
+                  }}
+                  value={field?.value?.map?.((val) => ({
+                    value: val,
+                    label: val,
+                  }))}
+                  options={[
+                    { value: "admin", label: "Admin" },
+                    { value: "user", label: "User" },
+                  ]}
+                />
+              )}
+            />
+
+            <label>Phone Number</label>
+            <Controller
+              name="phonenumber"
+              control={control}
+              render={({ field }) => <Input label="Phone Number" max={10}  {...field} />}
+            />
+            <label>Date Of Birth</label>
+            <Controller
+              name="dob"
+              control={control}
+              render={({ field }) => (
+                <Input type="date" label="DOB" {...field} />
+              )}
             />
 
             {/* <div className="flex flex-col justify-start items-start w-full">

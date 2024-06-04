@@ -14,10 +14,19 @@ const ageSlice = createSlice({
       state.age = 0;
     },
     multiplecount: (state, action) => {
-        state.age = state.age*15;
-      },
+      state.age = state.age * 15;
+    },
+    userInput: (state, action) => {
+      state.age += +action.payload;
+    },
   },
 });
 
 export default ageSlice.reducer;
-export const { incrementcount, decrementcount, reset,multiplecount } = ageSlice.actions;
+export const {
+  incrementcount,
+  decrementcount,
+  reset,
+  multiplecount,
+  userInput,
+} = ageSlice.actions;

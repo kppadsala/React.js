@@ -16,7 +16,13 @@ const amountSlice = createSlice({
     multipleamount: (state, action) => {
       state.amount = state.amount*15;
     },
+    
   },
+  extraReducers:(builder)=>{
+builder.addCase("age/userInput",(state,action)=>{
+state.amount++;
+})
+  }
 });
 export default amountSlice.reducer;
 export const { incrementamount, decrementamount, reset, multipleamount } =
