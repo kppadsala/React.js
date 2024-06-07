@@ -17,15 +17,15 @@ function App() {
       {/* ===Counter==== */}
       {/* <AppRedux/> */}
       {/* ===Amount==== */}
-{/* <AppRedux/> */}
+      {/* <AppRedux/> */}
       {/* ===Marks==== */}
-{/* <AppRedux/> */}
-{/* <AppRedux/> */}
-{/* <AppRedux/> */}
+      {/* <AppRedux/> */}
+      {/* <AppRedux/> */}
+      {/* <AppRedux/> */}
 
-{/*====== crud=== */}
-<AppRedux/>
-{/*====== crud=== */}
+      {/*====== crud=== */}
+      <AppRedux/>
+      {/*====== crud=== */}
 
       {/* <UserForm/> */}
     </div>

@@ -3,10 +3,12 @@ import React, { useState } from "react";
 import { Button, Input } from "reactstrap";
 import TableCom from "./TableCom";
 import { useDispatch, useSelector } from "react-redux";
-import { addTask, deleteTask } from "./Redux/createSlice";
+import { addTask, deleteTask, updateTask } from "./Redux/createSlice";
 
 export default function InputDisplay() {
   let [task, setTask] = useState("");
+  let [index, setIndex] = useState(null);
+  let [updateMode, setUpdateMode] = useState(false);
 
   const dispatch = useDispatch();
 
@@ -19,17 +21,26 @@ export default function InputDisplay() {
       addData();
     }
   };
-  let data= useSelector((store)=>{
-    return store.crudSlice
-})
-console.log("🚀 ~ file: TableCom.jsx:7 ~ data ~ data:", data);
+  let data = useSelector((store) => {
+    return store.crudSlice;
+  });
+  console.log("🚀 ~ file: TableCom.jsx:7 ~ data ~ data:", data);
 
- const deleteHandler=(index) => {
-       console.log("🚀 ~ file: InputDisplay.jsx:28 ~ deleteHandler ~ index:", index)
-       let filterData=data.task.filter((e,i)=> i !== index)
-       console.log("🚀 ~ file: InputDisplay.jsx:30 ~ deleteHandler ~ filterData:", filterData)
-       dispatch(deleteTask(filterData))
-    }
+  const deleteHandler = (index) => {
+    dispatch(deleteTask(index));
+  };
+
+  const updateHandler = (e,i) => {
+    setTask(e);
+    setUpdateMode(true);
+    setIndex(i);
+  };
+  
+  const updateData = () => {
+    let data={index:index , newData:task};
+    dispatch(updateTask(data));
+
+  };
   return (
     <div className="flex justify-center w-full flex-col items-center">
       <div className="flex justify-center p-3 w-full">
@@ -39,11 +50,17 @@ console.log("🚀 ~ file: TableCom.jsx:7 ~ data ~ data:", data);
           onChange={(e) => setTask(e?.target?.value)}
           onKeyPress={handleEnter}
         />
-        <Button onClick={() => addData()} >
-          <Plus />
-        </Button>
+        {updateMode ? (
+          <Button onClick={() => updateData()}>Update</Button>
+        ) : (
+          <Button onClick={() => addData()}><Plus /></Button>
+        )}
       </div>
-      <TableCom deleteHandler={deleteHandler} data={data}/>
+      <TableCom
+        deleteHandler={deleteHandler}
+        data={data}
+        updateHandler={updateHandler}
+      />
     </div>
   );
 }

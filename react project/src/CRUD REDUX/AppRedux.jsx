@@ -5,7 +5,7 @@ import { Provider } from "react-redux";
 
 export default function AppRedux() {
   return (
-    <div>
+    <div> 
       <Provider store={store}>
         <Home />
       </Provider>

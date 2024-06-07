@@ -1,28 +1,58 @@
-import React from "react";
-import { Button, Input, Radio } from "@material-tailwind/react";
+import React, { useEffect, useState } from "react";
+import { Button, Input } from "@material-tailwind/react";
 import { EyeOff } from "lucide-react";
 import { Controller, useForm } from "react-hook-form";
 import ReactSelect from "react-select";
 import { render } from "react-dom";
+import { Table } from "reactstrap";
+
 export default function UserForm() {
-  const { control, handleSubmit, reset, setValue } = useForm({
-    defaultValues: {
-      name: "",
-      email: "",
-      password: "",
-      hobby: "",
-      // gender: "",
-      usertype: "",
-      phonenumber: "",
-      dob: "",
-    },
+  const [users, setUsers] = useState({
+    name: "",
+    email: "",
+    password: "",
+    hobby: "",
+    // gender: "",
+    usertype: "",
+    phonenumber: "",
+    dob: "",
   });
+  const { control, handleSubmit, reset, setValue } = useForm({
+    defaultValues: users,
+  });
+  const [usersArr, setUserArr] = useState([]);
+  const [index, setIndex] = useState(null);
+  users;
+  useEffect(() => {
+    const storedUsers = JSON.parse(localStorage.getItem("users")) || [];
+    setUserArr(storedUsers);
+  }, []);
+
   const inputHandler = (data) => {
-    console.log("==>data:", data);
-    reset();
+        setUserArr([...usersArr, data]);
+        setUsers("");
+        localStorage.setItem("userData", JSON.stringify(data));
+        console.log("==>data:", data);
+        reset();
   };
+
+  const handleDelete = (index) => {
+    let filterData = usersArr.filter((e, i) => i !== index);
+    setUserArr(filterData);
+    localStorage.setItem("users", JSON.stringify(filterData));
+  };
+
+  const updateHandle = (data, index) => {
+    setUsers(data);
+    reset(data);
+    setIndex(index);
+    console.log("🚀 ~ file: UserForm.jsx:39 ~ updateHandle ~ data:", data);
+  };
+
+  const upData = () => {};
+
   return (
-    <div className="flex justify-center items-center ">
+    <div className="flex justify-center items-center flex-col  gap-4">
       <div className="border-[2px] border-black px-5 py-3 w-[50%] ">
         <form onSubmit={handleSubmit(inputHandler)}>
           <div className="flex  flex-col  gap-3">
@@ -108,7 +138,9 @@ export default function UserForm() {
             <Controller
               name="phonenumber"
               control={control}
-              render={({ field }) => <Input label="Phone Number" max={10}  {...field} />}
+              render={({ field }) => (
+                <Input label="Phone Number" max={10} {...field} />
+              )}
             />
             <label>Date Of Birth</label>
             <Controller
@@ -148,8 +180,58 @@ export default function UserForm() {
             </div> */}
 
             <Button type="submit">Add Product</Button>
+            <Button onClick={() => upData()}>Update Product</Button>
           </div>
         </form>
+      </div>
+      <h3>Users List</h3>
+      <div className="mx-5">
+        <Table bordered>
+          <thead>
+            <tr>
+              <th>Sr.No</th>
+              <th> Name</th>
+              <th> Email</th>
+              <th> Password</th>
+              <th> Hobby</th>
+              <th> UserType</th>
+              <th> PhoneNumber</th>
+              <th> DOB</th>
+              <th></th>
+            </tr>
+          </thead>
+          <tbody>
+            {usersArr?.map?.((e, i) => (
+              <tr key={i}>
+                <td>{i + 1}</td>
+                <td>{e.name}</td>
+                <td>{e.email}</td>
+                <td>{e.password}</td>
+                <td className="grid ">{e.hobby}</td>
+                <td>{e.usertype}</td>
+                <td>{e.phonenumber}</td>
+                <td>{e.dob}</td>
+
+                <td className="flex gap-4">
+                  <Button
+                    variant="contained"
+                    color="secondary"
+                    onClick={() => handleDelete(i)}
+                  >
+                    Delete
+                  </Button>
+                  <Button
+                    variant="contained"
+                    color="primary"
+                    onClick={() => updateHandle(e, i)}
+                  >
+                    Update
+                  </Button>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </Table>
       </div>
     </div>
   );

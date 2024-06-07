@@ -10,11 +10,17 @@ const crudSlice = createSlice({
     },
     deleteTask: (state, action) => {
         console.log("🚀 ~ file: createSlice.js:12 ~ action:", action)
-        state.task.filter(item => item !== action.payload)
-      state.task.push(action.payload);
+       let filterData=state.task.filter((e,i)=> i !== action.payload)
+
+       state.task = filterData
+      console.log("🚀 ~ file: createSlice.js:14 ~ filterData:", filterData)
 
     },
+    updateTask:(state,action) => {
+    console.log("🚀 ~ file: createSlice.js:20 ~ action:", action.payload)
+    state.task.splice(action.payload.index,1,action.payload.newData)
+    }
   },
 });
 export default crudSlice.reducer;
-export const { addTask,deleteTask } = crudSlice.actions;
+export const { addTask,deleteTask ,updateTask} = crudSlice.actions;
