@@ -25,7 +25,7 @@ export default function Router() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/jewellery/:type" 
-            element={<UserProtected Component={<JewelleryPage />}/>}/>
+            element={<JewelleryPage />}/>
 
             <Route
               path="/profilePage"
@@ -43,7 +43,7 @@ export default function Router() {
               path="/register"
               element={<LoginProtected Component={<Register />} />}
             />
-            <Route path="/cartpage"  element={<UserProtected Component={<CartPage />}/>}/>
+            <Route path="/cartpage"  element={<ProtectRouter Component={<CartPage />}/>}/>
 
             <Route
               path="/product"

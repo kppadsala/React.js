@@ -5,15 +5,34 @@ import FilterModal from "../../../Modal/FilterModal";
 import { getAllProduct } from "../../../Api/Product";
 import { useParams } from "react-router-dom";
 import { CiHeart } from "react-icons/ci";
+import { APIinstance } from "../../../Api/axiosConfig";
+import { useCookies } from "react-cookie";
+import { useDispatch } from "react-redux";
+import { fetchCartApi } from "../../../../Redux/Cart/cartSlice";
 
 export default function JewelleryPage() {
   const [modalOpen, setModalOpen] = useState(false);
   let [allProduct, setAllProduct] = useState([]);
   let [count, setCount] = useState(0);
   let [filter, setFilter] = useState({});
+const [Cookie]=useCookies()
+const dispatch=useDispatch()
 
+useEffect(()=>{
+dispatch(fetchCartApi(Cookie.token))
+},[]);
   const toggleModal = () => {
     setModalOpen(!modalOpen);
+  };
+  const addToCartHandler = (id) => {
+    // console.log("-----------  id----------->", id);
+    APIinstance.post(`/cart/create/${id}`, null, {
+      headers: {
+        authorization: "bearer " + Cookie.token,
+      },
+    }).then((res) => {
+      dispatch(fetchCartApi(Cookie.token));
+    });
   };
 
   let data = useParams();
@@ -29,7 +48,7 @@ export default function JewelleryPage() {
   useEffect(() => {
     async function getAll(params) {
       let { data, error } = await getAllProduct(filter);
-      console.log("-----------  data----------->", data.count);
+      // console.log("-----------  data----------->", data.count);
       setAllProduct(data.data);
       setCount(data.count);
     }
@@ -93,8 +112,9 @@ export default function JewelleryPage() {
                   )}
                 </p>
                 </span>
-                <button className=" border-[1px] border-black mt-2 px-3.5 font-com text-lg  capitalize text-black shadow hover:shadow-black/100 ">
-                  Add To Card
+                <button className=" border-[1px] border-black mt-2 px-3.5 font-com text-lg  capitalize text-black shadow hover:shadow-black/100 " 
+                onClick={()=>addToCartHandler(item._id)}>
+                  Add To Cart
                 </button>
               </div>
             </div>

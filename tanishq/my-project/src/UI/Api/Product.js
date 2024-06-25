@@ -18,7 +18,7 @@ export const getAllProduct = async (filter) => {
     let response = await APIinstance.get("/product/getAll", {
       params: filter,
     });
-    console.log("response:", response);
+    // console.log("response:", response);
     return { error: null, data: response.data };
   } catch (error) {
     console.log("error:", error);
@@ -57,7 +57,7 @@ export const deleteProduct = async (id, token) => {
 
 // =================Crete Product API===========================
 export const createProduct = async (data) => {
-  console.log("🚀 ~ file: Product.js:47 ~ createProduct ~ data:", data)
+  // console.log("🚀 ~ file: Product.js:47 ~ createProduct ~ data:", data)
   try {
     let response = await APIinstance.post("/product/create",data);
     console.log("Createe Product", response)
