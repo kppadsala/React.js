@@ -1,5 +1,6 @@
+import AppRedux from "./API CRUD/AppRedux";
 import "./App.css";
-import AppRedux from "./CRUD REDUX/AppRedux";
+// import AppRedux from "./CRUD REDUX/AppRedux";
 // import AppRedux from "./ExtraRedusers Redux/AppRedux";
 // import AppRedux from "./Redux3/AppRedux";
 // import AppRedux from "./Redux2/AppRedux";
@@ -24,9 +25,9 @@ function App() {
       {/* <AppRedux/> */}
 
       {/*====== crud=== */}
-      <AppRedux/>
+      {/* <AppRedux/> */}
       {/*====== crud=== */}
-
+      <AppRedux />
       {/* <UserForm/> */}
     </div>
   );
