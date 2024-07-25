@@ -3,6 +3,7 @@ import { ToastContainer } from "react-toastify";
 // import RegisterApi from "./API Practies/RegisterApi";
 import "./App.css";
 import RouterCom from "./Assingment/Redux Pactical/DarkWebsite/Router";
+import Redux from "./Assesment/Redux";
 // import Router from "./RouterPacties/Router";
 // import SearchPracties from "./SearchPracties/SearchPracties";
 // import UserForm1 from "./UserForm/UserForm1";
@@ -39,11 +40,12 @@ function App() {
       {/* <AppRedux/> */}
       {/*====== crud=== */}
       {/* <AppRedux /> */}
-      {/* <MultipleCrud/> */}
+      {/* <MultipleCrud/> */} 
       {/* <QrGene/> */}
       {/* <UserForm/> */}
       {/* <MainStore/> */}
-      <RouterCom/>
+      {/* <RouterCom/> =============>ASSINGMENT */}
+      {/* <Redux/>   ==============>ASSESMENT */} 
       {/* <RegisterApi/> */}
       {/* <LoginApi/> */}
       {/* <ProductApi/> */}
