@@ -19,19 +19,19 @@ export default function RegisterApi() {
     axios({
       method: "post",
       url: "http://localhost:9999/user/signup",
-      data:  data ,
+      data: data,
     })
       .then((res) => {
         console.log("=-=- Response Data", res.data.data);
         console.log("=-=- Response Status", res.status);
         toast.success("Register SuccessFully");
-localStorage.setItem("user",JSON.stringify(res?.data?.data) )
+        localStorage.setItem("user", JSON.stringify(res?.data?.data));
       })
       .catch((error) => {
         console.log("=-=-Error", error);
         toast.error("Somthing Went Wrong");
       });
-      console.log("=====>",data);
+    console.log("=====>", data);
   };
 
   return (

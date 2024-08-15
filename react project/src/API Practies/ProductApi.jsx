@@ -9,15 +9,18 @@ export default function ProductApi() {
   const [data, setData] = useState(null);
   const [refresh, setRefresh] = useState(true);
   const [openModal, setOpenModal] = useState(false);
+  const [updateMode, setUpdateMode] = useState(false);
+  const [product, setProduct] = useState([]);
 
   const refetch = () => setRefresh(!refresh);
 
   useEffect(() => {
     axios({
       method: "get",
-      url: "http://localhost:9999/product/getAll",
+      url: " http://localhost:9999/product/getAll",
     })
       .then((res) => {
+        console.log("🚀 ~ .then ~ res:", res.data)
         setData(res?.data?.data);
       })
       .catch((err) => {
@@ -39,13 +42,24 @@ export default function ProductApi() {
       });
   };
 
+  const UpdateHandler = (product) => {
+    console.log("🚀 ~ UpdateHandler ~ product:", product);
+    setProduct(product);
+    setOpenModal(true);
+    setUpdateMode(true);
+  };
+
+
   return (
     <div>
       <div className="flex justify-end px-5 m-4">
         <UpdateProduct
+        updateProduct={product}
           onClick={() => setOpenModal(false)}
           openModal={openModal}
           setOpenModal={setOpenModal}
+          updateMode={updateMode}
+          UpdateHandler={UpdateHandler}
         />
       </div>
       <div style={{ margin: "10px 50px", border: "1px solid gray" }}>
@@ -73,7 +87,7 @@ export default function ProductApi() {
                 <td className="w-[10%] capitalize">{e?.gender}</td>
                 <td className="w-[10%]">{e?.price}</td>
                 <td className="flex gap-3">
-                  <Button onClick={() => setOpenModal(true)}>Edit</Button>
+                  <Button onClick={() => UpdateHandler(e)}>Edit</Button>
                   <Button onClick={() => DeleteHandler(e)}>Delete</Button>
                 </td>
               </tr>

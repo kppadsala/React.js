@@ -1,3 +1,4 @@
+import axios from "axios";
 import {
   Button,
   Checkbox,
@@ -6,32 +7,70 @@ import {
   Radio,
   TextInput,
 } from "flowbite-react";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import { Controller, useForm } from "react-hook-form";
 import Select from "react-select";
+import { toast } from "react-toastify";
 
 const options = [
-  { value: "chocolate", label: "Chocolate" },
-  { value: "strawberry", label: "Strawberry" },
+  { value: "platinam", label: "platinam" },
+  { value: "chocolate", label: "chocolate" },
+  { value: "18Karat", label: "18Karat" },
   { value: "vanilla", label: "Vanilla" },
 ];
 const sizeData = ["1.5", "2", "3", "4"];
 
-export default function UpdateProduct({ openModal, setOpenModal }) {
-  const { control, handleSubmit,setValue ,reset} = useForm({
+export default function UpdateProduct({
+  openModal,
+  setOpenModal,
+  updateProduct,
+  UpdateHandler
+}) {
+  let [product, setProduct] = useState("");
+  const [refresh, setRefresh] = useState(true);
+  const refetch = () => setRefresh(!refresh);
+
+  const { control, handleSubmit, setValue, getValues, reset } = useForm({
     defaultValues: {
       title: "",
       description: "",
       brand: "",
       gender: "",
-      category:""
+      category: "",
+      price: "",
+      discount: "",
+      thumbnail: "",
+      size: [],
     },
   });
+
+  useEffect(() => {
+    console.log("--->updateProductupdateProduct")
+    reset(updateProduct);
+  }, [updateProduct]);
+    console.log("🚀 ~ useEffect ~ updateProduct:", updateProduct)
+
   const submitHandler = (data) => {
-    console.log(data);
+    console.log("🚀 ~ submitHandler ~ data:", data);
+    setProduct(data);
+    axios({
+      method: "post",
+      url: "http://localhost:9999/product/create/",
+      data: data,
+    })
+      .then((res) => {
+        console.log("🚀 ~ AddHandler ~ res:", res.data.data);
+        toast.success("Product Added Successfully");
+      })
+      .catch((err) => {
+        toast.error("Product Not Added");
+        console.log("Error:", err);
+      });
+    refetch();
     setOpenModal(false);
-    reset()
+    reset();
   };
+
   return (
     <div>
       <Button onClick={() => setOpenModal(true)}>Add Product</Button>
@@ -54,14 +93,14 @@ export default function UpdateProduct({ openModal, setOpenModal }) {
                 name="description"
                 control={control}
                 render={({ field }) => (
-                  <TextInput type="text" placeholder="description" {...field} />
+                  <TextInput type="text" placeholder="Description" {...field} />
                 )}
               />
               <Controller
                 name="brand"
                 control={control}
                 render={({ field }) => (
-                  <TextInput type="text" placeholder="brand" {...field} />
+                  <TextInput type="text" placeholder="Brand" {...field} />
                 )}
               />
 
@@ -72,23 +111,21 @@ export default function UpdateProduct({ openModal, setOpenModal }) {
                   name="gender"
                   onChange={() => setValue("gender", "male")}
                 />
-                <label >Male</label>
+                <label>Male</label>
                 <Radio
-                  id="male"
+                  id="female"
                   value="female"
                   name="gender"
                   onChange={() => setValue("gender", "female")}
                 />
-                <label >FeMale</label>
-
+                <label>Female</label>
                 <Radio
-                  id="male"
+                  id="other"
                   value="other"
                   name="gender"
                   onChange={() => setValue("gender", "other")}
                 />
-                <label >Other</label>
-
+                <label>Other</label>
               </span>
               <Controller
                 name="category"
@@ -97,21 +134,40 @@ export default function UpdateProduct({ openModal, setOpenModal }) {
                   <Select
                     isMulti
                     options={options}
-                    value={options.filter(option =>
+                    value={options.filter((option) =>
                       field.value.includes(option.value)
                     )}
                     onChange={(selectedOptions) => {
-                      field.onChange(selectedOptions.map(option => option.value));
+                      field.onChange(
+                        selectedOptions.map((option) => option.value)
+                      );
                     }}
                   />
                 )}
               />
-              
-              <TextInput id="email1" type="number" placeholder="Price" />
-              <TextInput id="email1" type="number" placeholder="Discount" />
-              <TextInput id="email1" type="text" placeholder="Thumnails" />
+              <Controller
+                name="price"
+                control={control}
+                render={({ field }) => (
+                  <TextInput type="number" placeholder="Price" {...field} />
+                )}
+              />
+              <Controller
+                name="discount"
+                control={control}
+                render={({ field }) => (
+                  <TextInput type="number" placeholder="Discount" {...field} />
+                )}
+              />
+              <Controller
+                name="thumbnail"
+                control={control}
+                render={({ field }) => (
+                  <TextInput type="text" placeholder="Thumbnail" {...field} />
+                )}
+              />
 
-              <label>size</label>
+              <label>Size</label>
               <div className="flex justify-start gap-3">
                 {sizeData.map((size) => (
                   <div className="flex gap-2 items-center" key={size}>
@@ -135,7 +191,9 @@ export default function UpdateProduct({ openModal, setOpenModal }) {
                   </div>
                 ))}
               </div>
+
               <Button type="submit">Add Product</Button>
+              <Button onClick={()=>UpdateHandler()}>Update Product</Button>
             </form>
           </div>
         </Modal.Body>
@@ -143,3 +201,19 @@ export default function UpdateProduct({ openModal, setOpenModal }) {
     </div>
   );
 }
+
+// const AddHandler=(e)=>{
+// e.preventDefault()
+// axios({
+//   method:"post",
+//   url:"http://localhost:9999/product/create/",
+//   data:product
+// }).then((res) => {
+//   console.log("🚀 ~ AddHandler ~ res:", res)
+//   toast.success("Product Added Successfully");
+
+// }).catch(()=>{
+//   toast.error("Product Added Successfully");
+//   console.log("Error:", err);
+
+// })

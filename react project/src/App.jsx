@@ -2,12 +2,14 @@
 import { ToastContainer } from "react-toastify";
 // import RegisterApi from "./API Practies/RegisterApi";
 import "./App.css";
-import RouterCom from "./Assingment/Redux Pactical/DarkWebsite/Router";
-import Redux from "./Assesment/Redux";
+// import RouterCom from "./Assingment/Redux Pactical/DarkWebsite/Router";
+// import Redux from "./Assesment/Redux";
 // import Router from "./RouterPacties/Router";
 // import SearchPracties from "./SearchPracties/SearchPracties";
 // import UserForm1 from "./UserForm/UserForm1";
-// import LoginApi from "./API Practies/LoginApi";
+import LoginApi from "./API Practies/LoginApi";
+// import RegisterApiSimple from "./API Practies/RegisterApiSimple";
+// import AppRedux from "./CRUD REDUX1/AppRedux";
 // import MultipleCrud from "./Multiple Crud/MultipleCrud";
 // import QrGene from "./QrCode Generated/QrGene";
 // import AppRedux from "./CRUD REDUX/AppRedux";
@@ -40,18 +42,20 @@ function App() {
       {/* <AppRedux/> */}
       {/*====== crud=== */}
       {/* <AppRedux /> */}
-      {/* <MultipleCrud/> */} 
+      {/* <MultipleCrud/>  */}
       {/* <QrGene/> */}
       {/* <UserForm/> */}
       {/* <MainStore/> */}
       {/* <RouterCom/> =============>ASSINGMENT */}
       {/* <Redux/>   ==============>ASSESMENT */} 
       {/* <RegisterApi/> */}
-      {/* <LoginApi/> */}
+      {/* <RegisterApiSimple/> */}
+      <LoginApi/>
       {/* <ProductApi/> */}
       {/* <Router/> */}
       {/* <SearchPracties/> */}
       {/* <UserForm1/> */}
+      {/* <AppRedux/> */}
       <ToastContainer/>
     </div>
   );
