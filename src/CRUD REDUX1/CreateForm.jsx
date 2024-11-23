@@ -1,17 +1,21 @@
 import { Button, Checkbox, Label, Radio, TextInput } from "flowbite-react";
 import React, { useState } from "react";
 import { useDispatch } from "react-redux";
+import { createUser } from "./Redux/userdetailsSlice";
 
 export default function CreateForm() {
     const[user,setUser]=useState();
     const dispatch=useDispatch() 
     const addData=(e)=>{
         setUser({...user, [e.target.name]: e.target.value})
-        console.log(" user==>", user)
+        // console.log(" user==>", user)
         
     }
-    const handleSubmit=()=>{
-        dispatch()
+    const handleSubmit=(e)=>{
+      e.preventDefault(); 
+      console.log("=-=->user",user);
+      dispatch(createUser(user))
+      
     }
   return (
     <div className=" mt-5   flex justify-center">

@@ -15,7 +15,7 @@ export default function InputDisplay() {
   const addData = () => {
     dispatch(addTask(task));
     setTask("");
-  };
+  }; 
   const handleEnter = (e) => {
     if (e.key === "Enter") {
       addData();

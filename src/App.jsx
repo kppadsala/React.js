@@ -1,13 +1,20 @@
 // import AppRedux from "./API CRUD/AppRedux";
 import { ToastContainer } from "react-toastify";
 // import RegisterApi from "./API Practies/RegisterApi";
+// import ProductApi from '../src/Moke Api Crud/productApi'
 import "./App.css";
+// import AppRedux from "./CrudReduxPractices/AppRedux";
+// import UserForm from "./Moke Api Crud/UserForm";
+// import UserApi from "./Moke Api Crud/UserApi";
+// import Main from "./Api crud gpt/Main";
 // import RouterCom from "./Assingment/Redux Pactical/DarkWebsite/Router";
 // import Redux from "./Assesment/Redux";
 // import Router from "./RouterPacties/Router";
 // import SearchPracties from "./SearchPracties/SearchPracties";
 // import UserForm1 from "./UserForm/UserForm1";
-import LoginApi from "./API Practies/LoginApi";
+// import MultipleCrud2 from "./Multiple Crud/MultipleCrud2";
+import MultipleCrud3 from "./Multiple Crud/MultipleCrud3";
+// import LoginApi from "./API Practies/LoginApi";
 // import RegisterApiSimple from "./API Practies/RegisterApiSimple";
 // import AppRedux from "./CRUD REDUX1/AppRedux";
 // import MultipleCrud from "./Multiple Crud/MultipleCrud";
@@ -39,10 +46,13 @@ function App() {
       {/* <AppRedux/> */}
 
       {/*====== crud=== */}
+      {/* <Main/> */}
       {/* <AppRedux/> */}
       {/*====== crud=== */}
       {/* <AppRedux /> */}
       {/* <MultipleCrud/>  */}
+      {/* <MultipleCrud2/> */}
+      <MultipleCrud3/>
       {/* <QrGene/> */}
       {/* <UserForm/> */}
       {/* <MainStore/> */}
@@ -50,12 +60,18 @@ function App() {
       {/* <Redux/>   ==============>ASSESMENT */} 
       {/* <RegisterApi/> */}
       {/* <RegisterApiSimple/> */}
-      <LoginApi/>
+      {/* <LoginApi/> */}
       {/* <ProductApi/> */}
       {/* <Router/> */}
       {/* <SearchPracties/> */}
       {/* <UserForm1/> */}
       {/* <AppRedux/> */}
+      {/* <AppRedux/> */}
+
+      {/* ==============MOKE API============ */}
+      {/* <UserApi/> */}
+      {/* <UserForm/> */}
+      {/* <ProductApi/>  */}
       <ToastContainer/>
     </div>
   );

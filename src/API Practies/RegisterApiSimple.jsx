@@ -22,8 +22,9 @@ export default function RegisterApiSimple() {
 
   const handleCheckBox = (e) => {
     const flag = e.target.checked;
+    
     const value = e.target.value;
-    console.log("🚀 ~ handleCheckBox ~ value:", value);
+    console.log(" ~ handleCheckBox ~ value:", value);
     if (flag) {
       setCheckValue([...checkValue, value]);
     } else {
