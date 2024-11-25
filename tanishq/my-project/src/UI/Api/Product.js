@@ -55,7 +55,7 @@ export const deleteProduct = async (id, token) => {
   }
 };
 
-// =================Crete Product API===========================
+// =================Create Product API===========================
 export const createProduct = async (data) => {
   // console.log("🚀 ~ file: Product.js:47 ~ createProduct ~ data:", data)
   try {
@@ -71,7 +71,7 @@ export const createProduct = async (data) => {
 export const updateProduct = async (data,id) => {
   try {
     let response = await APIinstance.put("/product/update/" + id,data);
-    console.log("Createe Product", response)
+    console.log("Create Product", response)
     return { error: null, data: response.data };
   } catch (error) {
     return { error: error, data: null };

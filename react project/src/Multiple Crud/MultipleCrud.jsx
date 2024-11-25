@@ -1,3 +1,4 @@
+import axios from "axios";
 import {
   Button,
   Checkbox,
@@ -264,3 +265,4 @@ export default function MultipleCrud() {
     </>
   );
 }
+

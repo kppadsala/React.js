@@ -1,5 +1,5 @@
 import axios from "axios";
-import { Button } from "flowbite-react";
+import { Button, TextInput } from "flowbite-react";
 import React, { useState, useEffect } from "react";
 import { toast } from "react-toastify";
 import { Table } from "reactstrap";
@@ -11,7 +11,6 @@ export default function ProductApi() {
   const [openModal, setOpenModal] = useState(false);
   const [updateMode, setUpdateMode] = useState(false);
   const [product, setProduct] = useState([]);
-
   const refetch = () => setRefresh(!refresh);
 
   useEffect(() => {
@@ -52,7 +51,8 @@ export default function ProductApi() {
 
   return (
     <div>
-      <div className="flex justify-end px-5 m-4">
+      <div className="flex justify-end gap-4 px-5 m-4"> 
+        <TextInput className="w-[75%]" placeholder="Search" onChange={(e)=>setSearch(e.target.value)}/>
         <UpdateProduct
         updateProduct={product}
           onClick={() => setOpenModal(false)}

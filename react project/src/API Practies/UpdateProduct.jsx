@@ -45,10 +45,10 @@ export default function UpdateProduct({
   });
 
   useEffect(() => {
-    console.log("--->updateProductupdateProduct")
+    console.log("--->updateProduct")
     reset(updateProduct);
   }, [updateProduct]);
-    console.log("🚀 ~ useEffect ~ updateProduct:", updateProduct)
+
 
   const submitHandler = (data) => {
     console.log("🚀 ~ submitHandler ~ data:", data);
@@ -134,8 +134,8 @@ export default function UpdateProduct({
                   <Select
                     isMulti
                     options={options}
-                    value={options.filter((option) =>
-                      field.value.includes(option.value)
+                    value={options?.filter?.((option) =>
+                      field.value?.includes?.(option.value)
                     )}
                     onChange={(selectedOptions) => {
                       field.onChange(
