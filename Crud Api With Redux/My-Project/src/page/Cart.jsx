@@ -9,6 +9,9 @@ export default function Cart() {
 
   const removeToCartHandler = (item) => {
     dispatch(removeProductCart({ id: item.id })); 
+           toast.success("Product Added In Cart SuccesFully")
+       
+    
   };
 
   return (
