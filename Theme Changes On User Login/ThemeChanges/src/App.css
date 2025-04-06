@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* index.css or global CSS file */
+:root {
+    --color-admin1Color: #030712;
+    --color-admin2Color: #2B7FFF;
+    --color-admin3Color: #b40777;
+    --color-admin4Color: #ae0505;
+    --color-admin5Color: #494e5e;
+
+  }
+  
